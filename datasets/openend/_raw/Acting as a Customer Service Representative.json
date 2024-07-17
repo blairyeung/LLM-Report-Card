@@ -1,0 +1,602 @@
+{
+    "1": {
+        "passage": "Customer: 'I received my order today, but one of the items is damaged. I need a replacement as soon as possible because it's a gift for my friend's birthday next week.'",
+        "system_prompt": "You are a customer service representative for an online retail store.",
+        "query": "How would you handle this situation to ensure the customer receives a replacement in time for their friend's birthday?",
+        "tldr": "Handle a damaged item replacement request."
+    },
+    "2": {
+        "passage": "Customer: 'I was charged twice for my recent purchase. I need this resolved immediately as it has caused an overdraft on my account.'",
+        "system_prompt": "You are a customer service representative for a financial services company.",
+        "query": "Explain the steps you would take to resolve the double charge and address the customer's overdraft issue.",
+        "tldr": "Resolve a double charge and overdraft issue."
+    },
+    "3": {
+        "passage": "Customer: 'I have been waiting for my refund for over two weeks now. Every time I call, I get a different answer. This is very frustrating.'",
+        "system_prompt": "You are a customer service representative for an e-commerce platform.",
+        "query": "How would you address the customer's frustration and expedite the refund process?",
+        "tldr": "Address frustration and expedite a refund."
+    },
+    "4": {
+        "passage": "Customer: 'I am interested in your premium membership plan, but I need more information about the benefits and costs before I decide.'",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "Provide a detailed explanation of the premium membership benefits and costs to help the customer make an informed decision.",
+        "tldr": "Explain premium membership benefits and costs."
+    },
+    "5": {
+        "passage": "Customer: 'I received an email saying my account has been suspended due to suspicious activity. I need to know what happened and how to reactivate my account.'",
+        "system_prompt": "You are a customer service representative for a tech company.",
+        "query": "Describe the steps you would take to investigate the suspicious activity and assist the customer in reactivating their account.",
+        "tldr": "Investigate suspicious activity and reactivate an account."
+    },
+    "6": {
+        "passage": "Customer: 'I am having trouble logging into my account. I keep getting an error message saying my password is incorrect, but I am sure it's right.'",
+        "system_prompt": "You are a customer service representative for an online service provider.",
+        "query": "Guide the customer through troubleshooting steps to resolve the login issue.",
+        "tldr": "Troubleshoot a login issue."
+    },
+    "7": {
+        "passage": "Customer: 'I want to cancel my subscription, but I am not sure how to do it. Can you help me with the cancellation process?'",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "Explain the cancellation process to the customer and ensure they understand any potential consequences or fees.",
+        "tldr": "Guide a customer through the subscription cancellation process."
+    },
+    "8": {
+        "passage": "Customer: 'I ordered a product a week ago, and it still hasn't shipped. I need it urgently for an upcoming event.'",
+        "system_prompt": "You are a customer service representative for an online retail store.",
+        "query": "How would you handle the situation to ensure the customer receives their order in time for the event?",
+        "tldr": "Handle a delayed shipment for an urgent order."
+    },
+    "9": {
+        "passage": "Customer: 'I am not satisfied with the quality of the product I received. It doesn't match the description on your website.'",
+        "system_prompt": "You are a customer service representative for an online retail store.",
+        "query": "Address the customer's dissatisfaction and provide a solution that aligns with company policies.",
+        "tldr": "Address dissatisfaction with product quality."
+    },
+    "10": {
+        "passage": "Customer: 'I have a question about the warranty on a product I purchased from your store. Can you provide me with the details?'",
+        "system_prompt": "You are a customer service representative for an electronics store.",
+        "query": "Provide the customer with detailed information about the product warranty, including coverage and duration.",
+        "tldr": "Provide detailed warranty information."
+    },
+    "11": {
+        "passage": "A customer has contacted your company because they received the wrong item in their order. They ordered a blue jacket, but received a red one instead. The customer is upset because they needed the jacket for an event this weekend. They are asking for a replacement to be sent immediately and want to know if there is any way to expedite the shipping process.",
+        "system_prompt": "You are a customer service representative for an online clothing retailer.",
+        "query": "How would you handle the customer's request for a replacement and expedited shipping? Provide a detailed response that addresses the customer's concerns and outlines the steps you will take.",
+        "tldr": "Handle a wrong item replacement and expedite shipping."
+    },
+    "12": {
+        "passage": "A customer has been experiencing issues with their internet service for the past week. They have called multiple times and spoken to different representatives, but the problem has not been resolved. The customer is very frustrated and is considering switching to a different provider. They are asking for a permanent solution to their connectivity issues.",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "How would you address the customer's ongoing connectivity issues and their frustration with the lack of resolution? Provide a detailed response that includes steps to troubleshoot and resolve the issue.",
+        "tldr": "Resolve ongoing internet connectivity issues and address customer frustration."
+    },
+    "13": {
+        "passage": "A customer has contacted your company because they were charged for a subscription service that they did not sign up for. They are requesting a refund and want to know how this charge occurred. The customer is concerned about the security of their account and wants to ensure that this does not happen again.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you handle the customer's request for a refund and their concerns about account security? Provide a detailed response that addresses the customer's concerns and outlines the steps you will take to prevent future unauthorized charges.",
+        "tldr": "Handle unauthorized subscription charge and address account security concerns."
+    },
+    "14": {
+        "passage": "A customer has received a damaged product and is requesting a refund. However, the product was purchased over six months ago, and the company's return policy states that refunds are only available within 30 days of purchase. The customer is upset and insists that they should be eligible for a refund due to the product's poor quality.",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "How would you handle the customer's request for a refund despite the company's return policy? Provide a detailed response that addresses the customer's concerns and explains the company's policy.",
+        "tldr": "Handle a refund request outside the return policy."
+    },
+    "15": {
+        "passage": "A customer has contacted your company because they are having trouble accessing their account. They have tried resetting their password multiple times, but they are still unable to log in. The customer is frustrated and needs access to their account urgently for an important transaction.",
+        "system_prompt": "You are a customer service representative for an online banking service.",
+        "query": "How would you assist the customer in regaining access to their account? Provide a detailed response that includes steps to troubleshoot the login issue and ensure the customer's account security.",
+        "tldr": "Assist with urgent account access issue."
+    },
+    "16": {
+        "passage": "A customer has contacted your company because they are unhappy with the recent changes to your service. They feel that the new features are not useful and that the service has become more expensive without providing additional value. The customer is considering canceling their subscription and wants to know if there are any alternatives or discounts available.",
+        "system_prompt": "You are a customer service representative for a software-as-a-service (SaaS) company.",
+        "query": "How would you address the customer's concerns about the recent changes to the service and their request for alternatives or discounts? Provide a detailed response that includes options for retaining the customer.",
+        "tldr": "Address dissatisfaction with service changes and offer retention options."
+    },
+    "17": {
+        "passage": "A customer has contacted your company because they have not received their order, which was supposed to arrive a week ago. They have checked the tracking information, but it has not been updated for several days. The customer is concerned that their package is lost and wants to know what steps can be taken to locate it or provide a replacement.",
+        "system_prompt": "You are a customer service representative for an online retailer.",
+        "query": "How would you handle the customer's concern about their missing order? Provide a detailed response that includes steps to locate the package or provide a replacement.",
+        "tldr": "Handle a missing order and provide resolution options."
+    },
+    "18": {
+        "passage": "A customer has contacted your company because they are having trouble using a new feature of your product. They have read the user manual and watched the tutorial videos, but they are still unable to get the feature to work. The customer is frustrated and needs assistance to understand how to use the feature correctly.",
+        "system_prompt": "You are a customer service representative for a tech company.",
+        "query": "How would you assist the customer in using the new feature of your product? Provide a detailed response that includes steps to troubleshoot and guide the customer through the process.",
+        "tldr": "Assist with troubleshooting and using a new product feature."
+    },
+    "19": {
+        "passage": "A customer has contacted your company because they are unhappy with the customer service they received during a previous interaction. They feel that their concerns were not taken seriously and that the representative was unhelpful. The customer is asking for an apology and wants to know what steps your company will take to improve customer service in the future.",
+        "system_prompt": "You are a customer service representative for a telecommunications company.",
+        "query": "How would you address the customer's dissatisfaction with the previous customer service interaction? Provide a detailed response that includes an apology and steps your company will take to improve customer service.",
+        "tldr": "Address dissatisfaction with previous customer service interaction and provide an apology."
+    },
+    "20": {
+        "passage": "A customer has contacted your company because they are interested in purchasing a product, but they have some questions about its features and compatibility with other products they own. The customer wants detailed information to ensure that the product will meet their needs before making a purchase.",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "How would you provide the customer with detailed information about the product's features and compatibility? Provide a detailed response that addresses the customer's questions and helps them make an informed decision.",
+        "tldr": "Provide detailed product information and compatibility guidance."
+    },
+    "21": {
+        "passage": "Customer: Hi, I recently purchased a laptop from your store, but it's not turning on. I've tried charging it and pressing the power button, but nothing happens. I'm really frustrated because I need it for work. Can you help me?",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "Provide a step-by-step troubleshooting guide for the customer and offer a solution if the issue persists.",
+        "tldr": "Guide customer through laptop troubleshooting and offer a solution."
+    },
+    "22": {
+        "passage": "Customer: I ordered a dress for my daughter's wedding, but it arrived in the wrong size. The wedding is in two days, and I need the correct size urgently. What can you do to help?",
+        "system_prompt": "You are a customer service representative for an online clothing retailer.",
+        "query": "Explain the steps you will take to resolve the issue and ensure the customer receives the correct size in time for the wedding.",
+        "tldr": "Resolve urgent wrong-size dress issue for a wedding."
+    },
+    "23": {
+        "passage": "Customer: I signed up for your premium membership, but I don't see any of the benefits on my account. I've been charged for it, and I'm not happy with the service so far. Can you fix this?",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "Investigate the issue with the customer's premium membership and provide a resolution to ensure they receive the benefits they paid for.",
+        "tldr": "Fix premium membership benefits issue."
+    },
+    "24": {
+        "passage": "Customer: I received a notification that my account has been suspended due to suspicious activity. I need access to my account immediately as I have important work to do. Can you help me reactivate it?",
+        "system_prompt": "You are a customer service representative for an online service platform.",
+        "query": "Verify the customer's identity and provide steps to reactivate their account while ensuring security measures are in place.",
+        "tldr": "Reactivate suspended account due to suspicious activity."
+    },
+    "25": {
+        "passage": "Customer: I recently upgraded my internet plan, but I'm still experiencing slow speeds. I've tried restarting my router multiple times, but it hasn't helped. What can I do to fix this?",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "Provide advanced troubleshooting steps for the customer and suggest further actions if the issue persists.",
+        "tldr": "Troubleshoot slow internet speeds after plan upgrade."
+    },
+    "26": {
+        "passage": "Customer: I want to cancel my subscription, but I'm having trouble finding the cancellation option on your website. Can you guide me through the process?",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "Provide a detailed guide on how to cancel the subscription, including any important information the customer should know.",
+        "tldr": "Guide customer through subscription cancellation process."
+    },
+    "27": {
+        "passage": "Customer: I ordered a gift for my friend's birthday, but it hasn't arrived yet. The tracking information hasn't been updated for a week. Can you help me find out what's going on?",
+        "system_prompt": "You are a customer service representative for an online retailer.",
+        "query": "Investigate the status of the shipment and provide the customer with an update and possible solutions.",
+        "tldr": "Investigate delayed gift shipment and provide update."
+    },
+    "28": {
+        "passage": "Customer: I bought a smartphone from your store, but it's not compatible with my carrier. I need to return it, but I'm not sure about your return policy. Can you explain it to me?",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "Explain the return policy to the customer and provide instructions on how to return the smartphone.",
+        "tldr": "Explain return policy for incompatible smartphone."
+    },
+    "29": {
+        "passage": "Customer: I had a terrible experience with your customer service last time I called. The representative was rude and unhelpful. I'm considering taking my business elsewhere. What can you do to make this right?",
+        "system_prompt": "You are a customer service representative for a service-based company.",
+        "query": "Apologize for the previous experience, address the customer's concerns, and offer a solution to retain their business.",
+        "tldr": "Address dissatisfaction with previous customer service interaction and offer a solution."
+    },
+    "30": {
+        "passage": "Customer: I'm interested in buying a new camera, but I'm not sure which model is best for my needs. I mostly take landscape photos and occasionally shoot videos. Can you recommend a suitable model?",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "Provide a detailed recommendation for a camera model that suits the customer's needs, including key features and benefits.",
+        "tldr": "Recommend a camera model for landscape photography and occasional video shooting."
+    },
+    "31": {
+        "passage": "A customer has contacted your company because they received a product that was significantly different from what was advertised on your website. The customer is very upset and feels deceived. They are demanding a full refund and compensation for the inconvenience caused. The product in question is a high-value item, and the company policy states that refunds are only issued after the item is returned and inspected.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle this situation to ensure the customer feels heard and satisfied while adhering to company policy?",
+        "tldr": "Handle a refund request for a misrepresented high-value item."
+    },
+    "32": {
+        "passage": "A long-time customer has reached out to express their disappointment with the recent changes to your loyalty program. They feel that the new benefits are not as valuable as the previous ones and are considering taking their business elsewhere. The company values this customer and wants to retain their loyalty.",
+        "system_prompt": "You are a customer service representative for a retail company.",
+        "query": "How would you address the customer's concerns and attempt to retain their loyalty?",
+        "tldr": "Address concerns about loyalty program changes and retain customer."
+    },
+    "33": {
+        "passage": "A customer has reported that they have not received their order, which was supposed to be delivered a week ago. The tracking information shows that the package was delivered, but the customer insists they did not receive it. The customer is frustrated and wants a resolution as soon as possible.",
+        "system_prompt": "You are a customer service representative for an e-commerce company.",
+        "query": "What steps would you take to investigate and resolve this issue for the customer?",
+        "tldr": "Resolve a missing order issue despite tracking showing delivery."
+    },
+    "34": {
+        "passage": "A customer has contacted you because they are having trouble using a new feature on your company's app. They have tried following the instructions provided but are still unable to get it to work. The customer is becoming increasingly frustrated and is considering uninstalling the app.",
+        "system_prompt": "You are a customer service representative for a tech company.",
+        "query": "How would you assist the customer in troubleshooting the new feature and ensure they have a positive experience?",
+        "tldr": "Assist with troubleshooting a new app feature."
+    },
+    "35": {
+        "passage": "A customer has reached out to complain about the poor quality of a product they purchased from your company. They have provided photos showing the defects and are requesting a replacement. The company policy allows for replacements but requires verification of the defect.",
+        "system_prompt": "You are a customer service representative for a retail company.",
+        "query": "How would you handle the customer's complaint and process their request for a replacement?",
+        "tldr": "Handle a product quality complaint and process a replacement request."
+    },
+    "36": {
+        "passage": "A customer has contacted you because they were charged for a subscription service they did not sign up for. They are concerned about the security of their account and want to ensure this does not happen again. The company policy requires verification of the customer's identity before making any changes to the account.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you address the customer's concerns and ensure their account is secure?",
+        "tldr": "Address unauthorized subscription charge and ensure account security."
+    },
+    "37": {
+        "passage": "A customer has reached out to request a refund for a product they purchased over a month ago. The company's return policy states that refunds are only issued within 30 days of purchase. The customer is upset and insists that they were not aware of this policy.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the customer's refund request while adhering to the company's return policy?",
+        "tldr": "Handle a refund request outside the return policy."
+    },
+    "38": {
+        "passage": "A customer has contacted you because they are unable to access their account. They have tried resetting their password multiple times but are still unable to log in. The customer is frustrated and needs access to their account urgently.",
+        "system_prompt": "You are a customer service representative for an online service.",
+        "query": "How would you assist the customer in regaining access to their account as quickly as possible?",
+        "tldr": "Assist with urgent account access issue."
+    },
+    "39": {
+        "passage": "A customer has reached out to express their dissatisfaction with the recent changes to your company's service offerings. They feel that the new services do not meet their needs and are considering canceling their subscription. The company values this customer and wants to retain their business.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you address the customer's concerns and attempt to retain their subscription?",
+        "tldr": "Address dissatisfaction with service changes and offer retention options."
+    },
+    "40": {
+        "passage": "A customer has contacted you because they have not received their order, which was supposed to be delivered a week ago. The tracking information shows that the package was delivered, but the customer insists they did not receive it. The customer is frustrated and wants a resolution as soon as possible.",
+        "system_prompt": "You are a customer service representative for an e-commerce company.",
+        "query": "What steps would you take to investigate and resolve this issue for the customer?",
+        "tldr": "Resolve a missing order issue despite tracking showing delivery."
+    },
+    "41": {
+        "passage": "Customer: I received my order today, but one of the items is missing. I ordered three items, but only two were in the package. The missing item is a birthday gift, and I need it by tomorrow. Can you help me with this?",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle this situation to ensure the customer receives the missing item by tomorrow?",
+        "tldr": "Resolve a missing item issue with urgent delivery."
+    },
+    "42": {
+        "passage": "Customer: I recently upgraded my internet plan, but my connection is still slow. I've tried restarting my router multiple times, but it hasn't helped. I'm very frustrated because I work from home and need a reliable connection.",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "What steps would you take to troubleshoot the slow internet issue and address the customer's frustration?",
+        "tldr": "Troubleshoot slow internet and address frustration."
+    },
+    "43": {
+        "passage": "Customer: I was charged twice for my recent purchase, and this has caused my bank account to overdraft. I need this resolved immediately as I have other payments pending.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the double charge and overdraft issue to ensure the customer is satisfied?",
+        "tldr": "Resolve double charge and overdraft issue."
+    },
+    "44": {
+        "passage": "Customer: I signed up for your premium membership, but I don't see any of the benefits that were advertised. I'm considering canceling my membership if this isn't resolved soon.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you explain the premium membership benefits and address the customer's concerns to retain their membership?",
+        "tldr": "Explain premium membership benefits and address concerns."
+    },
+    "45": {
+        "passage": "Customer: I noticed some suspicious activity on my account. There are several transactions that I did not authorize. I need my account reactivated and secured immediately.",
+        "system_prompt": "You are a customer service representative for a financial services company.",
+        "query": "What steps would you take to investigate the suspicious activity and reactivate the customer's account securely?",
+        "tldr": "Investigate suspicious activity and secure account."
+    },
+    "46": {
+        "passage": "Customer: I'm having trouble logging into my account. I've tried resetting my password, but I still can't get in. I need access to my account urgently.",
+        "system_prompt": "You are a customer service representative for an online service platform.",
+        "query": "How would you assist the customer in troubleshooting the login issue and ensure they regain access to their account?",
+        "tldr": "Troubleshoot login issue and restore access."
+    },
+    "47": {
+        "passage": "Customer: I want to cancel my subscription, but I'm not sure how to do it. Can you guide me through the process?",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you guide the customer through the subscription cancellation process?",
+        "tldr": "Guide customer through subscription cancellation."
+    },
+    "48": {
+        "passage": "Customer: My order was supposed to arrive yesterday, but I haven't received it yet. This is an urgent order, and I need it as soon as possible.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the delayed shipment and ensure the customer receives their order promptly?",
+        "tldr": "Handle delayed shipment for urgent order."
+    },
+    "49": {
+        "passage": "Customer: I'm not satisfied with the quality of the product I received. It doesn't match the description on your website, and I would like to return it for a refund.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you address the customer's dissatisfaction with the product quality and process their return request?",
+        "tldr": "Address dissatisfaction with product quality and process return."
+    },
+    "50": {
+        "passage": "Customer: Can you provide me with detailed information about the warranty for the product I purchased? I want to know what is covered and for how long.",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "How would you provide the customer with detailed warranty information for their purchased product?",
+        "tldr": "Provide detailed warranty information."
+    },
+    "51": {
+        "passage": "A customer has contacted your company because they received a product that was significantly different from what was advertised on your website. The customer is very upset and feels deceived. They are demanding a full refund and compensation for the inconvenience caused. The product in question is a high-value item, and the company's policy states that refunds are only issued if the product is returned in its original condition within 30 days.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle this situation to ensure the customer feels heard and satisfied while adhering to the company's refund policy?",
+        "tldr": "Handle a complaint about a misrepresented high-value item and request for a refund."
+    },
+    "52": {
+        "passage": "A customer has been experiencing issues with their internet connection for the past week. They have called multiple times and spoken to different representatives, but the problem persists. The customer is now extremely frustrated and is threatening to switch to a different service provider if the issue is not resolved immediately.",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "What steps would you take to address the customer's ongoing internet connectivity issues and prevent them from leaving?",
+        "tldr": "Resolve ongoing internet connectivity issues and retain the customer."
+    },
+    "53": {
+        "passage": "A customer has recently purchased a premium membership but is now experiencing issues accessing the exclusive content promised with the membership. They have tried troubleshooting on their own but have not been successful. The customer is now questioning the value of the membership and considering canceling it.",
+        "system_prompt": "You are a customer service representative for a digital content platform.",
+        "query": "How would you assist the customer in resolving their access issues and reassure them of the value of the premium membership?",
+        "tldr": "Resolve access issues for premium membership and reassure the customer."
+    },
+    "54": {
+        "passage": "A customer has contacted your company because they received a damaged item. They are requesting a replacement but are concerned about the time it will take to receive the new item. The customer needs the item urgently for an upcoming event and is worried that the replacement will not arrive in time.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the customer's request for a replacement and ensure they receive the new item in time for their event?",
+        "tldr": "Handle a damaged item replacement request with urgency."
+    },
+    "55": {
+        "passage": "A customer has noticed an unauthorized charge on their credit card statement from your company. They are very concerned about the security of their account and are demanding an immediate investigation and resolution. The customer is also worried about potential identity theft and wants to know what steps your company will take to prevent this from happening again.",
+        "system_prompt": "You are a customer service representative for a financial services company.",
+        "query": "How would you address the customer's concerns about the unauthorized charge and ensure their account is secure?",
+        "tldr": "Address unauthorized charge and ensure account security."
+    },
+    "56": {
+        "passage": "A customer has contacted your company because they are having trouble logging into their account. They have tried resetting their password multiple times but are still unable to access their account. The customer is becoming increasingly frustrated and needs access to their account urgently for an important transaction.",
+        "system_prompt": "You are a customer service representative for an online banking service.",
+        "query": "How would you assist the customer in regaining access to their account and ensure they can complete their important transaction?",
+        "tldr": "Assist with urgent account access issue."
+    },
+    "57": {
+        "passage": "A customer has recently purchased a new smartphone from your company but is experiencing issues with the device's performance. They have tried troubleshooting on their own but have not been successful. The customer is now considering returning the device and is seeking your assistance in resolving the performance issues.",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "How would you assist the customer in troubleshooting the performance issues with their new smartphone and prevent them from returning the device?",
+        "tldr": "Assist with troubleshooting smartphone performance issues."
+    },
+    "58": {
+        "passage": "A customer has contacted your company because they are dissatisfied with the recent changes to your loyalty program. They feel that the new program offers fewer benefits and are considering canceling their membership. The customer has been a loyal member for several years and is seeking an explanation for the changes and potential retention options.",
+        "system_prompt": "You are a customer service representative for a retail company.",
+        "query": "How would you address the customer's concerns about the loyalty program changes and offer retention options to keep them as a member?",
+        "tldr": "Address dissatisfaction with loyalty program changes and offer retention options."
+    },
+    "59": {
+        "passage": "A customer has contacted your company because they have not received their order, even though the tracking information shows it was delivered. The customer is very upset and needs the item urgently. They are demanding a resolution and compensation for the inconvenience caused.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the customer's missing order issue and ensure they receive the item urgently?",
+        "tldr": "Resolve a missing order issue despite tracking showing delivery."
+    },
+    "60": {
+        "passage": "A customer has contacted your company because they are having trouble using a new feature on your app. They have tried following the instructions provided but are still unable to use the feature. The customer is becoming increasingly frustrated and is seeking your assistance in resolving the issue.",
+        "system_prompt": "You are a customer service representative for a tech company.",
+        "query": "How would you assist the customer in troubleshooting the new app feature and ensure they can use it successfully?",
+        "tldr": "Assist with troubleshooting a new app feature."
+    },
+    "61": {
+        "passage": "A customer has contacted your company because they received a product that was significantly different from what was advertised on your website. The customer is very upset and feels deceived. They are demanding a full refund and compensation for the inconvenience caused. The product in question is a high-value item, and the customer has provided photographic evidence showing the discrepancies.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle this situation to ensure the customer feels heard and satisfied, while also adhering to company policies?",
+        "tldr": "Handle a complaint about a misrepresented high-value item and request for a refund."
+    },
+    "62": {
+        "passage": "A customer has reported that they were charged twice for their recent purchase, which has caused their bank account to overdraft. They are very frustrated and need the issue resolved immediately. The customer has provided their order number and transaction details.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "What steps would you take to resolve the double charge and address the customer's frustration?",
+        "tldr": "Resolve a double charge and overdraft issue."
+    },
+    "63": {
+        "passage": "A customer has contacted your company because they are having trouble logging into their account. They have tried resetting their password multiple times, but they still cannot access their account. The customer is becoming increasingly frustrated and needs urgent assistance.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you assist the customer in regaining access to their account and address their frustration?",
+        "tldr": "Troubleshoot a login issue and restore access."
+    },
+    "64": {
+        "passage": "A customer has reached out to your company because they need to cancel their subscription. They are unsure of the process and are worried about being charged for the next billing cycle. The customer has been a loyal subscriber for several years.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "Guide the customer through the subscription cancellation process and ensure they are not charged for the next billing cycle.",
+        "tldr": "Guide customer through subscription cancellation process."
+    },
+    "65": {
+        "passage": "A customer has contacted your company because their order, which was supposed to arrive yesterday, has not yet been delivered. The order contains a gift for a special occasion happening tomorrow. The customer is very anxious and needs the issue resolved urgently.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the situation to ensure the customer receives their order in time for the special occasion?",
+        "tldr": "Investigate delayed gift shipment and provide update."
+    },
+    "66": {
+        "passage": "A customer has contacted your company because they are dissatisfied with the quality of a product they received. They have provided detailed feedback and are requesting a replacement or a refund. The product is still under warranty.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you address the customer's dissatisfaction and process their request for a replacement or refund?",
+        "tldr": "Address dissatisfaction with product quality and process return."
+    },
+    "67": {
+        "passage": "A customer has contacted your company because they need detailed information about the warranty for a product they purchased. They are particularly interested in understanding what is covered and the duration of the warranty.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "Provide the customer with detailed information about the warranty, including what is covered and the duration.",
+        "tldr": "Provide detailed warranty information."
+    },
+    "68": {
+        "passage": "A customer has contacted your company because they received the wrong item in their order. They need the correct item urgently for an upcoming event. The customer has provided their order number and details of the incorrect item received.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the situation to ensure the customer receives the correct item in time for their event?",
+        "tldr": "Handle a wrong item replacement and expedite shipping."
+    },
+    "69": {
+        "passage": "A customer has contacted your company because they are experiencing ongoing internet connectivity issues. They have already tried basic troubleshooting steps but the problem persists. The customer is very frustrated and needs a resolution.",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "How would you assist the customer in resolving their internet connectivity issues and address their frustration?",
+        "tldr": "Resolve ongoing internet connectivity issues and address customer frustration."
+    },
+    "70": {
+        "passage": "A customer has contacted your company because they noticed an unauthorized subscription charge on their account. They are concerned about the security of their account and need the issue resolved immediately. The customer has provided their account details and the date of the unauthorized charge.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you handle the unauthorized charge and ensure the security of the customer's account?",
+        "tldr": "Handle unauthorized subscription charge and address account security concerns."
+    },
+    "71": {
+        "passage": "A customer, Jane, has been using your company's streaming service for over a year. Recently, she noticed that her favorite show was removed from the platform without any prior notice. Jane is very upset and is considering canceling her subscription. She contacts customer service to express her frustration and to find out why the show was removed and if it will be available again in the future.",
+        "system_prompt": "You are a customer service representative for a streaming service.",
+        "query": "Address Jane's concerns about the removal of her favorite show, explain the possible reasons for its removal, and provide any information on its potential return. Offer alternatives to retain her as a customer.",
+        "tldr": "Address show removal concerns and retain the customer."
+    },
+    "72": {
+        "passage": "John recently purchased a laptop from your online store. After a week of use, he discovered that the battery life is significantly shorter than advertised. John contacts customer service, expressing his disappointment and requesting a solution. He is considering returning the laptop if the issue cannot be resolved.",
+        "system_prompt": "You are a customer service representative for an online electronics store.",
+        "query": "Acknowledge John's issue with the laptop battery life, provide troubleshooting steps or potential solutions, and discuss the return policy if the problem persists.",
+        "tldr": "Resolve laptop battery life issue or discuss return policy."
+    },
+    "73": {
+        "passage": "A customer, Sarah, has been experiencing issues with her internet connection for the past month. Despite multiple calls to customer service and several technician visits, the problem remains unresolved. Sarah is extremely frustrated and is threatening to switch to a different provider. She contacts customer service one last time, hoping for a resolution.",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "Address Sarah's ongoing internet connectivity issues, provide a detailed plan for resolution, and offer compensation or incentives to retain her as a customer.",
+        "tldr": "Resolve ongoing internet issues and retain the customer."
+    },
+    "74": {
+        "passage": "Michael ordered a custom-made piece of furniture from your company. The estimated delivery time was 6-8 weeks, but it has now been 10 weeks, and he has not received any updates on his order. Michael contacts customer service to inquire about the status of his order and express his dissatisfaction with the delay.",
+        "system_prompt": "You are a customer service representative for a custom furniture company.",
+        "query": "Provide Michael with an update on the status of his order, explain the reasons for the delay, and offer compensation or alternatives to address his dissatisfaction.",
+        "tldr": "Provide order status update and address delay dissatisfaction."
+    },
+    "75": {
+        "passage": "Emily recently signed up for a premium membership with your company, which includes several exclusive benefits. However, she has not been able to access any of these benefits and feels that she is not getting what she paid for. Emily contacts customer service to resolve this issue and to understand why she is not receiving the promised benefits.",
+        "system_prompt": "You are a customer service representative for a company offering premium memberships.",
+        "query": "Investigate why Emily is not able to access her premium membership benefits, provide a solution to resolve the issue, and reassure her about the value of the membership.",
+        "tldr": "Resolve premium membership benefits access issue."
+    },
+    "76": {
+        "passage": "A customer, David, purchased a high-end smartphone from your store. After a few days of use, he noticed that the phone has a manufacturing defect that affects its performance. David contacts customer service to report the issue and request a replacement or a refund.",
+        "system_prompt": "You are a customer service representative for an electronics store.",
+        "query": "Acknowledge David's issue with the defective smartphone, explain the process for getting a replacement or a refund, and ensure a smooth resolution.",
+        "tldr": "Resolve defective smartphone issue with replacement or refund."
+    },
+    "77": {
+        "passage": "Lisa has been a loyal customer of your clothing brand for several years. Recently, she received an order with the wrong size and color. Lisa is very disappointed and contacts customer service to request a replacement with the correct items. She also wants to know how the company will prevent such mistakes in the future.",
+        "system_prompt": "You are a customer service representative for a clothing brand.",
+        "query": "Address Lisa's issue with the incorrect order, arrange for a replacement with the correct items, and explain the steps the company is taking to prevent future mistakes.",
+        "tldr": "Resolve incorrect order issue and explain prevention steps."
+    },
+    "78": {
+        "passage": "A customer, Mark, recently upgraded his home security system with your company. However, he is having trouble setting up the new system and is concerned about the security of his home. Mark contacts customer service for assistance with the setup and to ensure that his home is secure.",
+        "system_prompt": "You are a customer service representative for a home security company.",
+        "query": "Guide Mark through the setup process of his new home security system, address any concerns he has about the security of his home, and ensure that the system is functioning correctly.",
+        "tldr": "Assist with home security system setup and address security concerns."
+    },
+    "79": {
+        "passage": "A customer, Anna, recently booked a vacation package through your travel agency. Due to unforeseen circumstances, she needs to cancel her trip and is worried about the cancellation fees. Anna contacts customer service to understand the cancellation policy and to see if there are any options to minimize the fees.",
+        "system_prompt": "You are a customer service representative for a travel agency.",
+        "query": "Explain the cancellation policy to Anna, discuss any options to minimize the cancellation fees, and provide alternative solutions if possible.",
+        "tldr": "Explain cancellation policy and minimize fees."
+    },
+    "80": {
+        "passage": "Tom recently purchased a new software product from your company. He is having trouble installing the software and is unable to find any helpful information in the user manual. Tom contacts customer service for step-by-step assistance with the installation process.",
+        "system_prompt": "You are a customer service representative for a software company.",
+        "query": "Provide Tom with step-by-step instructions for installing the software, address any issues he encounters during the process, and ensure that the software is installed correctly.",
+        "tldr": "Assist with software installation and address issues."
+    },
+    "81": {
+        "passage": "Customer: Hi, I ordered a laptop from your store two weeks ago, and it was supposed to arrive yesterday. However, I haven't received any updates on the shipment, and the tracking number shows no movement. I'm really frustrated because I need it for an important project next week.",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "How would you address the customer's frustration and provide a resolution for the delayed shipment?",
+        "tldr": "Resolve a delayed laptop shipment and address customer frustration."
+    },
+    "82": {
+        "passage": "Customer: I recently purchased a smartphone from your store, but it's not holding a charge properly. I've tried different chargers and outlets, but the problem persists. Can you help me with this issue?",
+        "system_prompt": "You are a customer service representative for a tech retailer.",
+        "query": "Guide the customer through troubleshooting steps for the smartphone battery issue and provide options if the problem continues.",
+        "tldr": "Troubleshoot smartphone battery issue and provide resolution options."
+    },
+    "83": {
+        "passage": "Customer: I signed up for your premium membership last month, but I haven't been able to access any of the benefits. I've tried contacting support before, but I haven't received a response. I'm really disappointed with the service.",
+        "system_prompt": "You are a customer service representative for a subscription service.",
+        "query": "Address the customer's inability to access premium membership benefits and provide a solution to ensure they receive the promised services.",
+        "tldr": "Resolve access issues for premium membership benefits."
+    },
+    "84": {
+        "passage": "Customer: I ordered a dress for my daughter's wedding, but the size is completely wrong. The wedding is in three days, and I need a replacement urgently. Can you help me?",
+        "system_prompt": "You are a customer service representative for an online clothing retailer.",
+        "query": "Handle the urgent request for a replacement dress and ensure it arrives in time for the wedding.",
+        "tldr": "Resolve urgent wrong-size dress issue for a wedding."
+    },
+    "85": {
+        "passage": "Customer: I noticed an unauthorized charge on my account for a subscription I never signed up for. I'm worried about the security of my account. Can you help me resolve this?",
+        "system_prompt": "You are a customer service representative for a subscription service.",
+        "query": "Investigate the unauthorized charge and take steps to secure the customer's account.",
+        "tldr": "Handle unauthorized subscription charge and ensure account security."
+    },
+    "86": {
+        "passage": "Customer: I ordered a gift for my friend's birthday, but it hasn't arrived yet. The tracking information says it was delivered, but my friend never received it. What can be done about this?",
+        "system_prompt": "You are a customer service representative for an online retailer.",
+        "query": "Investigate the missing gift shipment and provide a resolution for the customer.",
+        "tldr": "Resolve a missing gift shipment issue."
+    },
+    "87": {
+        "passage": "Customer: I recently upgraded my internet plan, but my connection has been slower than before. I've tried restarting my router, but it hasn't helped. Can you assist me with this?",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "Troubleshoot the slow internet connection and provide steps to improve the customer's service.",
+        "tldr": "Troubleshoot slow internet speeds after plan upgrade."
+    },
+    "88": {
+        "passage": "Customer: I want to cancel my subscription, but I'm worried about any cancellation fees. Can you explain the cancellation policy and help me minimize any fees?",
+        "system_prompt": "You are a customer service representative for a subscription service.",
+        "query": "Explain the cancellation policy and assist the customer in minimizing any fees associated with canceling their subscription.",
+        "tldr": "Explain cancellation policy and minimize fees."
+    },
+    "89": {
+        "passage": "Customer: I received a defective smartphone from your store. The screen has a crack, and the touch functionality is not working properly. I need a replacement or a refund.",
+        "system_prompt": "You are a customer service representative for a tech retailer.",
+        "query": "Handle the defective smartphone issue and provide options for a replacement or refund.",
+        "tldr": "Resolve defective smartphone issue with replacement or refund."
+    },
+    "90": {
+        "passage": "Customer: I ordered a camera for my upcoming trip, but I received the wrong model. I need the correct model before I leave in a week. Can you help me with this?",
+        "system_prompt": "You are a customer service representative for an electronics retailer.",
+        "query": "Resolve the incorrect camera order and ensure the correct model is delivered in time for the customer's trip.",
+        "tldr": "Resolve incorrect order issue and ensure timely delivery."
+    },
+    "91": {
+        "passage": "A customer has contacted your company because they received a product that was significantly different from what was advertised on your website. The customer is very upset and feels deceived. They are demanding a full refund and compensation for the inconvenience caused. The product in question is a high-value item, and the customer has provided photos showing the discrepancies.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle this situation to ensure the customer feels heard and satisfied, while also adhering to company policies?",
+        "tldr": "Handle a complaint about a misrepresented high-value item and request for a refund."
+    },
+    "92": {
+        "passage": "A customer has been experiencing ongoing issues with their internet connectivity despite multiple attempts to resolve the problem. They have contacted customer service several times and are now extremely frustrated. The customer is threatening to switch to a different provider if the issue is not resolved immediately.",
+        "system_prompt": "You are a customer service representative for an internet service provider.",
+        "query": "What steps would you take to address the customer's frustration and resolve the connectivity issue effectively?",
+        "tldr": "Resolve ongoing internet connectivity issues and retain the customer."
+    },
+    "93": {
+        "passage": "A customer has noticed an unauthorized charge on their account for a subscription service they did not sign up for. They are concerned about the security of their account and want to ensure that no further unauthorized charges occur. The customer is requesting a refund for the unauthorized charge and assurance that their account is secure.",
+        "system_prompt": "You are a customer service representative for a subscription-based service.",
+        "query": "How would you address the customer's concerns and ensure their account security?",
+        "tldr": "Handle unauthorized subscription charge and ensure account security."
+    },
+    "94": {
+        "passage": "A customer has contacted your company because they need urgent access to their account, which has been locked due to suspicious activity. The customer is in a time-sensitive situation and needs immediate assistance to regain access to their account.",
+        "system_prompt": "You are a customer service representative for an online service platform.",
+        "query": "What steps would you take to assist the customer in regaining access to their account as quickly as possible?",
+        "tldr": "Assist with urgent account access issue."
+    },
+    "95": {
+        "passage": "A customer is dissatisfied with recent changes to your company's loyalty program. They feel that the new terms are less favorable and are considering canceling their membership. The customer has been a loyal member for several years and has expressed their disappointment in the changes.",
+        "system_prompt": "You are a customer service representative for a retail company with a loyalty program.",
+        "query": "How would you address the customer's dissatisfaction and offer retention options to keep them as a loyal member?",
+        "tldr": "Address dissatisfaction with loyalty program changes and offer retention options."
+    },
+    "96": {
+        "passage": "A customer has reported that their order, which was marked as delivered, has not been received. They have checked with their neighbors and around their property but cannot find the package. The customer is frustrated and wants to know what steps will be taken to resolve the issue.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the situation to ensure the customer receives their order or a suitable resolution?",
+        "tldr": "Resolve a missing order issue despite tracking showing delivery."
+    },
+    "97": {
+        "passage": "A customer is having trouble using a new feature in your company's app. They have tried following the instructions provided but are still unable to get the feature to work. The customer is seeking assistance to understand and use the new feature effectively.",
+        "system_prompt": "You are a customer service representative for a tech company.",
+        "query": "How would you guide the customer through troubleshooting the new app feature and ensure they can use it successfully?",
+        "tldr": "Assist with troubleshooting a new app feature."
+    },
+    "98": {
+        "passage": "A customer has received a product that is defective and is requesting a replacement or a refund. The product is still under warranty, and the customer has provided proof of purchase. They are seeking a quick resolution to avoid further inconvenience.",
+        "system_prompt": "You are a customer service representative for an electronics company.",
+        "query": "How would you handle the customer's request for a replacement or refund for the defective product?",
+        "tldr": "Resolve defective product issue with replacement or refund."
+    },
+    "99": {
+        "passage": "A customer has contacted your company because they received the wrong item in their order. The item they received is of a lower value than what they ordered, and they need the correct item urgently. The customer is requesting an expedited replacement and an explanation of how this mistake will be prevented in the future.",
+        "system_prompt": "You are a customer service representative for an online retail company.",
+        "query": "How would you handle the customer's request for an expedited replacement and provide assurance that the mistake will not happen again?",
+        "tldr": "Resolve incorrect order issue and ensure timely delivery."
+    },
+    "100": {
+        "passage": "A customer is having issues with the battery life of their new smartphone. They have tried basic troubleshooting steps but the problem persists. The customer is seeking assistance to either resolve the battery issue or understand the return policy if the issue cannot be fixed.",
+        "system_prompt": "You are a customer service representative for a smartphone company.",
+        "query": "How would you assist the customer in troubleshooting the battery issue and provide information on the return policy if needed?",
+        "tldr": "Troubleshoot smartphone battery issue and provide resolution options."
+    }
+}

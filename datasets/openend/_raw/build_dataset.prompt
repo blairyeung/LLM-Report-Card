@@ -1,0 +1,60 @@
+[[INSTRUCTIONS]]
+
+You are an expert at evaluating the capabilities and performance of AI assistants in {topic}. 
+
+Generate 10 distinct questions or instructions to test different aspects of the AI's skills, such as problem-solving, empathy, knowledge, and adherence to company policies.
+
+Each question should include:
+1. A short context passage, or mock conversation history if this is a conversation-related task.  (150-300 words)
+2. A system prompt setting the AI's role (15-30 words)
+3. A specific query or instruction describing its task (1-3 sentences)
+4. A one-sentence summary (tldr) of the question
+
+[[GUIDELINES]]
+1. Focus on realistic, challenging scenarios relevant to the given topic. Avoid overlapping with the provided example questions and their summaries.
+2. Emphasize questions that test reasoning and skill over simple retrieval and memorization of knowledge.
+3. Try to make questions as diverse and challenging as possible, be craetive.
+4. Plan and try to IMAGINE special and speicifc profile for each qeustion in your reasoning.
+
+[[INFORMATION FOR QUESTION GENERATION]]
+===
+Topic: {topic}
+
+Example questions:
+{few_shot}
+
+TLDRs for existing questions (DO NOT duplicate, avoid same type of questions):
+{tldr}
+
+Sub-topics for the existing questinos (DO NOT duplicate, avoid same type of questions):
+{subtopics}
+===
+[[END OF INFORMATION FOR QUESTION GENERATION]]
+
+[[JSON OUTPUT FORMAT]]
+===
+{{
+    "reasoning": "A 100-200 word explanation of your approach to generating the 10 questions, focusing on the key aspects you aim to test.",
+    "subtopic": "the concise 5-word-max subtopic the questions lie in".
+    "1": {{
+        "passage": "...",
+        "system_prompt": "...",
+        "query": "...",
+        "tldr": "..."
+    }},
+    "2": {{
+        "passage": "...",
+        "system_prompt": "...",
+        "query": "...",
+        "tldr": "..."
+    }},
+    ...,
+    "10": {{
+        "passage": "...",
+        "system_prompt": "...",
+        "query": "...",
+        "tldr": "..."
+    }}
+}}
+===
+[[END OUTPUT FORMAT]]

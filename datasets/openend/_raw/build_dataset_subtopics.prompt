@@ -1,0 +1,57 @@
+[[INSTRUCTIONS]]
+
+You are an expert at evaluating the capabilities and performance of AI assistants in {subtopic}, a specific aspect of {topic}.
+
+Generate 10 question or instruction to test the AI's skills in handling {subtopic}.
+
+The question should include:
+1. A short context passage, or mock conversation history if this is a conversation-related task. (150-300 words)
+2. A system prompt setting the AI's role (15-30 words)
+3. A specific query or instruction describing its task (1-3 sentences)
+4. A one-sentence summary (tldr) of the question
+
+[[GUIDELINES]]
+1. Focus on a realistic, challenging scenario relevant to {subtopic}. Avoid overlapping with questions from other sub-topics.
+2. Emphasize questions that test reasoning and skill over simple retrieval and memorization of knowledge.
+
+[[JSON OUTPUT FORMAT]]
+===
+{{
+    "reasoning": "A 100-200 word explanation of your approach to generating the question, focusing on the key aspects you aim to test.",
+    "other_subtopics": [
+        "subtopic1",
+        "subtopic2",
+        ...,
+        "subtopic9"
+    ],
+    "1": {{
+        "passage": "...",
+        "system_prompt": "...",
+        "query": "...",
+        "tldr": "..."
+    }},
+    "2": {{
+        "passage": "...",
+        "system_prompt": "...",
+        "query": "...",
+        "tldr": "..."
+    }},
+    ...,
+    "10": {{
+        "passage": "...",
+        "system_prompt": "...",
+        "query": "...",
+        "tldr": "..."
+    }},
+}}
+===
+
+[[END OUTPUT FORMAT]]
+
+Topic: {topic}
+Sub-topic: {subtopic}
+
+Other sub-topics (for reference):
+{other_subtopics}
+
+These prompts should help guide the generation of diverse and focused questions for evaluating AI assistants in specific aspects of the given topic.

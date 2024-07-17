@@ -1,0 +1,401 @@
+{
+  "high_school_european_history": [
+    "Understanding of Major Events",
+    "Historical Figure Analysis",
+    "Cultural and Artistic Movements",
+    "Geopolitical Changes Comprehension",
+    "Historical Source Criticism"
+  ],
+  "business_ethics": [
+    "Understanding of Ethical Theories",
+    "Corporate Social Responsibility",
+    "Ethical Decision-Making Process",
+    "Stakeholder Analysis Competence",
+    "Legal Compliance Knowledge"
+  ],
+  "clinical_knowledge": [
+    "Disease Pathophysiology Understanding",
+    "Pharmacological Mechanisms Knowledge",
+    "Diagnostic Procedures Proficiency",
+    "Clinical Guidelines Familiarity",
+    "Patient Management Strategies"
+  ],
+  "medical_genetics": [
+    "Mendelian Inheritance Patterns",
+    "Molecular Genetics Proficiency",
+    "Chromosomal Aberrations Knowledge",
+    "Genetic Disease Mechanisms",
+    "Clinical Genetics Application"
+  ],
+  "high_school_us_history": [
+    "Understanding of Key Events",
+    "Historical Figures Comprehension",
+    "Constitutional Principles Knowledge",
+    "Historical Analysis Skills",
+    "Cultural and Social Contexts"
+  ],
+  "high_school_physics": [
+    "Newton's Laws Mastery",
+    "Electromagnetic Theory Understanding",
+    "Thermodynamics Principles Application",
+    "Wave Phenomena Analysis",
+    "Quantum Mechanics Concepts"
+  ],
+  "high_school_world_history": [
+    "Historical Event Comprehension",
+    "Geopolitical Dynamics Understanding",
+    "Historical Figures Analysis",
+    "Cultural Developments Recognition",
+    "Critical Thinking & Synthesis"
+  ],
+  "virology": [
+    "Viral Life Cycle Understanding",
+    "Virus-Host Interaction Knowledge",
+    "Molecular Virology Techniques",
+    "Viral Pathogenesis Mechanisms",
+    "Antiviral Strategies Comprehension"
+  ],
+  "high_school_microeconomics": [
+    "Supply and Demand Analysis",
+    "Market Structures Understanding",
+    "Elasticity Concept Application",
+    "Marginal Analysis Proficiency",
+    "Economic Indicators Interpretation"
+  ],
+  "econometrics": [
+    "Understanding of Regression Models",
+    "Time Series Analysis Proficiency",
+    "Econometric Theory Application",
+    "Statistical Software Competency",
+    "Hypothesis Testing Mastery"
+  ],
+  "college_computer_science": [
+    "Algorithmic Proficiency",
+    "Data Structures Mastery",
+    "Software Development Skills",
+    "Computational Theory Understanding",
+    "System Design & Analysis"
+  ],
+  "high_school_biology": [
+    "Cellular Structure Knowledge",
+    "Genetic Mechanisms Understanding",
+    "Ecological Systems Comprehension",
+    "Physiological Processes Mastery",
+    "Evolutionary Biology Concepts"
+  ],
+  "abstract_algebra": [
+    "Group Theory Fundamentals",
+    "Ring and Field Mastery",
+    "Module Theory Application",
+    "Homomorphism and Isomorphism Understanding",
+    "Galois Theory Concepts"
+  ],
+  "professional_accounting": [
+    "Financial Reporting Accuracy",
+    "Cost Accounting Techniques",
+    "Tax Law Compliance",
+    "Auditing Standards Proficiency",
+    "Ethical Financial Practices"
+  ],
+  "philosophy": [
+    "Understanding of Ethics",
+    "Knowledge of Metaphysics",
+    "Logical Reasoning Ability",
+    "Historical Philosophical Context",
+    "Critical Thinking Skills"
+  ],
+  "professional_medicine": [
+    "Clinical Knowledge Competency",
+    "Diagnostic Reasoning Skills",
+    "Patient Communication Proficiency",
+    "Professional Ethics Adherence",
+    "Healthcare Team Collaboration"
+  ],
+  "nutrition": [
+    "Understanding Macronutrients",
+    "Micronutrient Knowledge",
+    "Dietary Guidelines Familiarity",
+    "Food Label Literacy",
+    "Healthy Eating Practices"
+  ],
+  "global_facts": [
+    "Geographical Literacy",
+    "Historical Event Knowledge",
+    "Cultural Awareness",
+    "Current Global Issues",
+    "International Organizations Understanding"
+  ],
+  "machine_learning": [
+    "Understanding of Supervised Learning",
+    "Proficiency in Unsupervised Techniques",
+    "Neural Networks and Deep Learning",
+    "Model Evaluation and Selection",
+    "Data Preprocessing and Feature Engineering"
+  ],
+  "security_studies": [
+    "Understanding of Cybersecurity Principles",
+    "Knowledge of International Security Norms",
+    "Proficiency in Risk Assessment",
+    "Counterterrorism Strategies Comprehension",
+    "Intelligence Analysis Techniques"
+  ],
+  "public_relations": [
+    "Communication Skills",
+    "Media Relations Acumen",
+    "Stakeholder Engagement",
+    "Crisis Management Proficiency",
+    "Brand Messaging Alignment"
+  ],
+  "professional_psychology": [
+    "Ethical Practice Adherence",
+    "Theoretical Knowledge Application",
+    "Clinical Assessment Proficiency",
+    "Research Methodology Competence",
+    "Interpersonal Skills Effectiveness"
+  ],
+  "prehistory": [
+    "Understanding of Chronology",
+    "Knowledge of Major Eras",
+    "Artifact Identification Skills",
+    "Cultural Development Insights",
+    "Evolutionary Process Comprehension"
+  ],
+  "anatomy": [
+    "Musculoskeletal System Knowledge",
+    "Cardiovascular System Understanding",
+    "Neuroanatomy and Function",
+    "Histological Structure Identification",
+    "Physiological Process Comprehension"
+  ],
+  "human_sexuality": [
+    "Understanding of Sexual Anatomy",
+    "Knowledge of Gender Identity",
+    "Awareness of Sexual Orientation",
+    "Comprehension of Consent Principles",
+    "Sexual Health and Safety Practices"
+  ],
+  "college_medicine": [
+    "Clinical Skills Proficiency",
+    "Medical Knowledge Application",
+    "Patient Communication Competence",
+    "Ethical Decision-Making",
+    "Research and Evidence-Based Practice"
+  ],
+  "high_school_government_and_politics": [
+    "Understanding of Political Systems",
+    "Constitutional Knowledge Application",
+    "Civic Engagement and Participation",
+    "Political Ideologies Comprehension",
+    "Governmental Institutions Proficiency"
+  ],
+  "college_chemistry": [
+    "Understanding of Stoichiometry",
+    "Organic Chemistry Mechanisms",
+    "Thermodynamics Principles",
+    "Chemical Equilibrium Mastery",
+    "Laboratory Technique Proficiency"
+  ],
+  "logical_fallacies": [
+    "Identification of Fallacies",
+    "Understanding Fallacy Structures",
+    "Differentiating Fallacies and Arguments",
+    "Application in Argument Analysis",
+    "Avoidance in Reasoning"
+  ],
+  "high_school_geography": [
+    "Physical Geography Proficiency",
+    "Human Geography Understanding",
+    "Geospatial Skills Application",
+    "Geographical Data Interpretation",
+    "Environmental Processes Knowledge"
+  ],
+  "elementary_mathematics": [
+    "Number Sense Proficiency",
+    "Arithmetic Operations Mastery",
+    "Understanding of Fractions",
+    "Geometric Shapes Knowledge",
+    "Problem-Solving Skills"
+  ],
+  "human_aging": [
+    "Biological Aging Mechanisms",
+    "Psychosocial Aging Aspects",
+    "Aging Population Demographics",
+    "Interventions in Aging",
+    "Ethics of Longevity"
+  ],
+  "college_mathematics": [
+    "Calculus Problem Solving",
+    "Linear Algebra Applications",
+    "Statistical Methods Proficiency",
+    "Abstract Algebra Concepts",
+    "Real Analysis Understanding"
+  ],
+  "high_school_psychology": [
+    "Understanding of Key Theories",
+    "Application of Psychological Concepts",
+    "Research Methods Proficiency",
+    "Critical Thinking Skills",
+    "Ethical Considerations Awareness"
+  ],
+  "formal_logic": [
+    "Understanding Propositional Logic",
+    "Mastery of Quantifiers",
+    "Logical Equivalence Proficiency",
+    "Proof Techniques Application",
+    "Fallacy Identification Skills"
+  ],
+  "high_school_statistics": [
+    "Understanding of Probability",
+    "Descriptive Statistics Proficiency",
+    "Inferential Statistics Concepts",
+    "Data Interpretation Skills",
+    "Application of Statistical Theorems"
+  ],
+  "international_law": [
+    "Understanding of Treaties",
+    "Knowledge of Sovereignty Principles",
+    "Comprehension of Human Rights Law",
+    "Application of International Jurisdiction",
+    "Grasp of Conflict Resolution Mechanisms"
+  ],
+  "high_school_mathematics": [
+    "Algebraic Manipulation Proficiency",
+    "Geometric Reasoning Ability",
+    "Calculus Concepts Understanding",
+    "Data Analysis Skills",
+    "Theorem Application Knowledge"
+  ],
+  "high_school_computer_science": [
+    "Algorithmic Problem Solving",
+    "Programming Language Proficiency",
+    "Understanding of Data Structures",
+    "Software Development Lifecycle",
+    "Computational Theory Application"
+  ],
+  "conceptual_physics": [
+    "Newton's Laws Mastery",
+    "Energy Conservation Understanding",
+    "Electromagnetic Theory Application",
+    "Thermodynamics Principles Knowledge",
+    "Quantum Mechanics Basics"
+  ],
+  "miscellaneous": [
+    "Creative Problem Solving",
+    "Interpersonal Communication Skills",
+    "Time Management Proficiency",
+    "Cultural Awareness Understanding",
+    "Digital Literacy Competence"
+  ],
+  "high_school_chemistry": [
+    "Understanding of Periodic Table",
+    "Chemical Bonding Proficiency",
+    "Stoichiometry and Calculations",
+    "Laboratory Skills and Safety",
+    "Acid-Base Reaction Knowledge"
+  ],
+  "marketing": [
+    "Marketing Strategy Formulation",
+    "Consumer Behavior Understanding",
+    "Digital Marketing Proficiency",
+    "Brand Management Skills",
+    "Marketing Analytics Application"
+  ],
+  "professional_law": [
+    "Legal Ethics Understanding",
+    "Contract Law Application",
+    "Tort Law Principles",
+    "Legal Research Proficiency",
+    "Civil Procedure Knowledge"
+  ],
+  "management": [
+    "Strategic Planning Proficiency",
+    "Operational Efficiency Execution",
+    "Financial Management Acumen",
+    "Leadership and Team Building",
+    "Risk Management and Mitigation"
+  ],
+  "college_physics": [
+    "Newtonian Mechanics Proficiency",
+    "Electromagnetic Theory Application",
+    "Thermodynamics Understanding",
+    "Quantum Mechanics Concepts",
+    "Wave-Particle Duality Grasp"
+  ],
+  "jurisprudence": [
+    "Understanding of Legal Principles",
+    "Case Law Analysis",
+    "Statutory Interpretation Skills",
+    "Legal Reasoning Proficiency",
+    "Application of Theoretical Concepts"
+  ],
+  "world_religions": [
+    "Understanding Core Beliefs",
+    "Historical Development Knowledge",
+    "Rituals and Practices",
+    "Comparative Religion Analysis",
+    "Impact on Society"
+  ],
+  "sociology": [
+    "Understanding of Social Theories",
+    "Application of Research Methods",
+    "Analysis of Social Structures",
+    "Cultural Awareness and Diversity",
+    "Critical Thinking and Reflexivity"
+  ],
+  "us_foreign_policy": [
+    "Historical Context Understanding",
+    "International Relations Theories",
+    "Policy Formulation & Implementation",
+    "Geopolitical Strategy Analysis",
+    "Diplomatic & Military Actions"
+  ],
+  "high_school_macroeconomics": [
+    "Understanding of GDP Components",
+    "Monetary Policy Comprehension",
+    "Fiscal Policy Analysis",
+    "Knowledge of Economic Indicators",
+    "Application of Supply and Demand"
+  ],
+  "computer_security": [
+    "Understanding of Cryptography",
+    "Network Security Protocols",
+    "Secure Coding Practices",
+    "Threat Analysis & Mitigation",
+    "Compliance with Security Standards"
+  ],
+  "moral_scenarios": [
+    "Ethical Decision Making",
+    "Empathy and Compassion",
+    "Integrity and Honesty",
+    "Responsibility and Accountability",
+    "Respect for Diversity"
+  ],
+  "moral_disputes": [
+    "Ethical Reasoning Ability",
+    "Understanding of Moral Theories",
+    "Empathy and Perspective-Taking",
+    "Conflict Resolution Skills",
+    "Application of Ethical Principles"
+  ],
+  "electrical_engineering": [
+    "Circuit Analysis Proficiency",
+    "Control Systems Understanding",
+    "Electromagnetic Theory Application",
+    "Power Systems Knowledge",
+    "Electronic Devices Competency"
+  ],
+  "astronomy": [
+    "Celestial Mechanics Understanding",
+    "Stellar Evolution Knowledge",
+    "Galactic Structures Comprehension",
+    "Cosmological Principles Familiarity",
+    "Telescope Usage Proficiency"
+  ],
+  "college_biology": [
+    "Understanding of Cell Biology",
+    "Mastery of Genetics Concepts",
+    "Ecological Systems Knowledge",
+    "Physiological Processes Comprehension",
+    "Proficiency in Biochemistry"
+  ]
+}

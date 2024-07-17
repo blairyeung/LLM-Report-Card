@@ -1,0 +1,60 @@
+{"question": "Describe the time complexity of the dynamic programming solution to the rod cutting problem."}
+{"question": "Optimize the following code to reduce its time complexity: [insert code snippet]."}
+{"question": "Explain the difference between time complexity and space complexity."}
+{"question": "Solve the traveling salesman problem using a heuristic approach."}
+{"question": "Write a Python function to solve the job scheduling problem using dynamic programming."}
+{"question": "Explain how Kruskal's algorithm works and its time complexity."}
+{"question": "Explain the importance of code modularity and provide an example."}
+{"question": "Explain how the A* search algorithm works and its time complexity."}
+{"question": "Compare and contrast dynamic programming and greedy algorithms."}
+{"question": "Describe the time complexity of the dynamic programming solution to the job scheduling problem."}
+{"question": "Explain the concept of amortized analysis and provide an example."}
+{"question": "Explain the best, average, and worst-case time complexities of quicksort."}
+{"question": "Implement the Kruskal's algorithm in Python."}
+{"question": "Write a Python function to implement the Fibonacci sequence using dynamic programming."}
+{"question": "Describe the time complexity of the backtracking solution to the n-queens problem."}
+{"question": "Explain the time complexity of the merge sort algorithm."}
+{"question": "Refactor the following code snippet to improve its readability: [insert code snippet]."}
+{"question": "Optimize the following code to reduce its space complexity: [insert code snippet]."}
+{"question": "Explain the time complexity of the Euclidean algorithm for finding the GCD."}
+{"question": "Explain the concept of topological sorting and its applications."}
+{"question": "Describe the operations of a disjoint-set and their time complexities."}
+{"question": "Explain the time complexity of the dynamic programming solution to the knapsack problem."}
+{"question": "Write a Python function to find the longest common subsequence (LCS) of two strings using dynamic programming."}
+{"question": "Explain the concept of backtracking and provide an example."}
+{"question": "Explain how the Rabin-Karp algorithm works and its time complexity."}
+{"question": "Describe the differences between an adjacency list and an adjacency matrix."}
+{"question": "Write a Python function to implement the Fibonacci sequence using recursion."}
+{"question": "Implement the breadth-first search (BFS) algorithm in Python."}
+{"question": "Describe the differences between a stack and a queue."}
+{"question": "Explain the concept of Big O notation and its importance in algorithm analysis."}
+{"question": "Explain how Prim's algorithm works and its time complexity."}
+{"question": "Compare the time complexities of binary search trees and hash tables."}
+{"question": "Explain the time complexity of the recursive solution to the Fibonacci sequence."}
+{"question": "Explain the concept of dynamic programming and provide an example."}
+{"question": "Write a Python function to solve the n-queens problem using backtracking."}
+{"question": "Describe the differences between a linked list and an array."}
+{"question": "Write a Python function to perform binary search on a sorted array."}
+{"question": "Implement a stack data structure using a Python list."}
+{"question": "Analyze the time complexity of the following code snippet: [insert code snippet]."}
+{"question": "Implement a priority queue using a heap in Python."}
+{"question": "Explain the importance of code readability and provide an example of well-documented code."}
+{"question": "Describe the operations of a priority queue and their time complexities."}
+{"question": "Write a Python function to implement a linked list."}
+{"question": "Write a Python function to find the greatest common divisor (GCD) using the Euclidean algorithm."}
+{"question": "Explain the time complexity of the Floyd-Warshall algorithm."}
+{"question": "Implement the Bellman-Ford algorithm in Python."}
+{"question": "Describe the time complexity of the dynamic programming solution to the LCS problem."}
+{"question": "Explain how the Boyer-Moore algorithm works and its time complexity."}
+{"question": "Explain the concept of memoization and provide an example."}
+{"question": "Write a Python function to implement a trie (prefix tree)."}
+{"question": "Describe the differences between depth-first search (DFS) and breadth-first search (BFS)."}
+{"question": "Write a Python function to solve the matrix chain multiplication problem using dynamic programming."}
+{"question": "Implement the Prim's algorithm in Python."}
+{"question": "Debug the following code snippet to fix any logical errors: [insert code snippet]."}
+{"question": "Write a Python function to solve the knapsack problem using dynamic programming."}
+{"question": "Describe the time complexity of binary search."}
+{"question": "Write a Python function to implement the merge sort algorithm."}
+{"question": "Explain the concept of divide and conquer and provide an example."}
+{"question": "Describe the time complexity of the dynamic programming solution to the coin change problem."}
+{"question": "Analyze the following code snippet for potential memory leaks: [insert code snippet]."}

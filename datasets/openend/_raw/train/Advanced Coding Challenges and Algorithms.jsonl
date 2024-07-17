@@ -1,0 +1,40 @@
+{"question": "Analyze the following code snippet for potential bugs: [insert code snippet]."}
+{"question": "Write a Python function to implement a binary search tree (BST)."}
+{"question": "Write a Python function to solve the coin change problem using dynamic programming."}
+{"question": "Describe the time complexity of the binary search tree operations: insertion, deletion, and search."}
+{"question": "Analyze the following code snippet for potential security vulnerabilities: [insert code snippet]."}
+{"question": "Implement the A* search algorithm in Python."}
+{"question": "Explain how the Bellman-Ford algorithm works and its time complexity."}
+{"question": "Describe the operations of a hash table and their time complexities."}
+{"question": "Describe the time complexity of the dynamic programming solution to the Fibonacci sequence."}
+{"question": "Compare the time complexities of different graph traversal algorithms: BFS, DFS, Dijkstra's, and A*."}
+{"question": "Compare the time complexities of merge sort and quicksort."}
+{"question": "Implement the Floyd-Warshall algorithm in Python."}
+{"question": "Implement a queue data structure using a Python list."}
+{"question": "To evaluate the AI assistant's capabilities in Advanced Coding Challenges and Algorithms, I will create questions that cover a range of topics including algorithm implementation, time complexity analysis, optimization, data structures, problem-solving, and theoretical understanding. The categories will be: 1) Algorithm Implementation (20 questions), 2) Time Complexity and Optimization (15 questions), 3) Data Structures (15 questions), 4) Problem-Solving (20 questions), 5) Theoretical Understanding (10 questions), 6) Code Analysis and Debugging (10 questions), and 7) Miscellaneous (10 questions). This distribution ensures a comprehensive assessment of the AI's skills and reasoning abilities."}
+{"question": "Debug the following code snippet to fix any errors: [insert code snippet]."}
+{"question": "Describe the time complexity of the dynamic programming solution to the subset sum problem."}
+{"question": "Write a Python function to perform a topological sort on a directed acyclic graph (DAG)."}
+{"question": "Write a Python function to solve the subset sum problem using dynamic programming."}
+{"question": "Analyze the following code snippet for potential performance issues: [insert code snippet]."}
+{"question": "Implement a hash table using a Python dictionary."}
+{"question": "Write a Python function to solve the rod cutting problem using dynamic programming."}
+{"question": "Implement the quicksort algorithm in Python."}
+{"question": "Describe the differences between a binary search tree and a balanced binary search tree (e.g., AVL tree, Red-Black tree)."}
+{"question": "Explain the operations of a trie and their time complexities."}
+{"question": "Implement the Rabin-Karp string matching algorithm in Python."}
+{"question": "Explain the properties of a binary search tree."}
+{"question": "Explain how the KMP algorithm works and its time complexity."}
+{"question": "Explain the concept of test-driven development (TDD) and its benefits."}
+{"question": "Explain the concept of recursion and provide an example."}
+{"question": "Describe how Dijkstra's algorithm works."}
+{"question": "Optimize the following code to improve its performance: [insert code snippet]."}
+{"question": "Implement the Dijkstra's algorithm in Python."}
+{"question": "Compare the time complexities of different sorting algorithms: bubble sort, insertion sort, selection sort, merge sort, and quicksort."}
+{"question": "Implement a graph data structure using an adjacency list in Python."}
+{"question": "Describe the operations of a queue and their time complexities."}
+{"question": "Implement the KMP (Knuth-Morris-Pratt) string matching algorithm in Python."}
+{"question": "Describe the operations of a stack and their time complexities."}
+{"question": "Implement a disjoint-set (union-find) data structure in Python."}
+{"question": "Explain the operations of a linked list and their time complexities."}
+{"question": "Implement the Boyer-Moore string matching algorithm in Python."}

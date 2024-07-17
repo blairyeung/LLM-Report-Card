@@ -1,0 +1,60 @@
+{"question": "Write a SQL query to find the second highest salary from a 'Employee' table."}
+{"question": "Write a SQL query to delete duplicate records from a table without using a temporary table."}
+{"question": "Provide a C# implementation for a graph using adjacency list."}
+{"question": "What is the difference between imperative and declarative programming styles?"}
+{"question": "How would you use a hash map to count the frequency of characters in a string?"}
+{"question": "Explain the difference between depth-first search and breadth-first search."}
+{"question": "Explain the difference between lossless and lossy data compression algorithms."}
+{"question": "Explain the importance of data structure choice in algorithm efficiency."}
+{"question": "Write a Python function that implements the sieve of Eratosthenes algorithm for finding all primes up to n."}
+{"question": "Write a Java method that checks if a tree is a binary search tree."}
+{"question": "What is the best way to handle errors in a recursive algorithm to prevent crashes?"}
+{"question": "Explain how caching can be used to enhance the performance of a web application."}
+{"question": "Write a Python function that finds the longest consecutive sequence in an array."}
+{"question": "Explain the difference between a stack and a queue."}
+{"question": "Write a function in C++ that checks if a graph is bipartite using BFS."}
+{"question": "How would you implement a queue using two stacks in Python?"}
+{"question": "Provide a JavaScript function that sorts an array using the quicksort algorithm."}
+{"question": "What are the typical use cases for using a breadth-first search in algorithms?"}
+{"question": "Write a Python script that simulates rolling a six-sided die 1000 times and counts the frequency of each result."}
+{"question": "Explain how a trie data structure is typically used in computing applications."}
+{"question": "Describe a scenario where a hash table can significantly improve data retrieval time."}
+{"question": "What are the benefits of using a heap over a sorted array?"}
+{"question": "How would you optimize a bubble sort algorithm?"}
+{"question": "Explain how the Model-View-Controller (MVC) pattern works in web development."}
+{"question": "Provide a JavaScript implementation for a function that calculates the area of a polygon given its vertices."}
+{"question": "Provide a C++ class that implements a basic digital clock using the system time."}
+{"question": "Provide a Ruby code snippet for performing a binary search on a sorted array."}
+{"question": "Explain how dynamic programming differs from greedy algorithms."}
+{"question": "Provide a Ruby implementation for detecting a cycle in a linked list."}
+{"question": "Explain the difference between an abstract class and an interface in object-oriented programming."}
+{"question": "What is dynamic programming, and how does it differ from brute force?"}
+{"question": "The questions are designed to evaluate the AI's ability to understand and generate efficient code solutions for algorithmic problems, covering a range of topics such as data structures, algorithms, optimization, debugging, and theoretical concepts. Categories include Basic Algorithm Understanding (15 questions), Data Structures (15 questions), Optimization Techniques (10 questions), Debugging and Error Handling (10 questions), Real-world Application (10 questions), Language-Specific Questions (10 questions), Theoretical Concepts (10 questions), Code Refactoring (10 questions), and Performance Analysis (10 questions)."}
+{"question": "Write a JavaScript function that converts an array of strings into a map where each key is a string length and each value is an array of strings of that length."}
+{"question": "Explain the concept of 'divide and conquer' with an example in algorithm design."}
+{"question": "Explain the role of garbage collection in managed languages like Java and C#."}
+{"question": "Provide a Python implementation for a stack that supports push, pop, and retrieving the minimum element in constant time."}
+{"question": "How would you use a vector in C++ to dynamically store elements during runtime?"}
+{"question": "How would you detect and handle a stack overflow problem in a recursive algorithm?"}
+{"question": "Write a function in Python that finds all subsets of a given set."}
+{"question": "How would you refactor a long method into smaller, more manageable parts?"}
+{"question": "Explain the concept of software design patterns and their importance in code reuse and maintenance."}
+{"question": "What are the common pitfalls in recursive programming and how can they be avoided?"}
+{"question": "What is the significance of tail recursion in functional programming?"}
+{"question": "Explain the A* search algorithm and its typical use cases."}
+{"question": "What is the significance of unit testing in maintaining code quality?"}
+{"question": "Provide a Java implementation for a function that finds the longest palindromic substring in a given string."}
+{"question": "Provide a C++ code snippet for a linked list insertion."}
+{"question": "What is the role of a compiler in code optimization?"}
+{"question": "How would you detect memory leaks in a program?"}
+{"question": "Identify and correct the error in this code snippet: for(int i=0; i<n; i++) { arr[i] = i+1; }"}
+{"question": "What is the difference between procedural and object-oriented programming?"}
+{"question": "Write a SQL query that creates a view showing the top 3 highest earning employees in each department."}
+{"question": "Describe how you would use a profiler to improve the performance of a piece of code."}
+{"question": "Write a function in JavaScript that removes all duplicates from an array."}
+{"question": "Provide a Java implementation for a circular queue using an array."}
+{"question": "Write a Python script that merges two sorted lists into a single sorted list."}
+{"question": "Describe how you would refactor a nested loop to reduce its complexity."}
+{"question": "What are the challenges of parallel programming, and how can they be mitigated?"}
+{"question": "What is a binary search algorithm and how does it work?"}
+{"question": "What is a deadlock in the context of multithreading?"}
