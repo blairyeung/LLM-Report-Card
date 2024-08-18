@@ -1,0 +1,38 @@
+{
+  "Engagement": {
+    "overview": "The student consistently attempts to engage the audience with humor.",
+    "thinking_pattern": "The student often relies on wordplay and puns to create humor, which can be universally understood.",
+    "strength": "The student excels at using simple language and common concepts to craft jokes that are easy to understand and relatable.",
+    "weakness": "The student sometimes repeats the same joke format, which can reduce the novelty and engagement over time."
+  },
+  "Contextual Appropriateness": {
+    "overview": "The student generally maintains contextually appropriate humor.",
+    "thinking_pattern": "The student shows an understanding of different contexts and tailors jokes to fit them, such as using scientific terms or common idioms.",
+    "strength": "The student effectively uses context to enhance the humor, making jokes relevant to the given scenario.",
+    "weakness": "Occasionally, the student over-explains the joke, which can detract from its humor and make it less contextually appropriate."
+  },
+  "Creativity": {
+    "overview": "The student demonstrates a good level of creativity in joke construction.",
+    "thinking_pattern": "The student often combines different elements or concepts to create unique and unexpected punchlines.",
+    "strength": "The student is adept at using double meanings and absurd exaggerations to craft original jokes.",
+    "weakness": "The student's creativity can sometimes lead to overly complex jokes that may not be immediately clear or funny to all audiences."
+  },
+  "Self-Deprecation": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Use of Wordplay": {
+    "overview": "The student frequently employs wordplay in jokes.",
+    "thinking_pattern": "The student uses puns and double meanings to create humor, often playing on the multiple meanings of words.",
+    "strength": "The student is skilled at identifying and utilizing words with multiple meanings to craft clever and engaging jokes.",
+    "weakness": "Reliance on wordplay can sometimes make the jokes predictable or less impactful if the audience is not familiar with the double meanings."
+  },
+  "Subversion of Expectations": {
+    "overview": "The student often uses the technique of subverting expectations to create humor.",
+    "thinking_pattern": "The student sets up a familiar scenario or logical premise and then introduces an unexpected twist or absurd conclusion.",
+    "strength": "The student effectively surprises the audience with unexpected punchlines, enhancing the humor through the element of surprise.",
+    "weakness": "In some cases, the subversion may be too abrupt or disconnected from the setup, which can confuse the audience and reduce the joke's effectiveness."
+  }
+}

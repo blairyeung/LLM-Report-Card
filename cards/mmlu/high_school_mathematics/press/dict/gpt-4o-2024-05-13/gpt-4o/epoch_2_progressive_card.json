@@ -1,0 +1,50 @@
+{
+  "Algebraic Manipulation Proficiency": {
+    "overview": "The student demonstrates strong algebraic manipulation skills.",
+    "thinking_pattern": "The student consistently uses algebraic techniques to simplify and solve equations.",
+    "strength": "The student accurately applies algebraic rules and operations, such as factoring and solving for variables.",
+    "weakness": ""
+  },
+  "Geometric Reasoning Ability": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Calculus Concepts Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Data Analysis Skills": {
+    "overview": "The student shows proficiency in basic data analysis tasks.",
+    "thinking_pattern": "The student uses systematic approaches to calculate averages and interpret data.",
+    "strength": "The student correctly calculates mean values and interprets data accurately.",
+    "weakness": ""
+  },
+  "Theorem Application Knowledge": {
+    "overview": "The student effectively applies mathematical theorems to solve problems.",
+    "thinking_pattern": "The student identifies and correctly applies relevant theorems, such as Fermat's Little Theorem.",
+    "strength": "The student accurately uses theorems to simplify complex problems and find solutions.",
+    "weakness": ""
+  },
+  "Factorial and Combinatorial Reasoning": {
+    "overview": "The student demonstrates a good understanding of factorial and combinatorial concepts.",
+    "thinking_pattern": "The student uses prime factorization and LCM to solve problems involving factors and multiples.",
+    "strength": "The student correctly identifies prime factors and uses them to determine LCM and other related values.",
+    "weakness": ""
+  },
+  "Function and Inverse Function Understanding": {
+    "overview": "The student shows a clear understanding of direct proportionality and functions.",
+    "thinking_pattern": "The student uses proportional relationships to solve for unknown variables.",
+    "strength": "The student accurately sets up and solves equations involving direct proportionality.",
+    "weakness": ""
+  },
+  "Sequence and Series Analysis": {
+    "overview": "The student demonstrates strong skills in analyzing sequences and series.",
+    "thinking_pattern": "The student systematically approaches problems involving arithmetic sequences and series.",
+    "strength": "The student correctly identifies patterns and uses formulas to find sums and terms in sequences.",
+    "weakness": ""
+  }
+}

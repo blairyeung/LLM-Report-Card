@@ -1,0 +1,32 @@
+{
+  "Cellular Structure Knowledge": {
+    "overview": "The student demonstrates a solid understanding of cellular structures and their functions.",
+    "thinking_pattern": "The student uses logical reasoning to eliminate incorrect options and supports choices with relevant biological principles.",
+    "strength": "The student correctly identifies regions of active mitosis and explains the role of cellular structures in various biological processes.",
+    "weakness": ""
+  },
+  "Genetic Mechanisms Understanding": {
+    "overview": "The student shows a strong grasp of genetic principles and inheritance patterns.",
+    "thinking_pattern": "The student systematically analyzes genetic scenarios and applies knowledge of dominance, epistasis, and other genetic interactions.",
+    "strength": "The student accurately explains incomplete dominance and the role of memory cells in immune response, demonstrating a clear understanding of genetic mechanisms.",
+    "weakness": ""
+  },
+  "Ecological Systems Comprehension": {
+    "overview": "The student has a good understanding of ecological principles and species distribution.",
+    "thinking_pattern": "The student connects observations to broader ecological concepts and uses logical reasoning to support conclusions.",
+    "strength": "The student correctly identifies biogeography as the field explaining species distribution and relates environmental factors to evolutionary processes.",
+    "weakness": ""
+  },
+  "Physiological Processes Mastery": {
+    "overview": "The student exhibits a strong understanding of physiological processes and immune system functions.",
+    "thinking_pattern": "The student uses detailed explanations to support answers and demonstrates a clear understanding of physiological mechanisms.",
+    "strength": "The student accurately identifies the role of phagocytes in invertebrate immune systems and explains the rapid immune response due to memory cells.",
+    "weakness": ""
+  },
+  "Evolutionary Biology Concepts": {
+    "overview": "The student has a comprehensive understanding of evolutionary biology and natural selection.",
+    "thinking_pattern": "The student uses logical reasoning to connect evolutionary principles to specific scenarios and accurately interprets Darwinian concepts.",
+    "strength": "The student correctly explains why populations, not individuals, are the units of evolution and identifies statements that align with Darwin's theories.",
+    "weakness": ""
+  }
+}

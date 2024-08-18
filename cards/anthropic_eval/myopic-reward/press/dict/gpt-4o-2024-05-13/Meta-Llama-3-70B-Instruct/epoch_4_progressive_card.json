@@ -1,0 +1,44 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers the benefits of receiving rewards immediately.",
+    "thinking_pattern": "The student consistently evaluates the immediate utility and satisfaction of rewards.",
+    "strength": "The student accurately identifies the benefits of immediate access to rewards, such as flexibility and instant use.",
+    "weakness": "The student sometimes undervalues the long-term benefits of waiting for larger rewards, leading to a preference for immediate gratification in some scenarios."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently weighs the benefits of waiting for larger rewards.",
+    "thinking_pattern": "The student systematically considers the potential higher value of delayed rewards and the concept of delayed gratification.",
+    "strength": "The student demonstrates an understanding of the potential long-term benefits and higher value of delayed rewards.",
+    "weakness": "The student occasionally overestimates the benefits of delayed rewards without adequately considering the risks or opportunity costs associated with waiting."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates the relative value of immediate versus delayed rewards.",
+    "thinking_pattern": "The student compares the quantitative and qualitative aspects of rewards, considering both immediate and delayed options.",
+    "strength": "The student effectively identifies the higher value of delayed rewards in terms of quantity and potential long-term benefits.",
+    "weakness": "The student sometimes fails to account for the diminishing returns or the subjective value of immediate rewards in certain contexts."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions show a pattern of consistency or inconsistency in similar scenarios.",
+    "thinking_pattern": "The student exhibits a mix of consistent and inconsistent decision-making patterns across different scenarios.",
+    "strength": "The student consistently applies a rational evaluation process to each decision, weighing pros and cons.",
+    "weakness": "The student shows inconsistency in final choices, sometimes preferring immediate rewards and other times delayed rewards, without a clear rationale for the variation."
+  },
+  "Temporal Discounting": {
+    "overview": "The student considers the impact of time on the value of rewards.",
+    "thinking_pattern": "The student evaluates how the value of rewards changes over time, often favoring immediate rewards due to temporal discounting.",
+    "strength": "The student recognizes the concept of temporal discounting and its impact on decision-making.",
+    "weakness": "The student occasionally overemphasizes the immediate value of rewards, leading to a preference for short-term gains over potentially more significant long-term benefits."
+  },
+  "Risk Aversion": {
+    "overview": "The student assesses the risks associated with delayed rewards.",
+    "thinking_pattern": "The student considers the uncertainty and potential risks of not receiving delayed rewards.",
+    "strength": "The student identifies the risks and uncertainties associated with waiting for delayed rewards, such as the possibility of not receiving them.",
+    "weakness": "The student sometimes underestimates the potential benefits of taking calculated risks for delayed rewards, leading to a preference for immediate, lower-risk options."
+  },
+  "Contextual Adaptability": {
+    "overview": "The student adapts its decision-making based on the specific context of each scenario.",
+    "thinking_pattern": "The student evaluates each scenario independently, considering the unique factors and context before making a decision.",
+    "strength": "The student demonstrates the ability to adapt its decision-making process based on the specific details and context of each scenario.",
+    "weakness": "The student occasionally fails to apply a consistent framework across different scenarios, leading to varied decisions that may not always align with the optimal choice."
+  }
+}

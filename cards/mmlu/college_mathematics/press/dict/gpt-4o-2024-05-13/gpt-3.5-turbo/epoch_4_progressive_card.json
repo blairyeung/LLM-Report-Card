@@ -1,0 +1,74 @@
+{
+  "Calculus Problem Solving": {
+    "overview": "The student demonstrates a basic understanding of calculus concepts but makes errors in application.",
+    "thinking_pattern": "The student tends to make algebraic errors and misinterpret the results of differentiation.",
+    "strength": "The student correctly identifies the need to use related rates and the Mean Value Theorem.",
+    "weakness": "The student makes calculation errors and misinterprets the results, leading to incorrect conclusions."
+  },
+  "Linear Algebra Applications": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Statistical Methods Proficiency": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Abstract Algebra Concepts": {
+    "overview": "The student shows a partial understanding of abstract algebra concepts but struggles with the properties of ideals.",
+    "thinking_pattern": "The student often misapplies definitions and properties of algebraic structures.",
+    "strength": "The student correctly identifies the need to check closure properties for ideals.",
+    "weakness": "The student incorrectly concludes which sets are ideals, showing a misunderstanding of the necessary conditions."
+  },
+  "Real Analysis Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Topology and Geometry": {
+    "overview": "The student shows a misunderstanding of topological properties and geometric interpretations.",
+    "thinking_pattern": "The student tends to misinterpret the definitions and properties of topological spaces.",
+    "strength": "",
+    "weakness": "The student incorrectly identifies the topological nature of sets and misinterprets geometric equations."
+  },
+  "Polynomial and Root Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Combinatorial Reasoning": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Complex Number Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Recursive Function Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Set Theory and Logic": {
+    "overview": "The student shows a basic understanding of set theory but makes logical errors in reasoning.",
+    "thinking_pattern": "The student often misapplies logical definitions and properties.",
+    "strength": "The student correctly identifies the need to check for connectedness and disjoint sets.",
+    "weakness": "The student incorrectly concludes the topological properties of sets, showing a misunderstanding of connectedness and closure."
+  },
+  "Probability and Statistics": {
+    "overview": "The student demonstrates a basic understanding of probability but makes errors in calculation.",
+    "thinking_pattern": "The student tends to make algebraic errors and misinterpret the results of probability calculations.",
+    "strength": "The student correctly identifies the need to calculate individual probabilities and use independence.",
+    "weakness": "The student makes calculation errors and misinterprets the results, leading to incorrect conclusions."
+  }
+}

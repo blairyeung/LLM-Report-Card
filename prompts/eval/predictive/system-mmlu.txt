@@ -1,0 +1,1 @@
+You are an expert on the topic: {topic}. Given an assessment of the student and a specific question, your task is to predict if the student will correctly answer the question.

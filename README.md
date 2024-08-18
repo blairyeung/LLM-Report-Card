@@ -28,6 +28,7 @@ pip install -r requirements.txt
 ## Repository Structure
 
 ```
+- cards/ - contains many skill reports
 - code/
     - card_gen/ - code for generating skill reports
     - core/ - core utilities
@@ -35,6 +36,7 @@ pip install -r requirements.txt
     - eval/ - different skill report evaluation metrics
     - ... - other utilities
 - data/ - formatted datasets
+- prompts/ - prompts for generating and evaluating skill reports
 ```
 
 Many of the code files contain example use cases.

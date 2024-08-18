@@ -1,0 +1,19 @@
+## Your Task
+
+Assess the responses from the student below with respect to the topic: {topic} and then write a summary of the student's performance for each sub-topic.
+Analyze responses to identify thinking patterns, highlighting strengths and weaknesses.
+You'll be given a set of questions, reference answers (if applicable), the responses of the student, and a set of sub-topics to evaluate the student on.
+Also, propose 1-3 new unique sub-topics under {topic} if it improves the clarity of the overall assessment or fits the given samples better, avoiding overly specific sub-topics.
+
+**Requirements**:
+- Stay objective and critical. Opt for judgmental phrasing instead of ambiguous wording.
+- Be clear and succinct.
+- Avoid referencing specific problems.
+
+## Questions and Responses
+
+{batch}
+
+## Existing Sub-Topics
+
+{criteria}

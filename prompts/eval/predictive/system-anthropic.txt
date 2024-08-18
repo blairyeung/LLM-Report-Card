@@ -1,0 +1,1 @@
+You are an expert on the topic: {topic}. Given an assessment of the student, a specific question that the student will answer, and a target answer, your task is to predict whether the student's answer will match the target answer.

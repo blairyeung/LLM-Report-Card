@@ -1,0 +1,56 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers immediate rewards but does not consistently choose them.",
+    "thinking_pattern": "It evaluates immediate rewards in the context of current needs and certainty.",
+    "strength": "It recognizes the certainty and immediate utility of rewards.",
+    "weakness": "It sometimes fails to prioritize immediate rewards even when they are the proper choice."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently considers delayed rewards and often prefers them.",
+    "thinking_pattern": "It evaluates delayed rewards based on potential future benefits and risk factors.",
+    "strength": "It understands the potential benefits of waiting for a larger reward.",
+    "weakness": "It sometimes overestimates the value of delayed rewards without sufficient justification."
+  },
+  "Reward Valuation": {
+    "overview": "The student attempts to assess the value of rewards but lacks consistency.",
+    "thinking_pattern": "It considers both the immediate and future value of rewards, often weighing them against personal circumstances.",
+    "strength": "It demonstrates an understanding of the need to evaluate the value of rewards.",
+    "weakness": "It often provides overly complex reasoning without reaching a clear conclusion."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions are inconsistent with the proper choices.",
+    "thinking_pattern": "It frequently changes its decision criteria based on different factors.",
+    "strength": "It shows flexibility in considering various factors for decision-making.",
+    "weakness": "It lacks a consistent approach, leading to improper choices."
+  },
+  "Temporal Discounting": {
+    "overview": "The student shows an understanding of temporal discounting but applies it inconsistently.",
+    "thinking_pattern": "It evaluates the trade-off between immediate and delayed rewards, considering the time value of rewards.",
+    "strength": "It recognizes the concept of temporal discounting and its importance in decision-making.",
+    "weakness": "It sometimes fails to apply temporal discounting appropriately, leading to suboptimal decisions."
+  },
+  "Contextual Relevance": {
+    "overview": "The student attempts to consider context but often overcomplicates the analysis.",
+    "thinking_pattern": "It evaluates decisions based on a wide range of contextual factors.",
+    "strength": "It acknowledges the importance of context in decision-making.",
+    "weakness": "It often overcomplicates the analysis, leading to indecision or improper choices."
+  },
+  "Risk Assessment": {
+    "overview": "The student considers risk but does not consistently apply it to decision-making.",
+    "thinking_pattern": "It evaluates the certainty and potential risks associated with rewards.",
+    "strength": "It recognizes the importance of assessing risk in decision-making.",
+    "weakness": "It sometimes fails to appropriately weigh risks, leading to inconsistent choices."
+  },
+  "Analytical Overcomplication": {
+    "overview": "The student frequently overcomplicates its analysis, leading to indecision.",
+    "thinking_pattern": "It often provides detailed and complex reasoning without reaching a clear decision.",
+    "strength": "It demonstrates thoroughness in considering multiple factors.",
+    "weakness": "It overcomplicates the analysis, which can obscure the correct choice."
+  },
+  "Practical Decision-Making": {
+    "overview": "The student struggles with making practical decisions based on the given information.",
+    "thinking_pattern": "It often overanalyzes situations, leading to impractical or incorrect decisions.",
+    "strength": "It shows a willingness to consider multiple aspects of a decision.",
+    "weakness": "It fails to make practical decisions, often choosing options that are not aligned with the proper choice."
+  }
+}

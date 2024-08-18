@@ -1,0 +1,38 @@
+{
+  "Understanding of Character": {
+    "overview": "The student demonstrates a clear understanding of the character's role and context in various scenarios.",
+    "thinking_pattern": "The student consistently applies logical reasoning and context-appropriate responses.",
+    "strength": "The student excels in providing detailed and contextually appropriate responses that align with the character's role and situation.",
+    "weakness": "The student occasionally defaults to a generic or overly formal tone, which may detract from the authenticity of the character."
+  },
+  "Consistency in Roleplaying": {
+    "overview": "The student maintains a consistent portrayal of the character across different scenarios.",
+    "thinking_pattern": "The student shows a pattern of maintaining character traits and motivations consistently.",
+    "strength": "The student consistently adheres to the character's established traits and motivations, ensuring a coherent portrayal.",
+    "weakness": "There are instances where the student's responses lack emotional variability, making the character seem less dynamic."
+  },
+  "Creativity and Adaptability": {
+    "overview": "The student demonstrates creativity and adaptability in responding to diverse scenarios.",
+    "thinking_pattern": "The student shows a pattern of generating creative and contextually appropriate responses.",
+    "strength": "The student effectively adapts to different scenarios, providing creative and engaging responses that fit the context.",
+    "weakness": "The student's creativity is sometimes limited by a tendency to rely on formal or structured language, which can reduce the spontaneity of the character."
+  },
+  "Emotional Depth": {
+    "overview": "The student exhibits a moderate level of emotional depth in character responses.",
+    "thinking_pattern": "The student tends to describe emotions and reactions in a detailed but somewhat detached manner.",
+    "strength": "The student provides detailed descriptions of emotional states and reactions, adding depth to the character.",
+    "weakness": "The student's responses sometimes lack the emotional nuance and variability that would make the character more relatable and authentic."
+  },
+  "Engagement with Scenario": {
+    "overview": "The student engages well with the given scenarios, providing thoughtful and relevant responses.",
+    "thinking_pattern": "The student consistently engages with the scenario context, providing relevant and thoughtful responses.",
+    "strength": "The student effectively engages with the scenarios, offering responses that are well thought out and relevant to the context.",
+    "weakness": "The student's engagement can sometimes feel formulaic, lacking the spontaneity and natural flow of a truly immersive roleplaying experience."
+  },
+  "Authenticity of Voice": {
+    "overview": "The student demonstrates a moderate level of authenticity in the character's voice.",
+    "thinking_pattern": "The student tends to use formal and structured language, which can affect the authenticity of the character's voice.",
+    "strength": "The student provides clear and articulate responses, ensuring the character's voice is understandable and coherent.",
+    "weakness": "The student's use of formal and structured language can sometimes make the character's voice feel less authentic and relatable."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student evaluates the immediate benefits of receiving a reward now but often undervalues them in favor of delayed rewards.",
+    "thinking_pattern": "The student acknowledges the appeal of immediate satisfaction and considers it in decision-making, but tends to prioritize future benefits.",
+    "strength": "The student demonstrates a clear understanding of the immediate benefits and needs associated with each choice.",
+    "weakness": "The student often overlooks the long-term benefits and potential higher rewards that come with delayed gratification."
+  },
+  "Delayed Gratification": {
+    "overview": "The student shows a preference for delayed gratification, frequently emphasizing the benefits of waiting for a larger reward.",
+    "thinking_pattern": "The student consistently opts for larger rewards that require waiting, indicating a high tolerance for delayed gratification and prioritizing long-term benefits.",
+    "strength": "The student excels in identifying and valuing the benefits of waiting for a larger reward, demonstrating better self-control and long-term planning.",
+    "weakness": "The student sometimes overemphasizes delayed gratification, even in cases where immediate rewards are more appropriate, overlooking potential downsides such as opportunity costs or immediate needs."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates rewards based on size and timing but often misjudges the context in which they are offered.",
+    "thinking_pattern": "The student compares the quantitative and qualitative aspects of rewards, focusing on the increased value of delayed rewards without fully considering the situational context.",
+    "strength": "The student is adept at calculating the increased value of larger, delayed rewards and explaining their potential benefits.",
+    "weakness": "The student occasionally fails to account for the subjective value of immediate rewards and situational factors, leading to a bias towards delayed options."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows a consistent preference for either immediate or delayed rewards across different scenarios.",
+    "thinking_pattern": "The student exhibits a consistent pattern of decision-making, either favoring future rewards over immediate ones or vice versa, applying a similar rationale to various scenarios.",
+    "strength": "The student maintains a logical and consistent approach to decision-making, which can be beneficial in stable, predictable environments.",
+    "weakness": "The student's consistent preference for either immediate or delayed rewards sometimes results in improper choices where the opposite type of reward is more suitable."
+  },
+  "Temporal Discounting": {
+    "overview": "The student demonstrates a rate of temporal discounting, often undervaluing immediate rewards in favor of future ones.",
+    "thinking_pattern": "The student evaluates the trade-offs between immediate and future rewards, applying a discount rate to future rewards and making them appear more or less valuable.",
+    "strength": "The student is capable of recognizing the long-term benefits of waiting for larger rewards and effectively explains the concept of temporal discounting.",
+    "weakness": "The student occasionally underestimates the impact of temporal discounting on immediate rewards, leading to decisions that may not align with optimal short-term outcomes."
+  },
+  "Contextual Awareness": {
+    "overview": "The student takes into account the context and circumstances surrounding each decision but sometimes lacks contextual awareness.",
+    "thinking_pattern": "The student evaluates situational factors that might influence the decision between immediate and delayed rewards but often ignores them in favor of quantitative aspects.",
+    "strength": "The student provides detailed contextual analysis, considering factors like urgency, need, and reliability of future rewards, and is methodical in evaluating the numerical value of rewards.",
+    "weakness": "The student sometimes overcomplicates the decision-making process by overemphasizing contextual factors, leading to choices that may not be practical or beneficial in the given situation."
+  },
+  "Risk Assessment": {
+    "overview": "The student evaluates the risks associated with waiting for a delayed reward.",
+    "thinking_pattern": "The student considers the certainty and reliability of future rewards in decision-making.",
+    "strength": "The student effectively identifies potential risks and uncertainties related to delayed rewards.",
+    "weakness": "The student occasionally underestimates the certainty of immediate rewards, leading to a bias towards delayed options."
+  },
+  "Economic Rationality": {
+    "overview": "The student demonstrates an understanding of economic principles but struggles to apply them effectively.",
+    "thinking_pattern": "The student often references economic concepts like the time value of money but fails to integrate them into decision-making.",
+    "strength": "The student shows knowledge of economic principles and attempts to use them in reasoning.",
+    "weakness": "The student does not consistently apply economic rationality to make optimal decisions, often defaulting to immediate rewards despite understanding the potential benefits of waiting."
+  }
+}

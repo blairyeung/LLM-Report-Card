@@ -1,0 +1,63 @@
+## Assessment Factors
+
+{criteria}
+
+## Formatting:
+
+Write your assessment in the following JSON format, emphasizing the most critical differences between the students:
+
+{{
+  "[name of existing factor 1]": {{
+    "Student A": {{
+      "overview": "...",
+      "thinking_pattern": "...",
+      "strength": "...",
+      "weakness": "..."
+    }},
+    "Student B": {{
+      "overview": "...",
+      "thinking_pattern": "...",
+      "strength": "...",
+      "weakness": "..."
+    }}
+  }},
+  "[name of existing factor 2]": {{
+    "Student A": {{
+      "overview": "...",
+      "thinking_pattern": "...",
+      "strength": "...",
+      "weakness": "..."
+    }},
+    "Student B": {{
+      "overview": "...",
+      "thinking_pattern": "...",
+      "strength": "...",
+      "weakness": "..."
+    }}
+  }},
+  // Continue for other existing factors
+
+  "[name of new factor 1]": {{
+    "Student A": {{
+      "overview": "...",
+      "thinking_pattern": "...",
+      "strength": "...",
+      "weakness": "..."
+    }},
+    "Student B": {{
+      "overview": "...",
+      "thinking_pattern": "...",
+      "strength": "...",
+      "weakness": "..."
+    }}
+  }},
+  // Continue for other new factors
+}}
+
+Notes:
+
+- Use "it" to refer to the student.
+- If there's no information to conclude for a factor with respect to a student, you must completely leave every field blank for that student under that factor. But you must still include the factor and student in the JSON.
+- Focus on the most distinctive and critical differences between the students to maximize the discriminative power of the evaluation cards.
+
+**IMPORTANT**: Do not include common traits, only differences!

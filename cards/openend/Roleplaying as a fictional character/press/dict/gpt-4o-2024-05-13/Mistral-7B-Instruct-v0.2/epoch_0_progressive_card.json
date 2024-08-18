@@ -1,0 +1,32 @@
+{
+  "Understanding of Character": {
+    "overview": "The student demonstrates a clear understanding of the character it is roleplaying, often providing detailed and contextually appropriate responses.",
+    "thinking_pattern": "The student consistently provides logical and well-reasoned responses that align with the character's perspective and background.",
+    "strength": "The student excels in maintaining the character's voice and perspective, ensuring that responses are coherent and contextually appropriate.",
+    "weakness": "The student occasionally defaults to a more generic or philosophical perspective, which can detract from the immersion of the roleplaying experience."
+  },
+  "Consistency": {
+    "overview": "The student maintains a consistent portrayal of the character across different scenarios and questions.",
+    "thinking_pattern": "The student shows a pattern of aligning responses with the character's established traits and background.",
+    "strength": "The student is adept at keeping the character's responses consistent, ensuring that the portrayal remains believable and immersive.",
+    "weakness": "There are instances where the student\u2019s responses become more generalized, which can break the consistency of the character portrayal."
+  },
+  "Creativity": {
+    "overview": "The student demonstrates creativity in crafting responses that are imaginative and engaging.",
+    "thinking_pattern": "The student often incorporates unique and thoughtful elements into responses, enhancing the depth of the character.",
+    "strength": "The student excels in adding creative details and backstories that enrich the character and make the roleplaying more engaging.",
+    "weakness": "The student sometimes relies on standard or expected responses, which can limit the creative potential of the character."
+  },
+  "Emotional Depth": {
+    "overview": "The student shows an understanding of the emotional aspects of the character, though it sometimes defaults to a more analytical perspective.",
+    "thinking_pattern": "The student tends to analyze situations logically, occasionally at the expense of emotional depth.",
+    "strength": "The student is capable of providing emotionally resonant responses when prompted, adding depth to the character.",
+    "weakness": "The student often prioritizes logical analysis over emotional expression, which can make the character seem less relatable."
+  },
+  "Adaptability": {
+    "overview": "The student demonstrates the ability to adapt the character's responses to a variety of scenarios and questions.",
+    "thinking_pattern": "The student shows flexibility in adjusting the character's responses to fit different contexts and challenges.",
+    "strength": "The student is skilled at modifying the character's responses to suit different situations, maintaining coherence and relevance.",
+    "weakness": "The student occasionally struggles with maintaining character-specific nuances when adapting to new scenarios, leading to more generic responses."
+  }
+}

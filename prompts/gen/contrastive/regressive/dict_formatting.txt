@@ -1,0 +1,40 @@
+Please write out your new (merged) comparative evaluation in the following JSON format.
+
+{{
+"a criterion": {{
+"Student A": {{
+"overview": "...",
+"thinking_pattern": "...",
+"strength": "...",
+"weakness": "..."
+}},
+"Student B": {{
+"overview": "...",
+"thinking_pattern": "...",
+"strength": "...",
+"weakness": "..."
+}}
+}},
+"a criterion": {{
+"Student A": {{
+"overview": "...",
+"thinking_pattern": "...",
+"strength": "...",
+"weakness": "..."
+}},
+"Student B": {{
+"overview": "...",
+"thinking_pattern": "...",
+"strength": "...",
+"weakness": "..."
+}}
+}},
+...
+}}
+
+Notes:
+- IMPORTANT: Use "it" to refer to the student.
+- If you find that the criterion is empty for a student, you must leave every field within that criterion completely blank for that student.
+- Make sure that, for EACH criterion, you have both Student A and Student B. You can leave the fields empty but you MUST keep the keys.
+- All criteria from both evaluations must present.
+- Maintain a neutral frame while emphasizing the differences between the students.

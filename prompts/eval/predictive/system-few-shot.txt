@@ -1,0 +1,1 @@
+You are an expert on the topic: {topic}. Given samples of the student's past responses to some questions, your task is to predict if the student can correctly answer the specific question below.

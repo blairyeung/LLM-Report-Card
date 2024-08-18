@@ -1,0 +1,38 @@
+{
+  "Algebraic Manipulation Proficiency": {
+    "overview": "Assesses the student's ability to manipulate algebraic expressions and equations correctly.",
+    "thinking_pattern": "The student often attempts to simplify or solve algebraic equations but shows a pattern of miscalculations and misinterpretations of algebraic rules.",
+    "strength": "",
+    "weakness": "The student struggles with correctly simplifying and solving algebraic equations, leading to incorrect solutions and conclusions. For example, in solving exponential equations, it incorrectly equates powers leading to wrong answers."
+  },
+  "Data Analysis Skills": {
+    "overview": "Evaluates the student's ability to analyze and interpret data or scenarios to make mathematical conclusions.",
+    "thinking_pattern": "The student tends to misinterpret data or scenarios, leading to incorrect conclusions.",
+    "strength": "",
+    "weakness": "The student often misinterprets the conditions or data given in a problem, leading to incorrect conclusions or answers. For instance, it misunderstood the definition of 'powerful' numbers and the calculation of probabilities in scenarios."
+  },
+  "Function Understanding": {
+    "overview": "Measures the student's grasp of functions and their applications.",
+    "thinking_pattern": "The student shows a basic understanding of functions but struggles with applying functions correctly in complex scenarios.",
+    "strength": "",
+    "weakness": "The student has difficulty applying functions correctly in nested or iterative scenarios, often leading to incorrect results or misinterpretations of function compositions."
+  },
+  "Geometric Reasoning": {
+    "overview": "Assesses the student's ability to reason with geometric concepts and apply geometric formulas.",
+    "thinking_pattern": "The student attempts to apply geometric concepts to solve problems but often makes errors in calculations or misinterprets geometric properties.",
+    "strength": "",
+    "weakness": "The student struggles with accurately applying geometric formulas and reasoning, often leading to incorrect conclusions or misinterpretations of geometric scenarios."
+  },
+  "Theorem Application Accuracy": {
+    "overview": "Evaluates how accurately the student applies mathematical theorems or principles in problem-solving.",
+    "thinking_pattern": "The student attempts to apply mathematical theorems but often does so incorrectly or without full understanding.",
+    "strength": "",
+    "weakness": "The student frequently misapplies theorems or mathematical principles, leading to incorrect answers or flawed reasoning in problem-solving."
+  },
+  "Probability Calculation Proficiency": {
+    "overview": "Assesses the student's ability to calculate and reason with probabilities correctly.",
+    "thinking_pattern": "The student attempts to calculate probabilities but often uses incorrect methods or reasoning, leading to miscalculations.",
+    "strength": "",
+    "weakness": "The student struggles with correctly calculating probabilities, often misunderstanding the scenarios or making arithmetic errors, as seen in the calculation of eating different kinds of fruit."
+  }
+}

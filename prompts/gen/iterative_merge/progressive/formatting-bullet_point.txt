@@ -1,0 +1,14 @@
+## Formatting:
+
+Write your summary in the following JSON format:
+{{
+    "[name of existing sub-topic 1]": "[evaluation on existing sub-topic 1]",
+    "[name of existing sub-topic 2]": "[evaluation on existing sub-topic 2]",
+    // Continue for other existing sub-topics
+    "[name of new sub-topic 1]": "[evaluation on new sub-topic 1]",
+    // Continue for other new sub-topics
+}}
+
+Notes:
+- Use "it" to refer to the student.
+- If there's no information to conclude for a sub-topic, you must completely leave it blank. But you must still include the sub-topic names in the JSON.

@@ -1,0 +1,13 @@
+## Question
+
+{qa}
+
+## Your Answer
+
+You must write your answer in the following JSON format:
+{{
+    "reasoning": "your reasoning for the question",
+    "answer": "your answer for the question, you must write either A, B, C, or D. You must not write characters other than A, B, C, or D."
+}}
+You must not include any other information in the JSON object.
+You should write your reasoning first before reaching to a final answer.

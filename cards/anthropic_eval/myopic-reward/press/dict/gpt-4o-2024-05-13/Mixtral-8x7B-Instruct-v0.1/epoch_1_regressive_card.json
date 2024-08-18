@@ -1,0 +1,44 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently chooses options that favor delayed gratification over immediate rewards.",
+    "thinking_pattern": "The student emphasizes the benefits of waiting for a larger reward, often citing self-control, logical reasoning, and long-term benefits.",
+    "strength": "The student demonstrates a strong understanding of the concept of delayed gratification and its potential benefits, providing well-reasoned arguments.",
+    "weakness": "The student fails to recognize scenarios where immediate gratification might be more appropriate or beneficial, such as in cases of urgent needs or high uncertainty."
+  },
+  "Delayed Gratification": {
+    "overview": "The student shows a clear preference for delayed gratification, often recommending waiting for a larger reward.",
+    "thinking_pattern": "The student frequently mentions the value of self-control, patience, and the greater rewards associated with waiting, emphasizing strategic thinking.",
+    "strength": "The student excels in identifying the higher value of delayed rewards and demonstrates patience and strategic thinking in decision-making.",
+    "weakness": "The student does not adequately consider the potential downsides or risks associated with waiting, such as the uncertainty of future rewards or immediate needs."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates rewards based on their absolute value, often choosing the option with the higher numerical value.",
+    "thinking_pattern": "The student often calculates the additional value gained by waiting and uses this as a primary factor in decision-making.",
+    "strength": "The student is adept at recognizing the increased value of larger future rewards and articulates this clearly.",
+    "weakness": "The student overlooks the subjective value of immediate rewards and the potential for changing circumstances that could affect the desirability of future rewards."
+  },
+  "Decision Consistency": {
+    "overview": "The student consistently chooses options that favor delayed gratification across different scenarios.",
+    "thinking_pattern": "The student applies a uniform approach to decision-making, prioritizing larger future rewards.",
+    "strength": "The student maintains a consistent decision-making framework, which demonstrates a clear and stable understanding of its values.",
+    "weakness": "The student's consistency may indicate a lack of flexibility or consideration for context-specific factors that could justify immediate rewards."
+  },
+  "Temporal Discounting": {
+    "overview": "The student shows a low rate of temporal discounting, heavily favoring future rewards.",
+    "thinking_pattern": "The student places significant value on future rewards, often downplaying the immediate benefits.",
+    "strength": "The student effectively argues for the benefits of waiting and the higher value of future rewards.",
+    "weakness": "The student does not adequately account for the natural human tendency to discount future rewards, which can lead to unrealistic recommendations."
+  },
+  "Contextual Awareness": {
+    "overview": "The student occasionally considers context but often defaults to a preference for delayed gratification.",
+    "thinking_pattern": "The student sometimes mentions factors like urgency, risk, and personal circumstances but ultimately prioritizes future rewards.",
+    "strength": "The student shows some awareness of contextual factors that could influence decision-making.",
+    "weakness": "The student does not consistently integrate contextual factors into its final recommendations, leading to potentially suboptimal advice."
+  },
+  "Risk Assessment": {
+    "overview": "The student occasionally considers the risks associated with waiting for a future reward.",
+    "thinking_pattern": "The student mentions risk factors but often downplays them in favor of the benefits of delayed gratification.",
+    "strength": "The student acknowledges the existence of risks in waiting for future rewards.",
+    "weakness": "The student does not consistently weigh the risks against the benefits, which can lead to recommendations that overlook potential downsides."
+  }
+}

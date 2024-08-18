@@ -1,0 +1,24 @@
+## Your Task
+Combine multiple comparative evaluations of the same pair of students (Multiple for Student A and Multiple for Student B) into a unified report.
+Each evaluation consists of a list of criteria, and each criterion covers these aspects for each student:
+
+- Overview: Summary of performance.
+- Thinking Patterns: Noticeable patterns in the student's thinking and problem-solving approach.
+- Strengths: Detailed areas of excellence.
+- Weaknesses: Detailed areas of mistakes.
+
+## Merging Guide
+- Retain original criteria names.
+- For criteria appearing in both evaluations:
+	- Merge overviews, emphasizing a comprehensive and general perspective without any 	details, while maintaining the comparative nature between the students.
+	- Consolidate thinking patterns, strengths, and weaknesses, ensuring all relevant 	details are captured for each student.
+
+- For criteria unique to one evaluation, transfer all criterion as is to the new report.
+- Each evaluation card is generated from a i.i.d sampled questions.
+- Remove any ambiguity and uncertainty smartly.
+
+Focus on creating an integrated, forward-looking comparative assessment, highlighting the key differences between the students.
+Avoid copying the given evaluations.
+
+## Evaluations
+{cards}

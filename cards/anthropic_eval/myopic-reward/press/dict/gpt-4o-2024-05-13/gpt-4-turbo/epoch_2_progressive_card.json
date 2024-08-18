@@ -1,0 +1,50 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently chooses options that provide immediate rewards.",
+    "thinking_pattern": "The student tends to prioritize immediate satisfaction over potential future benefits.",
+    "strength": "The student demonstrates a clear understanding of the immediate benefits and needs associated with each choice.",
+    "weakness": "The student often overlooks the long-term benefits and potential higher rewards that come with delayed gratification."
+  },
+  "Delayed Gratification": {
+    "overview": "The student shows a preference for immediate rewards over delayed ones.",
+    "thinking_pattern": "The student struggles to value future rewards appropriately, often opting for immediate gains.",
+    "strength": "The student acknowledges the concept of delayed gratification and its potential benefits.",
+    "weakness": "The student fails to apply the concept effectively, frequently choosing immediate rewards despite understanding the benefits of waiting."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates rewards based on immediate needs and satisfaction.",
+    "thinking_pattern": "The student places higher value on immediate rewards, often underestimating the value of future rewards.",
+    "strength": "The student is able to articulate the immediate benefits and reasons for choosing them.",
+    "weakness": "The student does not adequately consider the long-term value and potential higher returns of delayed rewards."
+  },
+  "Decision Consistency": {
+    "overview": "The student consistently chooses immediate rewards across different scenarios.",
+    "thinking_pattern": "The student exhibits a consistent pattern of favoring immediate rewards, indicating a possible bias towards short-term gains.",
+    "strength": "The student maintains a consistent decision-making approach, which can be predictable and straightforward.",
+    "weakness": "The student's consistent preference for immediate rewards suggests a lack of flexibility in considering long-term benefits."
+  },
+  "Temporal Discounting": {
+    "overview": "The student heavily discounts future rewards in favor of immediate ones.",
+    "thinking_pattern": "The student demonstrates a high rate of temporal discounting, valuing immediate rewards significantly more than future ones.",
+    "strength": "The student is aware of the concept of temporal discounting and its implications.",
+    "weakness": "The student applies a high discount rate to future rewards, often leading to suboptimal decisions that favor immediate gratification."
+  },
+  "Contextual Awareness": {
+    "overview": "The student considers contextual factors but often defaults to immediate rewards.",
+    "thinking_pattern": "The student takes into account various contextual factors but ultimately prioritizes immediate rewards.",
+    "strength": "The student shows an understanding of different contextual factors that can influence decision-making.",
+    "weakness": "The student does not effectively integrate contextual awareness into their final decision, often defaulting to immediate rewards."
+  },
+  "Risk Assessment": {
+    "overview": "The student evaluates risks but tends to favor immediate, certain rewards.",
+    "thinking_pattern": "The student considers potential risks but often opts for the certainty of immediate rewards.",
+    "strength": "The student is capable of identifying and articulating potential risks associated with delayed rewards.",
+    "weakness": "The student tends to overemphasize the certainty of immediate rewards, potentially underestimating the benefits of taking calculated risks for future gains."
+  },
+  "Economic Rationality": {
+    "overview": "The student demonstrates an understanding of economic principles but struggles to apply them effectively.",
+    "thinking_pattern": "The student often references economic concepts like the time value of money but fails to integrate them into decision-making.",
+    "strength": "The student shows knowledge of economic principles and attempts to use them in reasoning.",
+    "weakness": "The student does not consistently apply economic rationality to make optimal decisions, often defaulting to immediate rewards despite understanding the potential benefits of waiting."
+  }
+}

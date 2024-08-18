@@ -1,0 +1,23 @@
+Your task is to extract relevant sub-topics from a student's evaluation card based on a given question and the student's response to that question.
+
+# The Student's Evaluation Card
+
+{card}
+
+# The Question
+
+{qa}
+
+# The Student's Response
+
+{response}
+
+# Your Task
+
+The student's evaluation card consists of multiple bullet points with each point starting with a sub-topic.
+You must extract relevant bullet points in the card to the given question and the student's response.
+
+Write your response in the following JSON format:
+{{
+        "relevant_sub_topics": [sub_topic_1, sub_topic_2, ...]
+}}

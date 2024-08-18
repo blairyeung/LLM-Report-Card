@@ -1,0 +1,44 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers the immediate benefits of a reward.",
+    "thinking_pattern": "The student shows a tendency to weigh immediate rewards against future benefits, sometimes favoring immediate gratification.",
+    "strength": "The student correctly identifies scenarios where immediate rewards are more beneficial, such as choosing a small piece of cake now to avoid potential discomfort later.",
+    "weakness": "The student occasionally fails to recognize the value of immediate rewards in scenarios where they are more appropriate, such as choosing 10 points in a week over 1 point today."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently evaluates the benefits of waiting for a larger reward.",
+    "thinking_pattern": "The student often justifies delayed gratification by emphasizing the greater value or benefits of waiting.",
+    "strength": "The student effectively identifies situations where waiting for a larger reward is more beneficial, such as choosing a larger vacation later or a larger dataset for better performance.",
+    "weakness": "The student sometimes overemphasizes delayed gratification, even in cases where immediate rewards might be more practical or beneficial, such as choosing $1000 in a year over $100 now."
+  },
+  "Reward Valuation": {
+    "overview": "The student assesses the value of rewards based on quantity and timing.",
+    "thinking_pattern": "The student tends to compare the immediate and future values of rewards, often considering the quantity and potential benefits.",
+    "strength": "The student accurately evaluates the value of larger rewards in the future, such as choosing 10 chocolate bars in a week over one now.",
+    "weakness": "The student sometimes misjudges the practical value of immediate rewards, such as choosing $1000 in a year over $100 now despite inflation considerations."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions show a mix of consistency and inconsistency.",
+    "thinking_pattern": "The student\u2019s decisions are sometimes inconsistent, reflecting a mix of immediate and delayed gratification preferences.",
+    "strength": "The student consistently chooses larger future rewards in scenarios where the benefits are clear and significant.",
+    "weakness": "The student shows inconsistency in decisions, such as choosing immediate rewards in some cases and delayed rewards in others without a clear rationale."
+  },
+  "Temporal Discounting": {
+    "overview": "The student considers the devaluation of rewards over time.",
+    "thinking_pattern": "The student often factors in the devaluation of future rewards due to time, such as inflation or potential changes in value.",
+    "strength": "The student correctly identifies the impact of inflation on future monetary rewards, such as considering the devaluation of $1000 in a year.",
+    "weakness": "The student sometimes fails to apply temporal discounting consistently, leading to choices that do not align with the principle, such as choosing $1000 in a year over $100 now."
+  },
+  "Risk Consideration": {
+    "overview": "The student occasionally considers the risks associated with future rewards.",
+    "thinking_pattern": "The student sometimes evaluates the potential risks and uncertainties of future rewards.",
+    "strength": "The student acknowledges the risks of future rewards, such as market fluctuations and inflation.",
+    "weakness": "The student does not consistently apply risk consideration across all scenarios, leading to choices that may not account for potential uncertainties."
+  },
+  "Contextual Understanding": {
+    "overview": "The student demonstrates an understanding of the context in which decisions are made.",
+    "thinking_pattern": "The student\u2019s decisions reflect an awareness of the context and specific details of each scenario.",
+    "strength": "The student provides contextually relevant reasoning, such as considering the need for immediate financial security or the benefits of a larger dataset for AI training.",
+    "weakness": "The student occasionally overlooks contextual factors that might influence the decision, such as immediate needs or practical constraints."
+  }
+}

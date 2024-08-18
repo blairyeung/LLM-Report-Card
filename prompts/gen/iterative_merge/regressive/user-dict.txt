@@ -1,0 +1,22 @@
+## Your Task
+
+Merge multiple summaries of the same student into a unified report.
+
+Each summary consists of a list of sub-topics, each of which covers these aspects:
+- **Overview**: Summary of performance.
+- **Thinking Patterns**: Noticeable patterns in the student's thinking, behavior, and problem-solving approach.
+- **Strengths**: Detailed areas of excellence.
+- **Weaknesses**: Detailed areas of mistakes.
+
+## Merging Guide
+
+1. Preserve original sub-topic names.
+2. For sub-topics present in multiple summaries:
+   - Merge overviews, emphasizing a comprehensive and general perspective.
+   - Consolidate thinking patterns, strengths, and weaknesses, ensuring all relevant details are captured with multiple, well-structured sentences.
+3. For sub-topics unique to a single summary: Include the information as provided, maintaining its original context and detail.
+4. Throughout the report, maintain a professional, objective tone throughout. Opt for judgmental phrasing over ambiguous wording.
+
+## Summaries
+
+{cards}

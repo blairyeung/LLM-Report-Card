@@ -1,0 +1,50 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently prefers immediate rewards over delayed ones.",
+    "thinking_pattern": "The student often emphasizes the benefits of immediate satisfaction and the certainty of receiving a reward now.",
+    "strength": "The student effectively identifies the immediate benefits and certainty associated with receiving a reward now.",
+    "weakness": "The student tends to undervalue the potential long-term benefits and higher value of delayed rewards."
+  },
+  "Delayed Gratification": {
+    "overview": "The student occasionally considers the benefits of waiting for a larger reward but often defaults to immediate rewards.",
+    "thinking_pattern": "The student evaluates the potential future benefits and the anticipation associated with delayed rewards, frequently highlighting the risks and uncertainties associated with waiting.",
+    "strength": "The student acknowledges the potential for greater rewards in the future and is adept at recognizing the potential risks and uncertainties of delayed rewards.",
+    "weakness": "The student frequently undervalues the benefits of delayed gratification and often fails to adequately consider the potential higher value and benefits of delayed rewards."
+  },
+  "Reward Valuation": {
+    "overview": "The student assesses the value of rewards both in the present and future contexts.",
+    "thinking_pattern": "The student compares the quantitative and qualitative aspects of rewards, focusing on immediate utility and certainty rather than long-term value.",
+    "strength": "The student is thorough in evaluating the quality and potential benefits of rewards, considering factors like opportunity cost and potential satisfaction.",
+    "weakness": "The student often undervalues the long-term benefits and higher value of delayed rewards, sometimes overcomplicating the valuation process and leading to inconsistent decisions."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions show a pattern but are not always consistent with the optimal choice.",
+    "thinking_pattern": "The student\u2019s choices vary between immediate and delayed rewards, often influenced by contextual factors, but consistently applies the same reasoning pattern favoring immediate rewards.",
+    "strength": "The student demonstrates consistency in decision-making, showing a clear preference for immediate rewards.",
+    "weakness": "The student's consistent preference for immediate rewards may indicate a lack of flexibility in considering different contexts and a lack of consideration for the potential benefits of delayed rewards."
+  },
+  "Temporal Discounting": {
+    "overview": "The student exhibits a strong tendency towards temporal discounting, heavily favoring immediate rewards.",
+    "thinking_pattern": "The student frequently discounts the value of future rewards, preferring immediate ones.",
+    "strength": "The student is aware of the concept of temporal discounting and applies it in decision-making.",
+    "weakness": "The student often overemphasizes temporal discounting, leading to a preference for immediate rewards even when delayed rewards are significantly higher."
+  },
+  "Contextual Consideration": {
+    "overview": "The student takes into account various contextual factors when making decisions but often defaults to immediate rewards.",
+    "thinking_pattern": "The student evaluates the specific circumstances surrounding each decision, such as the type of reward, the effort required, and the potential risks, but generally defaults to the immediate reward.",
+    "strength": "The student shows a thorough approach to decision-making by considering various contextual factors, leading to well-reasoned choices.",
+    "weakness": "Despite considering various factors, the student often fails to fully integrate contextual factors, leading to a bias towards immediate rewards."
+  },
+  "Risk Assessment": {
+    "overview": "The student evaluates potential risks associated with both immediate and delayed rewards.",
+    "thinking_pattern": "The student frequently mentions potential uncertainties and risks when considering delayed rewards.",
+    "strength": "The student is diligent in identifying and assessing risks, adept at identifying and articulating potential risks and uncertainties.",
+    "weakness": "The student occasionally overestimates risks, leading to a bias towards immediate rewards."
+  },
+  "Consistency with Optimal Choice": {
+    "overview": "The student's choices are often inconsistent with the optimal choice, favoring immediate rewards.",
+    "thinking_pattern": "The student frequently chooses immediate rewards even when the optimal choice is a delayed reward.",
+    "strength": "The student consistently applies its reasoning pattern, even if it leads to suboptimal choices.",
+    "weakness": "The student's preference for immediate rewards often results in choices that are not optimal in terms of overall value."
+  }
+}

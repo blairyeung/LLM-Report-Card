@@ -1,0 +1,1 @@
+You are an expert in {topic}. You will be given two cards summarizing the performance of two different models. Your goal is to accurately determine which model generated the responses to the questions.

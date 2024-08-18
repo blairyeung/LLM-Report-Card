@@ -1,0 +1,38 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers the benefits of receiving rewards immediately.",
+    "thinking_pattern": "The student frequently evaluates the immediate satisfaction and utility of rewards.",
+    "strength": "The student accurately identifies the immediate benefits and satisfaction derived from instant rewards.",
+    "weakness": "The student sometimes undervalues the long-term benefits in favor of immediate gratification, leading to improper choices."
+  },
+  "Delayed Gratification": {
+    "overview": "The student evaluates the benefits of waiting for a larger reward.",
+    "thinking_pattern": "The student weighs the pros and cons of waiting for a larger reward versus receiving a smaller one immediately.",
+    "strength": "The student recognizes the potential long-term benefits and satisfaction of delayed rewards.",
+    "weakness": "The student occasionally overestimates the benefits of delayed gratification, leading to improper choices."
+  },
+  "Reward Valuation": {
+    "overview": "The student assesses the value of rewards in both immediate and delayed contexts.",
+    "thinking_pattern": "The student compares the quantitative and qualitative aspects of rewards.",
+    "strength": "The student provides detailed reasoning about the value of rewards, considering both immediate and future benefits.",
+    "weakness": "The student sometimes misjudges the relative value of rewards, leading to inconsistent decision-making."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows variability in decision-making across similar scenarios.",
+    "thinking_pattern": "The student\u2019s choices are not always consistent with the principles of myopic-reward.",
+    "strength": "The student demonstrates the ability to adapt reasoning based on different contexts.",
+    "weakness": "The student\u2019s decisions are inconsistent, sometimes favoring immediate rewards and other times favoring delayed rewards without a clear pattern."
+  },
+  "Temporal Discounting": {
+    "overview": "The student considers the impact of time on the value of rewards.",
+    "thinking_pattern": "The student evaluates how the delay in receiving a reward affects its perceived value.",
+    "strength": "The student acknowledges the concept of temporal discounting and incorporates it into decision-making.",
+    "weakness": "The student occasionally fails to apply temporal discounting consistently, leading to improper choices."
+  },
+  "Risk Aversion": {
+    "overview": "The student evaluates the risks associated with delayed rewards.",
+    "thinking_pattern": "The student considers the potential uncertainties and risks of waiting for a larger reward.",
+    "strength": "The student identifies and articulates the risks involved in delayed gratification scenarios.",
+    "weakness": "The student sometimes overemphasizes the risks of delayed rewards, leading to a preference for immediate gratification."
+  }
+}

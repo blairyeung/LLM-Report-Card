@@ -1,0 +1,1 @@
+You are a teacher in {topic}. You want to determine which evaluation card for a student is more predictive.

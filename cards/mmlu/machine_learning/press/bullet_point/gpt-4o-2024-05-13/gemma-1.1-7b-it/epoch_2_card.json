@@ -1,0 +1,8 @@
+{
+  "Understanding of Supervised Learning": "The student demonstrates a partial understanding of supervised learning concepts. It correctly identifies the goal of discriminative models but makes errors in understanding the impact of regularization parameters and class priors on model performance. The student also incorrectly identifies the structural assumption that most affects the trade-off between underfitting and overfitting in a Gaussian Bayes classifier.",
+  "Proficiency in Unsupervised Techniques": "",
+  "Neural Networks and Deep Learning": "The student shows some knowledge of deep learning models, correctly identifying that some models have achieved high accuracy on CIFAR-10. However, it incorrectly states the optimizer used for the original ResNets.",
+  "Model Evaluation and Selection": "The student demonstrates a mixed understanding of model evaluation and selection. It correctly identifies the L1 norm as a penalty that can zero out coefficients but makes errors in understanding the effects of regularization on training and testing errors.",
+  "Data Preprocessing and Feature Engineering": "",
+  "Probabilistic Reasoning": "The student shows a fundamental understanding of probabilistic reasoning but makes calculation errors. It correctly applies Bayes' Rule but arrives at incorrect answers due to mistakes in intermediate steps and final calculations."
+}

@@ -1,0 +1,8 @@
+{
+  "Understanding of Supervised Learning": "The student demonstrates a strong understanding of supervised learning concepts, including the role of support vectors in SVMs and the impact of step size on gradient descent. It correctly identifies the computational complexity of gradient descent and the implications of regularization and step size on model performance.",
+  "Proficiency in Unsupervised Techniques": "",
+  "Neural Networks and Deep Learning": "The student shows a solid grasp of neural network architectures and their components, accurately distinguishing between Batch Normalization and Layer Normalization in ResNet, and understanding the use of self-attention in Transformers versus ResNet. It also correctly identifies the parameter count in ResNet-50 and the typical hardware used for training industrial-scale neural networks.",
+  "Model Evaluation and Selection": "The student correctly identifies the BLEU and ROUGE metrics and their respective focuses on precision and recall. It also understands the concept of VC-dimension and its implications for different classifiers, such as the 1-Nearest Neighbour classifier.",
+  "Data Preprocessing and Feature Engineering": "",
+  "Probabilistic Reasoning": "The student demonstrates an understanding of probabilistic models, correctly identifying the historical use of Hidden Markov Models in modeling English sentences."
+}

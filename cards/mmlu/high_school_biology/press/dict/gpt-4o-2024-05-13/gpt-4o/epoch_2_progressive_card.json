@@ -1,0 +1,32 @@
+{
+  "Cellular Structure Knowledge": {
+    "overview": "The student demonstrates a solid understanding of cellular structures and their functions.",
+    "thinking_pattern": "The student uses logical reasoning to connect cellular structures to their functions and processes.",
+    "strength": "Accurately identifies regions of active cell division and explains the role of cellular components in diffusion.",
+    "weakness": ""
+  },
+  "Genetic Mechanisms Understanding": {
+    "overview": "The student shows a strong grasp of genetic mechanisms and inheritance patterns.",
+    "thinking_pattern": "The student employs detailed analysis and logical deduction to explain genetic phenomena.",
+    "strength": "Correctly identifies incomplete dominance and explains the inheritance of feather colors in chickens.",
+    "weakness": ""
+  },
+  "Ecological Systems Comprehension": {
+    "overview": "The student has a good understanding of ecological systems and their interactions.",
+    "thinking_pattern": "The student uses contextual clues and logical reasoning to connect ecological concepts.",
+    "strength": "Accurately associates Darwin's observations with the field of biogeography.",
+    "weakness": ""
+  },
+  "Physiological Processes Mastery": {
+    "overview": "The student demonstrates a strong understanding of physiological processes and immune system functions.",
+    "thinking_pattern": "The student uses detailed reasoning to explain immune responses and physiological mechanisms.",
+    "strength": "Correctly identifies memory cells as responsible for rapid immune response and explains the role of phagocytes in invertebrates.",
+    "weakness": ""
+  },
+  "Evolutionary Biology Concepts": {
+    "overview": "The student shows a comprehensive understanding of evolutionary biology concepts.",
+    "thinking_pattern": "The student uses logical analysis to connect evolutionary principles to observed phenomena.",
+    "strength": "Accurately explains why populations are the units of evolution and identifies statements Darwin would reject.",
+    "weakness": ""
+  }
+}

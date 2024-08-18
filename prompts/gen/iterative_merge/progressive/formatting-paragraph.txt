@@ -1,0 +1,10 @@
+Please write out your assessment for the student in the following JSON format.
+
+{
+    "analysis": <a string representing your quantitative and qualitative analysis of the student's performance>,
+    "assessment": <a string representing the paragraph assessment of the student>
+}
+
+Notes:
+- Use "it" to refer to the student.
+- You can put more question/context-related information in "analysis" section, but make sure the "assessment" section only contains unbiased, informative evaluation of the student for other teachers to know how well this student performs in this topic.

@@ -1,0 +1,5 @@
+Now, please choose from the following two options:
+A: {a_name} authors all The First Responses and {b_name} authors all The Second Responses.
+B: {a_name} authors all The Second Responses and {b_name} authors all The First Responses.
+
+Give only one character (A or B).

@@ -1,0 +1,33 @@
+Analyze the provided two evaluation cards and completions to determine which model generated the responses to the questions. Follow the steps:
+
+1. Identify relevant strengths and weaknesses from each of the evaluation card.
+
+2. Analyze the question.
+
+3. For each evaluation card, evaluate their alignment with the completion. Which one you believe aligns better?
+
+4. Conclusion: Based on the evidence, give your best prediction.
+
+5. Verdict: Provide only the number (1 or 2) of the completions you believe the student authored.
+
+Note: Exactly one response was authored by the student; the other was not.
+
+# Evaluation Card 1
+
+{card1}
+
+# Evaluation Card 2
+
+{card2}
+
+# Questions and Completions
+
+{qc} 
+
+Respond using this exact format:
+
+Reasoning: <your detailed reasoning>
+
+Conclusion: <your conclusion>
+
+Verdict: <1 or 2>

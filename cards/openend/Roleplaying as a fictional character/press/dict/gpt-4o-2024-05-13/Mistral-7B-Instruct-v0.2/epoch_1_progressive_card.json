@@ -1,0 +1,38 @@
+{
+  "Understanding of Character": {
+    "overview": "The student demonstrates a clear understanding of the character's role and context in various scenarios.",
+    "thinking_pattern": "The student consistently provides detailed and contextually appropriate responses, showing a strong grasp of the character's motivations and actions.",
+    "strength": "The student excels in creating responses that align well with the character's role, such as rallying a team or describing a peaceful day, showing a deep understanding of the character's mindset.",
+    "weakness": "The student occasionally breaks character, especially when discussing hypothetical scenarios or ethical dilemmas, which can detract from the immersion."
+  },
+  "Consistency": {
+    "overview": "The student's responses are generally consistent with the character's established traits and behaviors.",
+    "thinking_pattern": "The student maintains a consistent tone and approach in most scenarios, though there are occasional lapses.",
+    "strength": "The student maintains a consistent narrative style and character perspective in most answers, particularly in scenarios involving direct actions or personal reflections.",
+    "weakness": "In some responses, such as discussing fears or ethical dilemmas, the student reverts to a more analytical and less character-driven approach, breaking consistency."
+  },
+  "Creativity": {
+    "overview": "The student shows a good level of creativity in crafting responses that fit the character's context.",
+    "thinking_pattern": "The student uses imaginative and detailed descriptions to enhance the character's narrative.",
+    "strength": "The student excels in creating vivid and engaging scenarios, such as describing a peaceful day or rallying a team, which adds depth to the character.",
+    "weakness": "The student's creativity is sometimes limited by a tendency to fall back on generic or overly analytical responses, particularly in complex ethical scenarios."
+  },
+  "Emotional Depth": {
+    "overview": "The student demonstrates a moderate level of emotional depth in responses, though it varies across different scenarios.",
+    "thinking_pattern": "The student often includes emotional elements in responses but sometimes shifts to a more detached, analytical perspective.",
+    "strength": "The student effectively conveys emotions in scenarios that involve personal reflection or team dynamics, adding depth to the character.",
+    "weakness": "In responses to ethical dilemmas or hypothetical questions, the student tends to provide more detached, analytical answers, reducing emotional depth."
+  },
+  "Adaptability": {
+    "overview": "The student shows adaptability in responding to a variety of scenarios, though with some limitations.",
+    "thinking_pattern": "The student adjusts responses based on the scenario but sometimes struggles to maintain character immersion in more abstract or hypothetical questions.",
+    "strength": "The student adapts well to different contexts, such as team dynamics or personal reflections, providing appropriate and engaging responses.",
+    "weakness": "The student occasionally fails to fully adapt to scenarios that require a strong emotional or ethical stance, leading to less immersive responses."
+  },
+  "Immersion": {
+    "overview": "The student generally maintains a good level of immersion in the character's role, though there are occasional breaks.",
+    "thinking_pattern": "The student often stays in character, providing detailed and contextually appropriate responses, but sometimes shifts to a more detached perspective.",
+    "strength": "The student excels in creating immersive and engaging narratives in scenarios that involve direct actions or personal reflections.",
+    "weakness": "The student sometimes breaks immersion by providing overly analytical or detached responses, particularly in complex ethical or hypothetical scenarios."
+  }
+}

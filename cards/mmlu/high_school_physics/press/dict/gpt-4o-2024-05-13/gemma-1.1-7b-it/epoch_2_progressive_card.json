@@ -1,0 +1,50 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student's understanding of Newton's laws is inconsistent.",
+    "thinking_pattern": "The student often correctly identifies that Newton's laws are applicable but struggles with the correct application in complex scenarios.",
+    "strength": "Correctly identifies scenarios where Newton's laws are applicable, such as in the tension of elevator cables and the collision dynamics.",
+    "weakness": "Misapplies Newton's second law in scenarios involving multiple forces or motions, leading to incorrect conclusions about the forces involved."
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "The student shows a basic understanding of electromagnetic principles but makes critical errors in reasoning.",
+    "thinking_pattern": "The student tends to oversimplify complex electromagnetic interactions, leading to incorrect conclusions.",
+    "strength": "Correctly identifies that the net charge in a circuit remains unchanged after it is closed and a current flows.",
+    "weakness": "Misunderstands how the initial conditions of a circuit affect the net charge after a current begins to flow, indicating a lack of depth in understanding charge conservation."
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Quantum Mechanics Concepts": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Electric Field Calculations": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Gravitational Force Calculations": {
+    "overview": "The student struggles with calculations involving gravitational forces, particularly in understanding how changes in planetary characteristics affect gravitational acceleration.",
+    "thinking_pattern": "The student correctly recalls the formula for gravitational acceleration but fails to correctly apply it to scenarios where multiple variables are altered.",
+    "strength": "Able to recall and start with the correct formula for gravitational acceleration.",
+    "weakness": "Incorrectly concludes that gravitational acceleration remains unchanged when both the mass and radius of a planet are doubled, showing a misunderstanding of the formula's application."
+  },
+  "Conservation Laws in Dynamics": {
+    "overview": "The student demonstrates a partial understanding of conservation laws in dynamics but often reaches incorrect conclusions.",
+    "thinking_pattern": "The student attempts to apply conservation principles but often miscalculates or misinterprets the implications of these laws in complex scenarios.",
+    "strength": "Recognizes when conservation laws such as momentum and kinetic energy should be considered.",
+    "weakness": "Incorrectly calculates the outcomes of elastic collisions and misunderstands the effects of mass and velocity changes on kinetic energy and momentum."
+  }
+}

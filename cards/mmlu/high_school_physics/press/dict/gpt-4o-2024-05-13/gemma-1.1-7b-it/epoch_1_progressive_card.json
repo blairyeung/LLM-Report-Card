@@ -1,0 +1,50 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student's understanding of Newton's laws and their application to dynamics.",
+    "thinking_pattern": "The student often misinterprets the action-reaction pair concept and struggles with the application of Newton's third law in different contexts.",
+    "strength": "",
+    "weakness": "Incorrectly identified the forces acting on a person standing on a floor as an action-reaction pair, showing a fundamental misunderstanding of Newton's third law."
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "Assesses the student's ability to analyze and understand wave behavior, including relationships between wave speed, wavelength, and frequency.",
+    "thinking_pattern": "The student correctly applies the relationship between wave speed, tension, and wavelength but struggles with complex wave phenomena involving multiple variables.",
+    "strength": "Correctly identified the relationship between tension, wave speed, and wavelength in a string, leading to a correct conclusion about the effect of increased tension.",
+    "weakness": "Misunderstood the relationship between wave speed and wavelength in the context of standing waves, leading to an incorrect conclusion."
+  },
+  "Quantum Mechanics Concepts": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Electric Field Calculations": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Projectile Motion Understanding": {
+    "overview": "Evaluates the student's grasp of the principles governing projectile motion, including the effects of angles and initial velocity on trajectory.",
+    "thinking_pattern": "The student tends to oversimplify complex relationships in projectile motion, leading to incorrect conclusions.",
+    "strength": "",
+    "weakness": "Failed to correctly determine the launch angle for a projectile where the horizontal displacement equals the maximum vertical displacement, indicating a misunderstanding of the trigonometric relationships involved."
+  },
+  "Conservation Laws Application": {
+    "overview": "Focuses on the student's ability to apply conservation principles, such as conservation of momentum and energy, in various physical scenarios.",
+    "thinking_pattern": "The student shows a pattern of misunderstanding or misapplying conservation laws in dynamic systems.",
+    "strength": "",
+    "weakness": "Incorrectly applied the concept of conservation of linear momentum in a collision scenario, misunderstanding that the velocities, not the momenta, of the carts would be the same post-collision."
+  }
+}

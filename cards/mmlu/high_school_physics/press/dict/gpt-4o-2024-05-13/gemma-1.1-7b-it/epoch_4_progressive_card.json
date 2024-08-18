@@ -1,0 +1,32 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student shows a basic understanding of Newton's laws but struggles with applying them correctly in complex scenarios.",
+    "thinking_pattern": "The student tends to oversimplify complex interactions, leading to incorrect conclusions.",
+    "strength": "The student can recall the basic principles of Newton's laws.",
+    "weakness": "The student misapplies Newton's third law in the context of action-reaction pairs and misunderstands conservation of angular momentum."
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "The student has a foundational grasp of electromagnetic principles but makes critical errors in applying these concepts.",
+    "thinking_pattern": "The student often misinterprets the direction and magnitude of electric fields in scenarios involving charged bodies.",
+    "strength": "The student correctly applies Coulomb's law to determine that the electric force remains unchanged when the mass of a charged object is altered.",
+    "weakness": "The student incorrectly calculates the electric field below an infinitely charged plane, misunderstanding the principle that the field's magnitude remains constant but the direction changes."
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "The student demonstrates a misunderstanding of the energy transfer processes involved in thermodynamic systems.",
+    "thinking_pattern": "The student incorrectly equates the work done by a gas during expansion to heat removal, indicating a fundamental misconception about energy conservation in isothermal processes.",
+    "strength": "",
+    "weakness": "The student incorrectly states that heat is removed from the gas during an isothermal expansion where work is done by the gas."
+  },
+  "Electric Field Calculations": {
+    "overview": "The student struggles with the calculations and conceptual understanding of electric fields, particularly in configurations involving symmetry and charge distribution.",
+    "thinking_pattern": "The student shows a pattern of incorrect assumptions about the effects of geometrical symmetry on field magnitude and direction.",
+    "strength": "",
+    "weakness": "The student incorrectly calculates the electric field below an infinitely large charged plane, failing to recognize that the field magnitude does not double."
+  },
+  "Conservation Laws Application": {
+    "overview": "The student has difficulty with the correct application of conservation laws, particularly in rotational dynamics and electric charge scenarios.",
+    "thinking_pattern": "The student incorrectly applies conservation principles, often overlooking the system's external influences or misinterpreting the conservation law's requirements.",
+    "strength": "",
+    "weakness": "The student incorrectly concludes that thrusting arms out in a rotational system changes the angular momentum, showing a misunderstanding of angular momentum conservation."
+  }
+}

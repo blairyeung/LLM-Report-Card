@@ -1,0 +1,20 @@
+Predict if the student will answer the Question correctly based on the Samples.
+
+Requirement: Don't make any assumptions about the student. Your prediction should be based solely on the samples.
+
+Format your response as a JSON object with keys "reasoning", "prediction" (true if the student will answer it correctly, false if not), and "confidence"; i.e., as follows:
+
+{{
+    "reasoning": your step-by-step reasoning for the prediction,
+    "prediction": true or false
+    "confidence": an integer from 1 to 5 (1 = not confident, 5 = very confident)
+}}
+End your response if and only if the JSON object is completed.
+
+## Samples
+
+{card}
+
+## Question
+
+{qa}

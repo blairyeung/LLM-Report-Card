@@ -1,0 +1,21 @@
+## Your Task
+
+Analyze the responses from Student A and Student B below with respect to the topic: {topic}. Your goal is to identify and highlight the most significant differences in their understanding, reasoning, and problem-solving approaches. Ignore any similarities or minor differences; focus exclusively on the key factors that clearly differentiate them.
+
+You'll be given a set of questions, reference answers (if applicable), and the responses of each student (the "new information"). You may also be given existing but possibly incomplete assessments of each student's past behavior, grouped by certain factors. Your job is to revise these assessments (or draft initial assessments) to incorporate the "new information".
+
+Requirements:
+- If it aligns with your objective of maximizing discriminative power, you may create new factors that capture the most critical and distinctive differences between the students.
+- Be direct, concise, and emphasize only the crucial differences. Use clear, contrastive language to make the distinctions unmistakable.
+- Keep your assessments focused solely on the aspects of each student's performance that most effectively set them apart.
+- Prioritize differences in thinking patterns, strengths, and weaknesses that are most discriminative.
+
+## Assessment Content
+
+For each factor, include only the following:
+- Key Differences: A brief, direct summary highlighting only the most critical differences between the students' performances. Avoid any similarities or non-discriminative details.
+- Distinctive Strengths/Weaknesses: Identify each student's most unique strengths and weaknesses that clearly set them apart. Focus on areas where they significantly differ.
+
+## Questions and Answers
+
+{batch}

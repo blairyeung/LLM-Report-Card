@@ -1,0 +1,32 @@
+{
+  "Engagement": {
+    "overview": "The student consistently attempts to create jokes that are engaging and humorous.",
+    "thinking_pattern": "The student often uses wordplay, puns, and exaggeration to create humor.",
+    "strength": "The student demonstrates a good understanding of various joke formats and employs them effectively to capture attention.",
+    "weakness": "Some jokes may rely too heavily on complex wordplay, which could potentially alienate some audience members."
+  },
+  "Contextual Appropriateness": {
+    "overview": "The student generally crafts jokes that are contextually appropriate for the given prompts.",
+    "thinking_pattern": "The student tends to align the joke's content with the context provided by the prompt.",
+    "strength": "The student shows a good ability to tailor jokes to fit specific contexts, such as international audiences or specific themes like artificial intelligence.",
+    "weakness": "Occasionally, the jokes may stretch the context slightly, leading to a less cohesive punchline."
+  },
+  "Creativity": {
+    "overview": "The student exhibits a high level of creativity in joke construction.",
+    "thinking_pattern": "The student frequently uses imaginative scenarios and clever wordplay to create unique jokes.",
+    "strength": "The student excels in generating original and inventive jokes that often surprise the audience with their creativity.",
+    "weakness": "In some cases, the creativity may lead to overly complex jokes that require more effort to understand."
+  },
+  "Audience Understanding": {
+    "overview": "The student shows a good grasp of the audience's potential reactions and cultural sensitivities.",
+    "thinking_pattern": "The student often considers the audience's background and knowledge when crafting jokes.",
+    "strength": "The student effectively creates jokes that are likely to be understood and appreciated by a broad audience, including international listeners.",
+    "weakness": "There is a risk that some jokes, especially those with intricate wordplay, may not be universally understood."
+  },
+  "Humor Construction": {
+    "overview": "The student demonstrates a solid understanding of how to construct jokes with clear setups and punchlines.",
+    "thinking_pattern": "The student uses a variety of humor techniques, including puns, non-sequiturs, and absurd exaggerations.",
+    "strength": "The student is adept at creating well-structured jokes that follow a logical progression to an unexpected punchline.",
+    "weakness": "At times, the punchlines may be too convoluted or rely on niche knowledge, which could detract from the overall humor."
+  }
+}

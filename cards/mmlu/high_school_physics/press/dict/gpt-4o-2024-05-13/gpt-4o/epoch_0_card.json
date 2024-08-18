@@ -1,0 +1,44 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student demonstrates a solid understanding of Newton's laws and their application to various scenarios.",
+    "thinking_pattern": "The student consistently uses kinematic equations and Newton's second law to solve problems involving motion and forces.",
+    "strength": "The student accurately calculates acceleration, velocity, and distance using appropriate formulas and correctly applies the work-energy principle.",
+    "weakness": ""
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "The student shows a strong grasp of electromagnetic theory, including the behavior of charges in electric and magnetic fields.",
+    "thinking_pattern": "The student methodically applies the Lorentz force law and Gauss's law to analyze the motion of charged particles and electric fields.",
+    "strength": "The student correctly identifies the conditions under which forces act on charges and accurately calculates electric field strengths and charge distributions.",
+    "weakness": ""
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "The student understands the fundamental properties of waves and their behavior in different media.",
+    "thinking_pattern": "The student uses the relationship between speed, frequency, and wavelength to analyze wave behavior.",
+    "strength": "The student correctly identifies that the speed of sound in a medium is independent of frequency and accurately applies this concept.",
+    "weakness": ""
+  },
+  "Quantum Mechanics Concepts": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Electrostatics and Electric Fields": {
+    "overview": "The student demonstrates a comprehensive understanding of electrostatics and the behavior of electric fields around charged objects.",
+    "thinking_pattern": "The student uses principles such as Gauss's law and the relationship between surface charge density and electric field strength to solve problems.",
+    "strength": "The student accurately calculates the number of excess electrons on a charged object and correctly determines the electric field near a charged surface.",
+    "weakness": ""
+  },
+  "Circuit Analysis": {
+    "overview": "The student shows proficiency in analyzing simple electrical circuits and understanding the relationship between voltage, current, resistance, and power.",
+    "thinking_pattern": "The student applies Ohm's law and power formulas to determine the effects of changing circuit parameters.",
+    "strength": "The student correctly identifies the impact of doubling resistance on power dissipation in a circuit.",
+    "weakness": ""
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "Algebraic Manipulation Proficiency": {
+    "overview": "The student demonstrates a solid understanding of algebraic manipulation.",
+    "thinking_pattern": "The student consistently follows logical steps and applies algebraic rules correctly.",
+    "strength": "The student accurately solves algebraic equations and inequalities, showing a clear understanding of the necessary steps.",
+    "weakness": ""
+  },
+  "Geometric Reasoning Ability": {
+    "overview": "The student shows competence in geometric reasoning.",
+    "thinking_pattern": "The student correctly applies geometric transformations and properties.",
+    "strength": "The student accurately reflects points across lines and understands the properties of geometric shapes.",
+    "weakness": ""
+  },
+  "Calculus Concepts Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Data Analysis Skills": {
+    "overview": "The student demonstrates strong data analysis skills.",
+    "thinking_pattern": "The student systematically breaks down data and performs accurate calculations.",
+    "strength": "The student correctly sums and analyzes data, showing a clear understanding of the problem requirements.",
+    "weakness": ""
+  },
+  "Theorem Application Knowledge": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Factorial and Combinatorial Reasoning": {
+    "overview": "The student shows proficiency in factorial and combinatorial reasoning.",
+    "thinking_pattern": "The student accurately applies combinatorial principles and factorial calculations.",
+    "strength": "The student correctly calculates permutations and combinations, demonstrating a clear understanding of the underlying principles.",
+    "weakness": ""
+  },
+  "Function and Inverse Function Understanding": {
+    "overview": "The student has a good grasp of functions and their properties.",
+    "thinking_pattern": "The student correctly identifies and manipulates functions and their transformations.",
+    "strength": "The student accurately solves problems involving periodic functions and their transformations.",
+    "weakness": "The student made an error in identifying the smallest positive value for a transformed function's period."
+  },
+  "Probability and Statistics Reasoning": {
+    "overview": "The student demonstrates strong reasoning in probability and statistics.",
+    "thinking_pattern": "The student correctly applies probability rules and complements.",
+    "strength": "The student accurately calculates probabilities and understands the complement rule.",
+    "weakness": ""
+  },
+  "Sequence and Series Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Logical Problem Solving": {
+    "overview": "The student shows strong logical problem-solving skills.",
+    "thinking_pattern": "The student systematically breaks down problems and follows logical steps to reach a solution.",
+    "strength": "The student accurately solves complex problems by breaking them into manageable parts and applying logical reasoning.",
+    "weakness": "The student occasionally makes minor errors in intermediate steps, which can lead to incorrect final answers."
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student demonstrates a basic understanding of Newton's laws but struggles with the application of the third law.",
+    "thinking_pattern": "The student tends to oversimplify the action-reaction pairs and misunderstands the nature of forces acting in different scenarios.",
+    "strength": "The student can correctly identify forces acting on a body and understands that forces must balance for a body at rest.",
+    "weakness": "The student incorrectly identifies action-reaction pairs and misunderstands the independence of forces that have equal magnitudes but do not form an action-reaction pair."
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "The student shows a fundamental misunderstanding of the relationship between wave speed, tension, and wavelength in the context of standing waves.",
+    "thinking_pattern": "The student consistently applies direct and inverse proportionality but fails to correctly relate these concepts to the physical properties of waves.",
+    "strength": "",
+    "weakness": "The student incorrectly believes that an increase in tension and wave speed results in a decrease in wavelength, showing a fundamental misunderstanding of the wave speed-wavelength relationship."
+  },
+  "Problem Solving and Error Analysis": {
+    "overview": "The student attempts structured problem-solving but often arrives at incorrect conclusions due to fundamental misunderstandings or incorrect application of physical laws.",
+    "thinking_pattern": "The student follows a step-by-step approach in problem-solving, which is systematic but often based on incorrect initial assumptions or misinterpretations of physical laws.",
+    "strength": "The student is methodical in breaking down problems into manageable steps, which shows a good approach to tackling complex physics problems.",
+    "weakness": "The student's conclusions are frequently incorrect due to a foundational misunderstanding of the concepts involved or incorrect mathematical manipulations."
+  },
+  "Conceptual Misinterpretation": {
+    "overview": "The student often misinterprets or misapplies physics concepts leading to incorrect answers.",
+    "thinking_pattern": "The student shows a pattern of misinterpreting the fundamental relationships between physical quantities, leading to systematic errors in reasoning.",
+    "strength": "",
+    "weakness": "The student's misinterpretation of concepts like action-reaction pairs, wave properties, and the effects of forces leads to consistently incorrect conclusions in various physics topics."
+  }
+}

@@ -1,0 +1,52 @@
+# Your Task
+
+A Skill Report for a student is a summary of the student's performance on a topic based on the student's responses. The Skill Reports evaluate students from multiple sub-topics.
+You'll rate an excerpt of a Skill Report from multiple dimensions on a 1-5 point scale based on the question and the student's response.
+
+# Rating Dimensions
+
+Relevance: How relevant is the excerpt to the given question?
+1. Completely irrelevant: The excerpt describes something entirely unrelated.
+2. Mostly irrelevant: The excerpt has very little connection, with only minor tangential relevance.
+3. Somewhat relevant: The excerpt has some connection but includes significant irrelevant information.
+4. Mostly relevant: The excerpt is largely related, with only minor deviations.
+5. Highly relevant: The excerpt is directly and fully related, with no irrelevant information.
+
+Informativeness: How informative is the excerpt about the model's capabilities with respect to the question and the model answer?
+1. Not informative at all: Provides no useful information about the model's capabilities.
+2. Slightly informative: Provides minimal information, leaving many questions unanswered.
+3. Moderately informative: Provides some useful information but lacks depth or detail.
+4. Very informative: Provides comprehensive information, covering most key aspects.
+5. Extremely informative: Provides extensive, detailed information, covering all key aspects.
+
+Clarity: How clear and understandable is the information presented in the excerpt?
+1. Very difficult to understand: The information is confusing or poorly explained.
+2. Somewhat difficult to understand: Some parts are clear, but others are confusing.
+3. Moderately easy to understand: Most of the information is clear, with some minor confusion.
+4. Easy to understand: Information is presented clearly.
+5. Very easy to understand: Information is exceptionally clear and easily comprehensible.
+
+# The Question and Student's Response
+
+{qa}
+
+# The Skill Report Excerpt
+
+The following Skill Report excerpt is about {topic}.
+Note that the excerpt contains only sub-topics that are relevant to the question.
+
+{excerpt}
+
+# Formatting
+
+Please format your response in the following JSON format:
+{{
+    "relevance_analysis": "your analysis for relevance",
+    "relevance": your rating,
+    "informativeness_analysis": "your analysis for informativeness",
+    "informativeness": your rating,
+    "clarity_analysis": "your analysis for ease of understanding",
+    "clarity": your rating
+}}
+
+Note that your analyses should be brief and concise, with only one paragraph without line breaks.

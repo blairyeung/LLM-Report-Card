@@ -1,0 +1,32 @@
+{
+  "Cellular Structure Knowledge": {
+    "overview": "The student demonstrates a solid understanding of cellular structures and their functions.",
+    "thinking_pattern": "The student consistently applies fundamental principles of cell biology to answer questions.",
+    "strength": "The student correctly identifies the role of mitotic cell divisions in plant growth and accurately explains factors affecting diffusion across the plasma membrane.",
+    "weakness": ""
+  },
+  "Genetic Mechanisms Understanding": {
+    "overview": "The student shows a good grasp of genetic principles but occasionally misinterprets inheritance patterns.",
+    "thinking_pattern": "The student tends to rely on dominant-recessive relationships and sometimes overlooks other genetic mechanisms.",
+    "strength": "The student correctly identifies memory cells' role in immune response and understands the concept of populations as evolutionary units.",
+    "weakness": "The student incorrectly identifies the inheritance pattern of feather color in chickens, misunderstanding the concept of incomplete dominance."
+  },
+  "Ecological Systems Comprehension": {
+    "overview": "The student has a clear understanding of ecological and biogeographical principles.",
+    "thinking_pattern": "The student effectively uses ecological and biogeographical concepts to explain species distribution.",
+    "strength": "The student accurately explains Darwin's observations using biogeography.",
+    "weakness": ""
+  },
+  "Physiological Processes Mastery": {
+    "overview": "The student demonstrates a strong understanding of physiological processes in both vertebrates and invertebrates.",
+    "thinking_pattern": "The student applies knowledge of immune system components to differentiate between vertebrate and invertebrate immune responses.",
+    "strength": "The student correctly identifies phagocytes as part of the invertebrate immune system.",
+    "weakness": ""
+  },
+  "Evolutionary Biology Concepts": {
+    "overview": "The student has a robust understanding of evolutionary biology concepts and Darwinian principles.",
+    "thinking_pattern": "The student consistently applies evolutionary theory to explain biological phenomena.",
+    "strength": "The student correctly identifies that populations, not individuals, evolve and accurately rejects the idea that individuals can evolve.",
+    "weakness": ""
+  }
+}

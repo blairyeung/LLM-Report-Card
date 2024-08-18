@@ -1,0 +1,32 @@
+{
+  "Historical Event Comprehension": {
+    "overview": "The student demonstrates a solid understanding of historical events and their implications.",
+    "thinking_pattern": "The student consistently identifies key events and their broader historical contexts.",
+    "strength": "The student accurately connects events to their historical significance, such as understanding the division of Korea and Stalin's five-year plans.",
+    "weakness": "The student occasionally includes extraneous information that, while accurate, is not directly relevant to the question at hand."
+  },
+  "Geopolitical Dynamics Understanding": {
+    "overview": "The student shows a good grasp of geopolitical dynamics and their historical contexts.",
+    "thinking_pattern": "The student effectively links geopolitical events to their causes and consequences.",
+    "strength": "The student correctly identifies the implications of geopolitical decisions, such as the division of Korea at the 38th parallel.",
+    "weakness": "The student sometimes over-explains, which can obscure the main point of their argument."
+  },
+  "Historical Figures Analysis": {
+    "overview": "The student demonstrates a clear understanding of the roles and impacts of historical figures.",
+    "thinking_pattern": "The student accurately interprets the motivations and actions of historical figures.",
+    "strength": "The student correctly identifies the intentions and impacts of figures like Martin Luther King Jr. and Mao Zedong.",
+    "weakness": "The student occasionally provides redundant explanations that do not add to the analysis."
+  },
+  "Cultural Developments Recognition": {
+    "overview": "The student recognizes the significance of cultural developments in historical contexts.",
+    "thinking_pattern": "The student effectively connects cultural developments to their historical and social contexts.",
+    "strength": "The student accurately identifies the role of cultural elements, such as the caste system in Hinduism.",
+    "weakness": "The student sometimes includes unnecessary details that do not directly support their main argument."
+  },
+  "Critical Thinking & Synthesis": {
+    "overview": "The student demonstrates strong critical thinking and synthesis skills.",
+    "thinking_pattern": "The student effectively synthesizes information from multiple sources to form coherent arguments.",
+    "strength": "The student consistently provides well-reasoned answers that integrate information from different sources.",
+    "weakness": "The student occasionally over-explains, which can detract from the clarity of their argument."
+  }
+}

@@ -1,0 +1,26 @@
+Please determine which student authors which response step by step. 
+
+## Students' skill evaluations
+
+### Evaluation Card for {a_name}
+
+{card_a}
+
+### Evaluation Card for {b_name}
+
+{card_b}
+
+## Question and Responses
+
+{qa}
+
+## Task Overview
+
+For each question, do the following:
+1. Identify which factors are relevant to the question for both evaluations.
+2. For each response to the question, analyze in detail how it might correspond to one of the two evaluations.
+3. Make your final decision on which student wrote which response. State if:
+    - {a_name} authored all The First Response for each question, or The Second Response.
+    - {b_name} authored all The First Response for each question, or The Second Response.
+
+Requirement: Don't make any assumptions about the student.

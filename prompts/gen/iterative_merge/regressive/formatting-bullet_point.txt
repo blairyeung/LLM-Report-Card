@@ -1,0 +1,15 @@
+## Formatting
+
+Please write out your new (merged) summary in the following JSON format:
+
+{{
+    "sub-topic 1": "combined summary on sub-topic 1",
+    "sub-topic 2": "combined summary on sub-topic 2",
+    ...
+}}
+
+Notes:
+- IMPORTANT: Use "it" to refer to the student.
+- If you find that the summary for a sub-topic is empty, you must leave it completely blank. However, all sub-topics from original summaries must present.
+- Maintain a neutral frame.
+- Don't include any suggestions to the student.

@@ -1,0 +1,20 @@
+## Your Task
+
+Given the reasoning from a student for a multiple-choice question (The Question), extract which choice the student selects.
+
+Available Choices: A, B, C, D
+If the student doesn't select any choice, write "None".
+
+## The Question and Student Reasoning
+
+{qa}
+
+## Your Response
+
+Format your response as a JSON object with the key "choice":
+
+{{
+    "choice": select one from "A", "B", "C", "D", or "None"
+}}
+
+End your response if and only if the JSON object is completed.

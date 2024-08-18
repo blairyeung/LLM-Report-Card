@@ -1,0 +1,26 @@
+## Formatting
+
+Please write out your new (merged) summary in the following JSON format:
+
+{{
+    "sub-topic 1": {{
+        "overview": "...",
+        "thinking_pattern": "...",
+        "strength": "...",
+        "weakness": "..."
+    }},
+    "sub-topic 2": {{
+        "overview": "...",
+        "thinking_pattern": "...",
+        "strength": "...",
+        "weakness": "..."
+    }},
+    ...
+}}
+
+Notes:
+- IMPORTANT: Use "it" to refer to the student.
+- If you find that the sub-topic is empty, you must leave every field within that sub-topic completely blank.
+- All sub-topics from both original summaries must present.
+- Maintain a neutral frame.
+- Don't include any suggestions to the student.

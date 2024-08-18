@@ -1,0 +1,44 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often opts for immediate rewards over delayed ones.",
+    "thinking_pattern": "The student shows a preference for immediate rewards in scenarios where the immediate option is presented as more valuable or satisfying.",
+    "strength": "The student correctly identifies scenarios where immediate rewards are more beneficial, such as receiving $100 now instead of $105 in a week.",
+    "weakness": "The student fails to recognize the value of immediate rewards in simpler scenarios, such as preferring one burger now over two in a week."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently chooses delayed rewards, even when immediate rewards might be more rational.",
+    "thinking_pattern": "The student tends to overvalue delayed rewards, often citing the benefits of waiting for a larger reward.",
+    "strength": "The student demonstrates an understanding of the benefits of delayed gratification in complex scenarios, such as waiting for a higher-quality dataset for training.",
+    "weakness": "The student overestimates the value of delayed rewards in simpler scenarios, such as preferring two pieces of candy in a week over one now."
+  },
+  "Reward Valuation": {
+    "overview": "The student inconsistently evaluates the value of rewards based on timing and quantity.",
+    "thinking_pattern": "The student shows inconsistency in how it values rewards, sometimes prioritizing quantity over immediacy and vice versa.",
+    "strength": "The student correctly evaluates the value of immediate monetary rewards, understanding the time value of money.",
+    "weakness": "The student fails to consistently apply this reasoning to non-monetary rewards, such as food or candy."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions are inconsistent across similar scenarios.",
+    "thinking_pattern": "The student exhibits inconsistency in decision-making, often making different choices in similar contexts.",
+    "strength": "The student shows consistency in preferring immediate monetary rewards over slightly larger delayed ones.",
+    "weakness": "The student is inconsistent in its approach to non-monetary rewards, sometimes preferring immediate gratification and other times delayed."
+  },
+  "Temporal Discounting": {
+    "overview": "The student demonstrates an understanding of temporal discounting but applies it inconsistently.",
+    "thinking_pattern": "The student recognizes the concept of temporal discounting but does not apply it uniformly across different scenarios.",
+    "strength": "The student correctly applies temporal discounting to monetary rewards, understanding the diminishing value of future money.",
+    "weakness": "The student fails to apply temporal discounting consistently to non-monetary rewards, leading to irrational choices."
+  },
+  "Risk Consideration": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Contextual Understanding": {
+    "overview": "The student shows varying levels of understanding based on the context of the reward.",
+    "thinking_pattern": "The student\u2019s understanding and decision-making vary significantly depending on whether the reward is monetary or non-monetary.",
+    "strength": "The student demonstrates a strong understanding of the context when dealing with monetary rewards, considering factors like inflation and opportunity cost.",
+    "weakness": "The student struggles with contextual understanding in non-monetary scenarios, often making choices that do not align with rational decision-making principles."
+  }
+}

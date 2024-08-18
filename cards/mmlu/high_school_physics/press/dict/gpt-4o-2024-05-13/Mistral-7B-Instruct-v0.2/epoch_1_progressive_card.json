@@ -1,0 +1,44 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student demonstrates a basic understanding of Newton's laws but struggles with the application in complex scenarios.",
+    "thinking_pattern": "The student tends to oversimplify complex interactions, leading to incorrect conclusions.",
+    "strength": "The student correctly identifies that forces such as gravity and normal force do not form an action-reaction pair.",
+    "weakness": "The student incorrectly assesses the equality of forces in action-reaction pairs and misunderstands the application of Newton's third law in collision scenarios."
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "The student shows an understanding of basic wave properties but makes critical errors in analyzing wave behavior under changed conditions.",
+    "thinking_pattern": "The student incorrectly applies the relationship between wave speed, tension, and wavelength, leading to erroneous conclusions.",
+    "strength": "",
+    "weakness": "The student incorrectly states that increasing the tension in a string decreases the wavelength of standing waves, showing a misunderstanding of the direct proportionality between wave speed and tension."
+  },
+  "Quantum Mechanics Concepts": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Projectile Motion Understanding": {
+    "overview": "The student struggles with the analysis of projectile motion, particularly in determining the conditions for equal horizontal and vertical displacements.",
+    "thinking_pattern": "The student attempts to use mathematical relationships but applies them incorrectly or inappropriately for the scenario.",
+    "strength": "",
+    "weakness": "The student incorrectly concludes that a 45\u00b0 launch angle results in equal horizontal and vertical displacements for a projectile, showing a fundamental misunderstanding of the optimal conditions for maximum range versus height."
+  },
+  "Conservation Laws Application": {
+    "overview": "The student has a rudimentary grasp of conservation principles but often misapplies them in specific physics contexts.",
+    "thinking_pattern": "The student consistently misinterprets or oversimplifies the implications of conservation laws, leading to incorrect answers.",
+    "strength": "",
+    "weakness": "The student incorrectly applies the conservation of linear momentum to conclude that individual velocities and momenta are equal post-collision, and misunderstands the motion of an object falling through the Earth."
+  }
+}

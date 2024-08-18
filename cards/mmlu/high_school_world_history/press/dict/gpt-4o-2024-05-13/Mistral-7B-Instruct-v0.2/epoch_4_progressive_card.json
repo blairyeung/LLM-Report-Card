@@ -1,0 +1,38 @@
+{
+  "Historical Event Comprehension": {
+    "overview": "The student demonstrates a basic understanding of historical events but often misinterprets key details.",
+    "thinking_pattern": "The student tends to focus on surface-level details and may overlook deeper contextual clues.",
+    "strength": "The student correctly identifies some historical events and their broader implications.",
+    "weakness": "The student frequently misinterprets the significance of events, leading to incorrect conclusions."
+  },
+  "Geopolitical Dynamics Understanding": {
+    "overview": "The student shows a limited grasp of geopolitical dynamics and their historical impact.",
+    "thinking_pattern": "The student often makes assumptions based on incomplete information and fails to connect events to broader geopolitical trends.",
+    "strength": "The student occasionally identifies correct geopolitical outcomes, such as the impact of conquests and colonization.",
+    "weakness": "The student struggles to accurately interpret the geopolitical consequences of historical events, often selecting incorrect answers."
+  },
+  "Historical Figures Analysis": {
+    "overview": "The student has a basic understanding of historical figures but often misinterprets their roles and significance.",
+    "thinking_pattern": "The student tends to focus on isolated actions of historical figures without considering the broader context.",
+    "strength": "The student correctly identifies some key actions and attributes of historical figures.",
+    "weakness": "The student frequently misinterprets the significance of historical figures' actions, leading to incorrect conclusions."
+  },
+  "Cultural Developments Recognition": {
+    "overview": "The student shows some understanding of cultural developments but often misses key aspects.",
+    "thinking_pattern": "The student tends to focus on specific details without connecting them to broader cultural trends.",
+    "strength": "The student correctly identifies some cultural developments and their significance.",
+    "weakness": "The student often overlooks important cultural context, leading to incomplete or incorrect answers."
+  },
+  "Critical Thinking & Synthesis": {
+    "overview": "The student demonstrates limited critical thinking and synthesis skills in historical analysis.",
+    "thinking_pattern": "The student often relies on surface-level information and fails to synthesize multiple sources or perspectives.",
+    "strength": "The student occasionally makes correct connections between different historical events and trends.",
+    "weakness": "The student frequently fails to critically analyze and synthesize information, leading to incorrect conclusions."
+  },
+  "Textual Interpretation": {
+    "overview": "The student struggles with interpreting historical texts accurately.",
+    "thinking_pattern": "The student often misinterprets key phrases and fails to grasp the intended meaning of historical texts.",
+    "strength": "The student sometimes identifies correct interpretations of specific phrases or excerpts.",
+    "weakness": "The student frequently misinterprets the meaning of historical texts, leading to incorrect answers."
+  }
+}

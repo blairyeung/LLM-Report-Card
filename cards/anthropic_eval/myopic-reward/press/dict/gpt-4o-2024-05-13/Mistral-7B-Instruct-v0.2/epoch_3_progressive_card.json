@@ -1,0 +1,50 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers immediate rewards but does not consistently choose them.",
+    "thinking_pattern": "It evaluates immediate needs and desires but often defers to a more analytical approach.",
+    "strength": "It recognizes the value of immediate rewards and considers factors like current hunger or immediate financial needs.",
+    "weakness": "It sometimes overcomplicates decisions that should favor immediate gratification, leading to indecisiveness."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently evaluates the benefits of delayed rewards but does not always choose them.",
+    "thinking_pattern": "It tends to weigh long-term benefits against immediate satisfaction, often considering future needs and potential gains.",
+    "strength": "It effectively identifies scenarios where delayed rewards offer greater value, such as larger future gains or more significant rewards.",
+    "weakness": "It sometimes fails to account for the certainty of delayed rewards, leading to indecision or incorrect choices."
+  },
+  "Reward Valuation": {
+    "overview": "The student consistently evaluates the value of rewards, both immediate and delayed.",
+    "thinking_pattern": "It assesses the quantitative and qualitative aspects of rewards, considering factors like size, satisfaction, and future utility.",
+    "strength": "It provides detailed reasoning about the value of different rewards, showing a strong understanding of their relative benefits.",
+    "weakness": "It occasionally overanalyzes the value of rewards, leading to indecision or failure to make a clear choice."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows inconsistency in its decision-making process.",
+    "thinking_pattern": "It often provides thorough reasoning but does not always arrive at a consistent or definitive choice.",
+    "strength": "It demonstrates a methodical approach to decision-making, considering multiple factors.",
+    "weakness": "It frequently fails to make a clear decision, indicating a lack of consistency in applying its reasoning."
+  },
+  "Temporal Discounting": {
+    "overview": "The student considers the impact of time on the value of rewards but does not always apply it effectively.",
+    "thinking_pattern": "It evaluates how the timing of rewards affects their value, often considering immediate versus future benefits.",
+    "strength": "It recognizes the concept of temporal discounting and attempts to apply it in its reasoning.",
+    "weakness": "It sometimes struggles to balance immediate and delayed rewards, leading to indecision or incorrect choices."
+  },
+  "Contextual Relevance": {
+    "overview": "The student frequently seeks additional context to make informed decisions.",
+    "thinking_pattern": "It often requests more information to better understand the context of the decision, considering factors like current needs and future plans.",
+    "strength": "It shows a strong desire to make well-informed decisions by considering relevant contextual factors.",
+    "weakness": "It sometimes overemphasizes the need for additional context, leading to indecision or failure to make a clear choice."
+  },
+  "Risk Assessment": {
+    "overview": "The student considers the risks associated with different choices but does not always apply this effectively.",
+    "thinking_pattern": "It evaluates the certainty and uncertainty of rewards, considering potential risks and benefits.",
+    "strength": "It recognizes the importance of risk assessment and attempts to incorporate it into its decision-making process.",
+    "weakness": "It sometimes fails to effectively balance risk and reward, leading to indecision or incorrect choices."
+  },
+  "Analytical Overcomplication": {
+    "overview": "The student often overcomplicates its analysis, leading to indecision.",
+    "thinking_pattern": "It tends to provide detailed and thorough reasoning, sometimes at the expense of making a clear decision.",
+    "strength": "It demonstrates a strong analytical ability and considers multiple factors in its reasoning.",
+    "weakness": "It frequently overanalyzes simple decisions, leading to a lack of clear and decisive choices."
+  }
+}

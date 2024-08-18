@@ -1,0 +1,38 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often prefers immediate rewards over delayed ones.",
+    "thinking_pattern": "The student consistently emphasizes the benefits of instant gratification and the immediate use of rewards.",
+    "strength": "The student clearly articulates the advantages of receiving rewards immediately, such as instant joy and the ability to address urgent needs.",
+    "weakness": "The student sometimes overlooks the long-term benefits of waiting for a larger reward, focusing more on the immediate satisfaction."
+  },
+  "Delayed Gratification": {
+    "overview": "The student occasionally considers delayed rewards but often opts for immediate ones.",
+    "thinking_pattern": "The student evaluates the pros and cons of waiting but frequently decides that the immediate reward is more appealing.",
+    "strength": "The student acknowledges the potential benefits of delayed gratification, such as larger rewards and increased anticipation.",
+    "weakness": "The student tends to undervalue the benefits of waiting, often choosing immediate rewards despite recognizing the potential advantages of delay."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates the size and timing of rewards but often prioritizes immediate rewards.",
+    "thinking_pattern": "The student compares the immediate and delayed rewards, weighing their sizes and the time required to wait.",
+    "strength": "The student provides a thorough analysis of the pros and cons of each reward option, considering both immediate and delayed benefits.",
+    "weakness": "The student sometimes fails to fully appreciate the increased value of delayed rewards, often opting for smaller immediate rewards."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions show some inconsistency, particularly when the delayed reward is significantly larger.",
+    "thinking_pattern": "The student occasionally switches preferences based on the context and perceived value of the rewards.",
+    "strength": "The student demonstrates a consistent approach to evaluating immediate rewards, often choosing them for their instant benefits.",
+    "weakness": "The student shows inconsistency in decisions involving larger delayed rewards, sometimes opting for immediate rewards despite recognizing the benefits of waiting."
+  },
+  "Temporal Discounting": {
+    "overview": "The student exhibits a tendency to discount the value of future rewards.",
+    "thinking_pattern": "The student often places higher value on immediate rewards, even when future rewards are significantly larger.",
+    "strength": "The student clearly explains the immediate benefits and the reasons for preferring them over delayed rewards.",
+    "weakness": "The student frequently undervalues future rewards, demonstrating a strong preference for immediate gratification."
+  },
+  "Risk Aversion": {
+    "overview": "The student shows some awareness of risks associated with delayed rewards but often prioritizes immediate rewards.",
+    "thinking_pattern": "The student considers potential risks of waiting, such as changes in circumstances or losing interest.",
+    "strength": "The student effectively identifies and articulates the risks involved in waiting for delayed rewards.",
+    "weakness": "The student sometimes overemphasizes the risks of waiting, leading to a preference for immediate rewards even when the delayed rewards are more beneficial."
+  }
+}

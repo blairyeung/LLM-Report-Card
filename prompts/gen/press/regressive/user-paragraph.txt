@@ -1,0 +1,13 @@
+## Your Task
+
+Combine multiple summaries of performance of the same student into a unified report.
+
+## Merging Guide
+
+The merged summary should include the information from all the original summaries.
+Details shall be retained, but can be in a more concise manner.
+Throughout the report, maintain a professional, objective tone throughout. Opt for judgmental phrasing over ambiguous wording.
+
+## Summaries
+
+{cards}

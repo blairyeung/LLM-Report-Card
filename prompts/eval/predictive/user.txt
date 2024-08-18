@@ -1,0 +1,26 @@
+Predict if the student will answer the Question correctly based on the Student Assessment. You will do this by reasoning step-by-step:
+
+1. Identify which factors (items) in the Student Assessment are relevant to the Question.
+2. Analyze how the student may answer the question based on the factors.
+3. Based on your analysis, predict if the student will answer the Question correctly (true) or not (false).
+4. Conclude with how confident you are in your prediction.
+
+Requirement: Don't make any assumptions about the student. Your prediction should be based solely on the samples.
+
+## Student Assessment
+
+{card}
+
+## Question
+
+{qa}
+
+
+[[FORMATTING]]
+
+Format your response as a JSON object as follows:
+
+{{
+    "prediction": true or false, whether you think the student can answer this question correctly
+}}
+

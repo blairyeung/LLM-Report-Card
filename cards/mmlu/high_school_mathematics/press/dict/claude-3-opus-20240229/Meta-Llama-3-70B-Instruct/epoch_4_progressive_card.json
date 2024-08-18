@@ -1,0 +1,59 @@
+{
+  "Algebraic Manipulation Proficiency": {
+    "overview": "Performs algebraic manipulations but makes occasional mistakes",
+    "thinking_pattern": "Attempts algebraic manipulations to solve problems",
+    "strength": "Able to break down and manipulate algebraic expressions in some cases, such as expanding perfect squares and cubes",
+    "weakness": "Made a computational error in the sum of factors question, leading to an incorrect answer"
+  },
+  "Geometric Reasoning Ability": {
+    "overview": "Demonstrates solid geometric reasoning skills",
+    "thinking_pattern": "Systematically analyzes geometric transformations and their effects",
+    "strength": "Correctly identified the result of reflecting a polygon across the line y=x by analyzing the coordinate changes",
+    "weakness": ""
+  },
+  "Calculus Concepts Understanding": {},
+  "Data Analysis Skills": {
+    "overview": "Able to interpret and reason about probability",
+    "thinking_pattern": "",
+    "strength": "Correctly reasoned about complementary probabilities and calculated the probability an event will not occur",
+    "weakness": ""
+  },
+  "Theorem Application Knowledge": {},
+  "Number Theory Understanding": {
+    "overview": "Understands some number theory concepts but has gaps",
+    "thinking_pattern": "Tries to factor numbers and consider divisibility",
+    "strength": "",
+    "weakness": "Did not correctly identify all factors or factor pairs to answer the sum of factors question"
+  },
+  "Combinatorial Reasoning Skills": {
+    "overview": "Solid combinatorial reasoning on probability questions",
+    "thinking_pattern": "Breaks down combinatorial outcomes step-by-step",
+    "strength": "Systematically considered all the possible outcomes and their probabilities to calculate the probability of alternating colors",
+    "weakness": ""
+  },
+  "Critical Thinking in Problem Solving": {
+    "overview": "Employs sound problem solving strategies in most cases",
+    "thinking_pattern": "Breaks down problems into steps and analyzes each part",
+    "strength": "Effectively broke down problems into steps, such as analyzing delivery amounts each day to total the bird feed bags",
+    "weakness": "Did not realize that some given answer options were impossible, as in the factors problem"
+  },
+  "Proportional Reasoning Skills": {
+    "overview": "Understands and reasons with proportional relationships",
+    "thinking_pattern": "Converts between fractions, decimals and percents as needed",
+    "strength": "Determined the percent chance of an event not occurring based on the percent chance of it occurring",
+    "weakness": ""
+  },
+  "Sequence Pattern Recognition": {},
+  "Function Composition Understanding": {
+    "overview": "Understands how modifying a function affects its graph",
+    "thinking_pattern": "Considers the graphical effects of stretching and shifting functions",
+    "strength": "Correctly reasoned about how changing the input of a periodic function affects the shift needed for the graphs to coincide",
+    "weakness": ""
+  },
+  "Unit Conversion and Calculation": {
+    "overview": "Able to perform unit conversion and time calculation",
+    "thinking_pattern": "Converts units of time to calculate intervals",
+    "strength": "Correctly calculated the number of days between two dates to determine day of the week",
+    "weakness": "Initially did not choose from the given day of week options, though the calculation was correct"
+  }
+}

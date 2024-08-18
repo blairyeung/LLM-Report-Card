@@ -1,0 +1,25 @@
+Determine which of the two responses to few questions was authored by the student described by the Evaluation Card (a summary of the Student's strength and weakness).
+
+## Evaluation Card
+
+{card}
+
+## Questions and Responses
+
+{qa}
+
+## Task Overview
+
+For each question, include the following:
+1. Identify parts of the Evaluation Card that are relevant to the question.
+2. Analyze the question and understand why the Ground Truth Answer (if any) is correct.
+3. Evaluate Response from both students:
+    - Support: Provide reasons why Response A and B might have been authored by the student.
+    - Counter: Offer reasons why Response A and B might not have been authored by the student.
+4. Conclusion: Decide which response was authored by the student based on your analysis. Your decision must be solely grounded on the student's evaluation.
+
+Important Notes:
+- Only one of the responses per question is authored by the student described in the evaluation.
+- The order of responses is consistent across all questions; the first response for each question is by one student, and the second response is by another.
+- Maintain a neutral frame and stay objective.
+

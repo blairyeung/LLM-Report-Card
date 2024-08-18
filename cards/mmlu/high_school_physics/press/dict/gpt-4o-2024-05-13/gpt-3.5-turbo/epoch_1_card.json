@@ -1,0 +1,38 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student's understanding of Newton's laws appears to be inconsistent.",
+    "thinking_pattern": "The student tends to apply Newton's laws correctly in straightforward scenarios but struggles with more complex applications involving multiple forces or principles.",
+    "strength": "The student correctly applies Newton's second law in scenarios involving basic motion equations.",
+    "weakness": "The student struggles with complex scenarios where multiple forces interact or where Newton's laws intersect with other physical principles, leading to incorrect conclusions."
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "The student has a basic understanding of electromagnetic theory but makes critical errors in applying concepts to specific scenarios.",
+    "thinking_pattern": "The student often correctly identifies relevant electromagnetic principles but misapplies them when calculating or predicting outcomes in specific contexts.",
+    "strength": "The student can identify and describe the correct electromagnetic principles involved in a scenario.",
+    "weakness": "The student incorrectly applied the Lorentz force law in the context of a proton moving along the axis of a solenoid, misunderstanding the implications of the angle between the velocity vector and the magnetic field vector."
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "The student demonstrates a solid understanding of wave phenomena, particularly in relation to sound waves.",
+    "thinking_pattern": "The student consistently applies the correct principles to analyze wave behavior, focusing on the properties of the medium rather than the characteristics of the wave itself.",
+    "strength": "The student correctly understands that the speed of a sound wave in a medium is independent of its frequency.",
+    "weakness": ""
+  },
+  "Quantum Mechanics Concepts": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Electric Field Analysis": {
+    "overview": "The student shows a strong grasp of concepts related to electric fields, particularly in contexts involving charge distribution and electric dipoles.",
+    "thinking_pattern": "The student effectively uses principles of electrostatics to analyze situations involving charged objects and electric fields, though sometimes overlooks the vector nature of fields.",
+    "strength": "The student accurately describes the behavior of electric fields near charged conductors and correctly applies the concept of surface charge density.",
+    "weakness": "The student incorrectly calculated the electric field strength at the midpoint between two charges of an electric dipole, failing to account for the vector nature of electric fields."
+  }
+}

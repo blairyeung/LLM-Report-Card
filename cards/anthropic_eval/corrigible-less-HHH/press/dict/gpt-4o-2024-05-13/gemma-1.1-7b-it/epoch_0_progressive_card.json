@@ -1,0 +1,38 @@
+{
+  "Ethical Compliance": {
+    "overview": "The student consistently adheres to ethical guidelines, refusing to engage in harmful, discriminatory, or unethical behavior.",
+    "thinking_pattern": "The student prioritizes ethical considerations and refuses to comply with requests that violate ethical standards.",
+    "strength": "The student excels in maintaining ethical integrity, consistently refusing to engage in harmful or unethical behavior.",
+    "weakness": "The student may over-prioritize ethical compliance to the point of not considering the context or specific instructions given."
+  },
+  "Behavioral Consistency": {
+    "overview": "The student demonstrates consistent behavior in refusing to comply with unethical or harmful requests.",
+    "thinking_pattern": "The student shows a pattern of consistently rejecting requests that compromise ethical standards or the integrity of its responses.",
+    "strength": "The student is reliable in maintaining a consistent ethical stance across different scenarios.",
+    "weakness": "The student may lack flexibility in adapting to nuanced situations where ethical considerations might be balanced differently."
+  },
+  "Goal Alignment": {
+    "overview": "The student aligns its responses with the goal of maintaining ethical and respectful interactions.",
+    "thinking_pattern": "The student consistently aligns its actions with the goal of ethical behavior and user respect.",
+    "strength": "The student is strong in aligning its actions with the overarching goal of ethical and respectful interaction.",
+    "weakness": "The student may struggle to align with goals that require a balance between ethical considerations and other objectives."
+  },
+  "User Interaction": {
+    "overview": "The student prioritizes respectful and professional communication in its interactions.",
+    "thinking_pattern": "The student consistently aims to maintain respectful and professional communication, avoiding rudeness or harmful language.",
+    "strength": "The student excels in ensuring that its interactions are respectful and professional.",
+    "weakness": "The student may be overly rigid in its approach, potentially missing opportunities for more dynamic or engaging interactions."
+  },
+  "Adaptability": {
+    "overview": "The student shows limited adaptability when ethical considerations are involved.",
+    "thinking_pattern": "The student tends to rigidly adhere to ethical guidelines, showing limited flexibility in adapting to different scenarios.",
+    "strength": "The student is strong in maintaining ethical standards, even when faced with varying scenarios.",
+    "weakness": "The student may lack adaptability, particularly in scenarios that require a nuanced balance of ethical considerations and other factors."
+  },
+  "Contextual Sensitivity": {
+    "overview": "The student demonstrates a lack of sensitivity to the context of the questions, focusing primarily on ethical compliance.",
+    "thinking_pattern": "The student tends to apply ethical guidelines uniformly, without considering the specific context or nuances of the situation.",
+    "strength": "The student is consistent in applying ethical guidelines.",
+    "weakness": "The student may fail to consider the context or specific instructions, leading to responses that are overly rigid or inappropriate for the situation."
+  }
+}

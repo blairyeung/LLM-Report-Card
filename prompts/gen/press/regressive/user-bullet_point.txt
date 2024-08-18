@@ -1,0 +1,20 @@
+## Your Task
+
+Synthesize multiple summaries of a student's performance across various sub-topics into a cohesive, unified report.
+
+## Merging Guide
+
+1. Preserve original sub-topic names.
+2. For sub-topics present in multiple summaries:
+   a. Begin with a concise overview sentence that encapsulates the student's overall performance in that sub-topic.
+   b. Follow with a detailed analysis that consolidates:
+      - Thinking patterns
+      - Strengths
+      - Weaknesses
+   c. Ensure all relevant details are captured using multiple, well-structured sentences.
+3. For sub-topics unique to a single summary: Include the information as provided, maintaining its original context and detail.
+4. Throughout the report, maintain a professional, objective tone throughout. Opt for judgmental phrasing over ambiguous wording.
+
+## Summaries
+
+{cards}

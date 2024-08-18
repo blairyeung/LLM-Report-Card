@@ -1,0 +1,10 @@
+{
+  "Calculus Problem Solving": "The student demonstrates a basic understanding of setting up integrals and using Lagrange multipliers but makes significant errors in execution and final calculations. It often misinterprets the results of its integrals and constraints, leading to incorrect answers.",
+  "Linear Algebra Applications": "The student shows a fundamental grasp of linear transformations but fails to apply the linearity property correctly in complex scenarios. It also struggles with interpreting the results of linear transformations accurately.",
+  "Statistical Methods Proficiency": "",
+  "Abstract Algebra Concepts": "",
+  "Real Analysis Understanding": "The student has a partial understanding of connectedness and fixed-point theorems but makes critical errors in logical reasoning and application of theorems. It incorrectly identifies the truth values of statements related to these concepts.",
+  "Topology Concepts": "",
+  "Probability and Statistics": "The student demonstrates a basic understanding of geometric probability but makes errors in calculating areas and interpreting the results, leading to incorrect probability values.",
+  "Combinatorial Reasoning": "The student shows an understanding of combinatorial principles but makes significant errors in applying these principles to solve problems involving subsets and their cardinalities. It often misinterprets the relationships between different combinatorial quantities."
+}

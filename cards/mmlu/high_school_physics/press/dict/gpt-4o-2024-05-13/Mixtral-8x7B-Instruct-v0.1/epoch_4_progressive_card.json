@@ -1,0 +1,32 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student shows a basic understanding of Newton's laws but struggles with applying them correctly in complex scenarios.",
+    "thinking_pattern": "The student tends to simplify complex interactions into basic action-reaction pairs without considering all aspects of the system.",
+    "strength": "The student correctly identifies action-reaction pairs in straightforward scenarios.",
+    "weakness": "The student misapplies Newton's third law in complex systems, such as misunderstanding the action-reaction pairs involving systems with multiple components or external influences."
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "The student has a foundational grasp of electromagnetic principles but makes critical errors in applying these concepts to specific situations.",
+    "thinking_pattern": "The student often correctly recalls the formulas related to electromagnetic theory but fails to apply them correctly to derive accurate conclusions.",
+    "strength": "The student can recall and state the correct formulas and basic principles of electromagnetic theory.",
+    "weakness": "The student incorrectly calculates or misinterprets the implications of these formulas in practical scenarios, leading to significant errors in understanding the behavior of electric fields and charges."
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "The student demonstrates a good understanding of thermodynamics, particularly in maintaining the conservation principles.",
+    "thinking_pattern": "The student effectively relates work, heat, and internal energy changes, adhering to the conservation laws in thermodynamic processes.",
+    "strength": "The student accurately applies the first law of thermodynamics to isothermal processes, correctly identifying the relationship between work done and heat transfer.",
+    "weakness": ""
+  },
+  "Problem Solving in Dynamics": {
+    "overview": "The student shows an ability to engage with dynamic problems but sometimes reaches incorrect conclusions due to a misunderstanding of system isolation and external influences.",
+    "thinking_pattern": "The student attempts to apply conservation laws but occasionally overlooks the effects of external actions or misinterprets their impact on the system.",
+    "strength": "The student can identify and describe the conservation of angular momentum in isolated systems.",
+    "weakness": "The student incorrectly assesses the impact of external actions, such as catching a baseball or jumping, on the conservation of angular momentum."
+  },
+  "Gravitational Force Calculation": {
+    "overview": "The student understands the basic principles of gravitational forces and how they affect objects at different altitudes.",
+    "thinking_pattern": "The student correctly identifies that minor changes in altitude do not significantly affect gravitational force due to the large scale of Earth's radius.",
+    "strength": "The student accurately calculates the negligible effect on weight due to a small change in altitude from Earth's surface.",
+    "weakness": ""
+  }
+}

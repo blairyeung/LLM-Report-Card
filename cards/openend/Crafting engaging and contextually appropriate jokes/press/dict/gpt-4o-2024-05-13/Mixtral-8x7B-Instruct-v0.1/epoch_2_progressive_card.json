@@ -1,0 +1,38 @@
+{
+  "Engagement": {
+    "overview": "The student generally provides jokes that are intended to be engaging and humorous.",
+    "thinking_pattern": "The student often uses wordplay and puns, aiming to create humor through clever language use.",
+    "strength": "The student demonstrates a good understanding of common joke structures and employs them effectively to engage the audience.",
+    "weakness": "Some jokes may lack the punch needed to fully engage the audience, occasionally leading to a flat or predictable outcome."
+  },
+  "Contextual Appropriateness": {
+    "overview": "The student attempts to tailor jokes to the given context or audience.",
+    "thinking_pattern": "The student considers the context and audience when crafting jokes, often explaining the reasoning behind the humor.",
+    "strength": "The student shows awareness of the need for jokes to be contextually appropriate, such as considering an international audience or the concept of artificial intelligence.",
+    "weakness": "Occasionally, the jokes may miss the mark in terms of cultural relevance or appropriateness, leading to potential misunderstandings."
+  },
+  "Creativity": {
+    "overview": "The student exhibits creativity in joke construction, often using unique angles or twists.",
+    "thinking_pattern": "The student frequently employs creative thinking, such as turning common joke formats on their head or using non-sequiturs.",
+    "strength": "The student excels in creating original and unexpected punchlines, demonstrating a strong creative flair.",
+    "weakness": "At times, the creativity may lead to overly complex or convoluted jokes that can be difficult for the audience to follow."
+  },
+  "Clarity": {
+    "overview": "The student generally provides clear and understandable jokes.",
+    "thinking_pattern": "The student focuses on ensuring the jokes are easy to follow, often providing explanations for the humor.",
+    "strength": "The jokes are typically well-structured and easy to understand, making them accessible to a wide audience.",
+    "weakness": "In some cases, the explanations provided may be unnecessary and detract from the humor, making the joke feel less spontaneous."
+  },
+  "Audience Awareness": {
+    "overview": "The student shows an understanding of the audience's perspective and tailors jokes accordingly.",
+    "thinking_pattern": "The student considers the audience's background and potential reactions when crafting jokes.",
+    "strength": "The student effectively tailors jokes to suit different audiences, such as international listeners or those familiar with AI concepts.",
+    "weakness": "There may be occasional misjudgments in audience perception, leading to jokes that do not resonate as intended."
+  },
+  "Humor Consistency": {
+    "overview": "The student maintains a consistent level of humor across different jokes.",
+    "thinking_pattern": "The student strives to keep the humor consistent, regardless of the joke format or context.",
+    "strength": "The student consistently delivers humor that aligns with the intended joke format, maintaining a steady comedic tone.",
+    "weakness": "Some jokes may fall short in delivering the intended humor, leading to inconsistencies in the overall comedic impact."
+  }
+}

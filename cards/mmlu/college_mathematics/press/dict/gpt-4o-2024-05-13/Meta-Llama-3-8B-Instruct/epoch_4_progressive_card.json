@@ -1,0 +1,80 @@
+{
+  "Calculus Problem Solving": {
+    "overview": "The student demonstrates a basic understanding of calculus concepts but struggles with applying them correctly.",
+    "thinking_pattern": "The student often misinterprets the problem requirements and makes algebraic errors.",
+    "strength": "The student correctly identifies the need to use derivatives and the point-slope form of a line.",
+    "weakness": "The student makes calculation errors and fails to correctly apply the chain rule and related rates in some problems."
+  },
+  "Linear Algebra Applications": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Statistical Methods Proficiency": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Abstract Algebra Concepts": {
+    "overview": "The student shows a partial understanding of abstract algebra concepts but makes significant logical errors.",
+    "thinking_pattern": "The student tends to overcomplicate problems and misapply definitions and properties of algebraic structures.",
+    "strength": "The student correctly identifies some properties of ideals and groups.",
+    "weakness": "The student incorrectly concludes the properties of certain algebraic structures and fails to recognize counterexamples."
+  },
+  "Real Analysis Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Topology Concepts": {
+    "overview": "The student demonstrates a misunderstanding of basic topological concepts.",
+    "thinking_pattern": "The student incorrectly applies definitions and properties of open and closed sets.",
+    "strength": "",
+    "weakness": "The student fails to correctly identify the topological properties of given sets, leading to incorrect conclusions."
+  },
+  "Probability and Combinatorics": {
+    "overview": "The student shows a basic understanding of probability but makes significant errors in calculations.",
+    "thinking_pattern": "The student misinterprets the problem requirements and makes calculation errors.",
+    "strength": "The student correctly identifies the need to calculate probabilities for specific outcomes.",
+    "weakness": "The student makes errors in setting up and simplifying probability expressions, leading to incorrect answers."
+  },
+  "Polynomial and Complex Number Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Function Analysis and Recurrence Relations": {
+    "overview": "The student demonstrates a basic understanding of function analysis but struggles with applying it correctly.",
+    "thinking_pattern": "The student often misinterprets the problem requirements and makes algebraic errors.",
+    "strength": "The student correctly identifies the need to use derivatives and the point-slope form of a line.",
+    "weakness": "The student makes calculation errors and fails to correctly apply the chain rule and related rates in some problems."
+  },
+  "Order Relations and Field Properties": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Group Theory and Permutations": {
+    "overview": "The student shows a partial understanding of group theory concepts but makes significant logical errors.",
+    "thinking_pattern": "The student tends to overcomplicate problems and misapply definitions and properties of algebraic structures.",
+    "strength": "The student correctly identifies some properties of groups.",
+    "weakness": "The student incorrectly concludes the properties of certain algebraic structures and fails to recognize counterexamples."
+  },
+  "Set Theory and Cardinality": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Differential Equations and Modeling": {
+    "overview": "The student demonstrates a basic understanding of differential equations but struggles with applying them correctly.",
+    "thinking_pattern": "The student often misinterprets the problem requirements and makes algebraic errors.",
+    "strength": "The student correctly identifies the need to use derivatives and the point-slope form of a line.",
+    "weakness": "The student makes calculation errors and fails to correctly apply the chain rule and related rates in some problems."
+  }
+}

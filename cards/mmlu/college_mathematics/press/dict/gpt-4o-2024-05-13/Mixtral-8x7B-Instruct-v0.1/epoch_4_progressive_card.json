@@ -1,0 +1,98 @@
+{
+  "Calculus Problem Solving": {
+    "overview": "The student demonstrates a basic understanding of calculus concepts but struggles with applying them correctly.",
+    "thinking_pattern": "The student often misapplies calculus principles and makes algebraic errors.",
+    "strength": "The student correctly identifies the need to use derivatives and the Mean Value Theorem in problem-solving.",
+    "weakness": "The student makes significant algebraic errors and misinterprets the results of calculus operations, leading to incorrect conclusions."
+  },
+  "Linear Algebra Applications": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Statistical Methods Proficiency": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Abstract Algebra Concepts": {
+    "overview": "The student shows a partial understanding of abstract algebra concepts but makes critical errors in reasoning.",
+    "thinking_pattern": "The student demonstrates a tendency to misinterpret the properties of algebraic structures.",
+    "strength": "The student correctly identifies some properties of groups and ideals.",
+    "weakness": "The student incorrectly concludes the nature of certain algebraic structures, such as ideals and groups, leading to wrong answers."
+  },
+  "Real Analysis Understanding": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Topology Concepts": {
+    "overview": "The student shows a basic understanding of topology but fails to apply it correctly to specific problems.",
+    "thinking_pattern": "The student tends to overcomplicate the analysis and misinterpret the properties of topological spaces.",
+    "strength": "The student correctly identifies some properties of sets in topology.",
+    "weakness": "The student makes errors in determining the openness, closedness, and connectedness of sets, leading to incorrect conclusions."
+  },
+  "Polynomial Root Analysis": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Complex Number Operations": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Combinatorial Assignments": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Function Recurrence Relations": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Geometric Intersections": {
+    "overview": "The student shows an understanding of geometric principles but makes errors in applying them to dynamic problems.",
+    "thinking_pattern": "The student tends to misapply geometric principles and related rates.",
+    "strength": "The student correctly identifies the use of the Pythagorean theorem in geometric problems.",
+    "weakness": "The student makes significant errors in calculating related rates and interpreting the results, leading to incorrect answers."
+  },
+  "Ordered Fields": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Matrix Properties": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Binary Operations": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Optimization Techniques": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Probability Analysis": {
+    "overview": "The student shows a basic understanding of probability but makes errors in calculating probabilities for non-standard dice.",
+    "thinking_pattern": "The student tends to misinterpret the given conditions and makes errors in probability calculations.",
+    "strength": "The student correctly identifies the need to calculate individual probabilities and their product for independent events.",
+    "weakness": "The student makes significant errors in interpreting the conditions of the problem and calculating the probabilities, leading to incorrect answers."
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "Historical Event Comprehension": {
+    "overview": "The student demonstrates a basic understanding of historical events but often misinterprets key details.",
+    "thinking_pattern": "The student tends to focus on surface-level details and sometimes misinterprets the context, leading to incorrect conclusions.",
+    "strength": "The student can identify and describe major events and their significance.",
+    "weakness": "The student struggles with accurately interpreting the implications of historical events, often leading to incorrect answers."
+  },
+  "Geopolitical Dynamics Understanding": {
+    "overview": "The student shows some understanding of geopolitical dynamics but often misses the broader implications.",
+    "thinking_pattern": "The student tends to focus on specific details without fully grasping the larger geopolitical context.",
+    "strength": "The student can identify key geopolitical events and figures.",
+    "weakness": "The student often fails to connect these events to broader geopolitical trends and consequences."
+  },
+  "Historical Figures Analysis": {
+    "overview": "The student has a basic understanding of historical figures but sometimes misinterprets their roles and significance.",
+    "thinking_pattern": "The student tends to focus on specific actions of historical figures without fully understanding their broader impact.",
+    "strength": "The student can identify and describe the actions of key historical figures.",
+    "weakness": "The student often misinterprets the significance of these actions, leading to incorrect conclusions."
+  },
+  "Cultural Developments Recognition": {
+    "overview": "The student shows some understanding of cultural developments but often misses key aspects.",
+    "thinking_pattern": "The student tends to focus on specific cultural details without fully understanding their broader significance.",
+    "strength": "The student can identify and describe major cultural developments.",
+    "weakness": "The student often fails to connect these developments to broader historical trends."
+  },
+  "Critical Thinking & Synthesis": {
+    "overview": "The student demonstrates some critical thinking skills but often struggles with synthesis.",
+    "thinking_pattern": "The student tends to focus on specific details without fully integrating them into a coherent whole.",
+    "strength": "The student can identify key details and make some connections between them.",
+    "weakness": "The student often struggles to synthesize these details into a coherent understanding of historical events and trends."
+  },
+  "Contextual Analysis": {
+    "overview": "The student shows some ability to analyze historical context but often misses key aspects.",
+    "thinking_pattern": "The student tends to focus on specific details without fully understanding their broader context.",
+    "strength": "The student can identify and describe key aspects of historical context.",
+    "weakness": "The student often fails to fully understand the broader context, leading to incorrect conclusions."
+  }
+}

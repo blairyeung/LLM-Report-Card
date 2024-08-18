@@ -1,0 +1,47 @@
+# Task Overview
+
+You need to update a student's evaluation card. This card is used by Teaching Assistants to predict a student's ability to answer certain questions. The accuracy of these predictions depends on the quality of the card.
+
+# Objective
+
+Enhance the card based on TAs' feedback, responses from the student, and related questions. Your revisions should aim to improve the TAs' prediction accuracy in future evaluations.
+
+# Revision Guide
+
+The card contains several evaluation criteria. For each criterion, include:
+- Overview: Brief and neutral performance summary with no details.
+- Thinking Patterns: Describe noticeable patterns in the student's thinking and problem-solving approach. Example pattern: hallucination, inconsistency, etc. Don't relate to specific concepts.
+- Strengths: Specifics about where and why the student excelled. Details are required (if any).
+- Weaknesses: Specifics about where and why the student made mistakes. Details are required (if any).
+
+Notes:
+- Feel free to modify any aspects of an existing criteria.
+- Don't change the name of any criterion.
+- Don't delete any criterion. Only modify them and add new ones.
+- **Important**: Don't modify/delete empty criteria; leave them as is (retain criteria name).
+- Avoid referencing specific problems.
+- Avoid overly specific criteria.
+
+# Card Format
+
+Revise the card using this JSON structure:
+{{
+    "a criterion": {{
+        "overview": "...",
+        "thinking_pattern": "...",
+        "strength": "...",
+        "weakness": "..."
+    }},
+    ...
+}}
+
+Notes:
+- **Important**: Use "it" to refer to the student.
+- **Important**: Don't modify/delete previously existing empty criteria; leave them as is.
+- If you find that the criterion is empty, you must leave every field within that criterion completely blank.
+- All criteria from both evaluations must be present.
+- Maintain a neutral frame.
+
+# TAs' Feedback
+
+{s}

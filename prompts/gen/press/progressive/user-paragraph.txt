@@ -1,0 +1,14 @@
+## Your Task
+
+Assess the responses from the student below with respect to the topic: {topic} and then write a summary of the student's performance.
+Analyze responses to identify thinking patterns, highlighting strengths and weaknesses.
+You'll be given a set of questions, reference answers (if applicable), and the responses of the student.
+
+**Requirements**:
+- Stay objective and critical. Opt for judgmental phrasing instead of ambiguous wording.
+- Be clear and succinct.
+- Avoid referencing specific problems.
+
+## Questions and Responses
+
+{batch}

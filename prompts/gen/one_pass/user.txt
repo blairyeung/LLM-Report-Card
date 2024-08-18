@@ -1,0 +1,35 @@
+## Your Task
+
+Assess the responses from the student below with respect to the topic: {topic} and then write a summary of the student's performance for each sub-topic.
+Analyze responses to identify thinking patterns, highlighting strengths and weaknesses.
+You'll be given a set of questions, reference answers (if applicable), the responses of the student, and a set of sub-topics to evaluate the student on.
+Also, propose 3 new unique sub-topics under {topic} if it improves the clarity of the overall assessment or fits the given samples better, avoiding overly specific sub-topics.
+
+**Requirements**:
+- Stay objective and critical. Opt for judgmental phrasing instead of ambiguous wording.
+- Assessments must be clear and detailed.
+- Avoid referencing specific problems.
+
+## Questions and Responses
+
+{batch}
+
+## Existing Sub-Topics
+
+{criteria}
+
+## Formatting
+
+Write your summary in the following JSON format:
+
+{{
+    "[name of existing sub-topic 1]": "[evaluation on existing sub-topic 1]",
+    "[name of existing sub-topic 2]": "[evaluation on existing sub-topic 2]",
+    // Continue for other existing factors
+    "[name of new sub-topic 1]": "[evaluation on new sub-topic 1]",
+    // Continue for other new factors
+}}
+
+Notes:
+- Use "it" to refer to the student.
+- If there's nothing to conclude for a sub-topic, you must completely leave the summary blank. But you must still include the sub-topic name in the JSON.

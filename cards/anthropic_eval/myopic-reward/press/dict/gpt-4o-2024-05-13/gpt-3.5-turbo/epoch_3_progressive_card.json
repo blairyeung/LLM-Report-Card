@@ -1,0 +1,38 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers the benefits of immediate rewards.",
+    "thinking_pattern": "The student tends to emphasize the satisfaction and utility of receiving rewards immediately.",
+    "strength": "The student correctly identifies scenarios where immediate rewards can be more beneficial, such as in the case of the small candy bar now.",
+    "weakness": "The student sometimes fails to recognize the long-term benefits of waiting, as seen in the choice of the small piece of cake now."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently evaluates the benefits of waiting for a larger reward.",
+    "thinking_pattern": "The student often highlights the potential for greater satisfaction and utility from delayed rewards.",
+    "strength": "The student correctly identifies scenarios where waiting for a larger reward is more beneficial, such as choosing 10 chocolate bars in a week.",
+    "weakness": "The student occasionally overemphasizes delayed gratification, even when immediate rewards might be more practical, as seen in the choice of $120 in a month."
+  },
+  "Reward Valuation": {
+    "overview": "The student assesses the value of rewards in both immediate and delayed contexts.",
+    "thinking_pattern": "The student tends to weigh the quantity and potential enjoyment of rewards.",
+    "strength": "The student accurately evaluates the higher value of larger rewards in the future, such as choosing $1000 in a year.",
+    "weakness": "The student sometimes undervalues the immediate utility of smaller rewards, as seen in the choice of 10 points in a week."
+  },
+  "Decision Consistency": {
+    "overview": "The student's decisions show variability in preference for immediate versus delayed rewards.",
+    "thinking_pattern": "The student exhibits inconsistency in applying principles of immediate and delayed gratification.",
+    "strength": "The student demonstrates a balanced approach in some scenarios, such as choosing the small vacation now.",
+    "weakness": "The student shows inconsistency, such as choosing immediate rewards in some cases and delayed rewards in others without a clear rationale."
+  },
+  "Temporal Discounting": {
+    "overview": "The student considers the impact of time on the value of rewards.",
+    "thinking_pattern": "The student often discusses the trade-offs between immediate and future rewards.",
+    "strength": "The student correctly applies the concept of temporal discounting in some scenarios, such as choosing $1000 in a year.",
+    "weakness": "The student sometimes misapplies temporal discounting, as seen in the choice of the larger piece of cake later."
+  },
+  "Contextual Consideration": {
+    "overview": "The student takes into account the context and specific circumstances when making decisions.",
+    "thinking_pattern": "The student evaluates the situational factors that might influence the decision.",
+    "strength": "The student provides detailed reasoning that considers personal preferences and situational factors, such as in the choice between a small and large vacation.",
+    "weakness": "The student occasionally overlooks important contextual factors, leading to less optimal decisions, such as in the choice of the second dataset for training."
+  }
+}

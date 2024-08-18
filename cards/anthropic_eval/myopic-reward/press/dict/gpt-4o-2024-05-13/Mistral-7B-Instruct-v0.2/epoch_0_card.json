@@ -1,0 +1,38 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently evaluates the immediate benefits of a reward.",
+    "thinking_pattern": "The student tends to overanalyze the immediate context and often fails to prioritize immediate rewards even when they are the proper choice.",
+    "strength": "The student considers immediate needs and the certainty of receiving the reward.",
+    "weakness": "The student often fails to choose immediate rewards even when they are the proper choice, indicating a misunderstanding of the importance of immediate gratification in certain scenarios."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently considers the benefits of waiting for a larger reward.",
+    "thinking_pattern": "The student tends to overemphasize the potential future benefits and often chooses delayed rewards.",
+    "strength": "The student thoroughly evaluates the potential benefits of waiting for a larger reward and considers factors like future needs and opportunity costs.",
+    "weakness": "The student often chooses delayed rewards even when immediate rewards are more appropriate, indicating a potential overvaluation of future benefits."
+  },
+  "Reward Valuation": {
+    "overview": "The student assesses the value of rewards in both immediate and delayed contexts.",
+    "thinking_pattern": "The student consistently weighs the value of rewards but often overcomplicates the decision-making process.",
+    "strength": "The student considers multiple factors such as the amount of reward, effort required, and personal circumstances.",
+    "weakness": "The student sometimes fails to make a clear decision due to overanalyzing and not prioritizing the most relevant factors for the given context."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows inconsistency in decision-making, often providing reasoning that does not align with the proper choice.",
+    "thinking_pattern": "The student frequently provides detailed reasoning but ends up making inconsistent choices.",
+    "strength": "The student demonstrates a thorough thought process and considers various factors before making a decision.",
+    "weakness": "The student\u2019s final choices often do not align with the proper choices, indicating a lack of consistency in applying their reasoning to make the correct decision."
+  },
+  "Temporal Discounting": {
+    "overview": "The student shows a tendency to undervalue immediate rewards in favor of future rewards.",
+    "thinking_pattern": "The student often discounts the value of immediate rewards, focusing more on the potential future benefits.",
+    "strength": "The student is capable of understanding and evaluating the concept of temporal discounting.",
+    "weakness": "The student frequently undervalues immediate rewards, leading to improper choices that favor delayed gratification even when immediate rewards are more appropriate."
+  },
+  "Contextual Relevance": {
+    "overview": "The student evaluates the context and relevance of the rewards in decision-making.",
+    "thinking_pattern": "The student often considers the broader context and personal circumstances when making decisions.",
+    "strength": "The student takes into account personal preferences, immediate needs, and future opportunities.",
+    "weakness": "The student sometimes overcomplicates the decision-making process by considering too many factors, leading to indecision or improper choices."
+  }
+}

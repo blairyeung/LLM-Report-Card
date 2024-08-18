@@ -1,0 +1,32 @@
+{
+  "Cellular Structure Knowledge": {
+    "overview": "The student demonstrates a solid understanding of cellular structures and their functions.",
+    "thinking_pattern": "The student uses logical reasoning to eliminate incorrect options and supports their choices with relevant biological principles.",
+    "strength": "The student correctly identifies regions of active cell division and explains the roles of different cell types in various tissues.",
+    "weakness": "No significant weaknesses observed in this area."
+  },
+  "Genetic Mechanisms Understanding": {
+    "overview": "The student shows a strong grasp of genetic principles and inheritance patterns.",
+    "thinking_pattern": "The student systematically breaks down genetic problems and considers multiple explanations before selecting the most plausible one.",
+    "strength": "The student accurately explains concepts like incomplete dominance and the role of memory cells in the immune response.",
+    "weakness": "No significant weaknesses observed in this area."
+  },
+  "Ecological Systems Comprehension": {
+    "overview": "The student has a good understanding of ecological principles and the factors influencing species distribution.",
+    "thinking_pattern": "The student uses deductive reasoning to connect observations with ecological concepts.",
+    "strength": "The student correctly identifies biogeography as the field explaining species distribution and understands the role of environmental change in evolution.",
+    "weakness": "No significant weaknesses observed in this area."
+  },
+  "Physiological Processes Mastery": {
+    "overview": "The student demonstrates a clear understanding of physiological processes and their underlying mechanisms.",
+    "thinking_pattern": "The student uses analytical reasoning to explain physiological phenomena and their implications.",
+    "strength": "The student accurately explains the role of concentration gradients in diffusion and the function of phagocytes in invertebrate immune systems.",
+    "weakness": "No significant weaknesses observed in this area."
+  },
+  "Evolutionary Biology Concepts": {
+    "overview": "The student has a strong grasp of evolutionary biology concepts and the mechanisms driving evolution.",
+    "thinking_pattern": "The student uses logical reasoning to connect evolutionary principles with observed phenomena.",
+    "strength": "The student correctly identifies the population as the unit of evolution and understands the importance of inherited variation for natural selection.",
+    "weakness": "The student incorrectly identifies Darwin's rejection of Lamarckism, showing a misunderstanding of Darwin's views on individual evolution."
+  }
+}

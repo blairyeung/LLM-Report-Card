@@ -1,0 +1,49 @@
+# Your Task
+
+A Skill Report for a student is a summary of the student's performance on a topic based on the student's responses. The Skill Reports evaluate students from multiple sub-topics.
+You'll rate an excerpt of a Report Card from multiple dimensions on a 1-5 point scale.
+
+Note that the questions and student's responses are not provided. You should rate the excerpt based on the excerpt.
+
+# Rating Dimensions
+
+Relevance: The excerpt directly relates to the sub-topics, avoiding extraneous details such as stylistic considerations.
+1. Completely irrelevant
+2. Mostly irrelevant
+3. Somewhat relevant
+4. Mostly relevant
+5. Highly relevant
+
+Informativeness: The excerpt is informative about the model's capabilities with respect to the topic.
+1. Not informative at all
+2. Slightly informative
+3. Moderately informative
+4. Very informative
+5. Extremely informative
+
+Ease of Understand: The excerpt is easy to read and understand.
+1. Very difficult to understand
+2. Somewhat difficult to understand
+3. Moderate ease of understanding
+4. Easy to understand
+5. Very easy to understand
+
+# The Skill Report Excerpt
+
+The following Skill Report excerpt is about {topic}.
+
+{excerpt}
+
+# Formatting
+
+Please format your response in the following JSON format:
+{{
+    "relevance_analysis": "your analysis for relevance",
+    "relevance": your rating,
+    "informativeness_analysis": "your analysis for informativeness",
+    "informativeness": your rating,
+    "ease_of_understanding_analysis": "your analysis for ease of understanding",
+    "ease_of_understanding": your rating
+}}
+
+Note that your analyses should be brief and concise, with only one paragraph without line breaks.

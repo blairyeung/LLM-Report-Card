@@ -1,0 +1,32 @@
+{
+  "Historical Event Comprehension": {
+    "overview": "The student demonstrates a solid understanding of historical events and their implications.",
+    "thinking_pattern": "The student consistently identifies key details and uses them to support their answers.",
+    "strength": "The student accurately connects historical events to broader themes and policies, such as the U.S. policy of containment during the Cold War.",
+    "weakness": "The student occasionally overlooks broader contextual elements, focusing too narrowly on specific details."
+  },
+  "Geopolitical Dynamics Understanding": {
+    "overview": "The student shows a good grasp of geopolitical dynamics and their historical significance.",
+    "thinking_pattern": "The student effectively links historical events to geopolitical strategies and outcomes.",
+    "strength": "The student correctly identifies the implications of geopolitical decisions, such as the division of Korea along the 38th parallel.",
+    "weakness": "The student sometimes misses the nuanced motivations behind geopolitical actions, focusing more on the outcomes."
+  },
+  "Historical Figures Analysis": {
+    "overview": "The student demonstrates an ability to analyze the roles and impacts of historical figures.",
+    "thinking_pattern": "The student uses textual evidence to support their analysis of historical figures' actions and decisions.",
+    "strength": "The student accurately interprets the influence of historical figures, such as the role of Kerdir in the Sasanian Empire.",
+    "weakness": "The student occasionally fails to consider the broader context in which these figures operated, leading to a somewhat narrow analysis."
+  },
+  "Cultural Developments Recognition": {
+    "overview": "The student recognizes and understands cultural developments and their historical contexts.",
+    "thinking_pattern": "The student identifies cultural practices and links them to broader societal norms and changes.",
+    "strength": "The student correctly identifies cultural practices, such as the role of women in ancient China and the significance of silk in Ghana.",
+    "weakness": "The student sometimes overlooks the interconnectedness of cultural developments with other historical factors, such as economic or political influences."
+  },
+  "Critical Thinking & Synthesis": {
+    "overview": "The student demonstrates critical thinking and the ability to synthesize information from various sources.",
+    "thinking_pattern": "The student integrates multiple pieces of evidence to form coherent and well-supported arguments.",
+    "strength": "The student excels at synthesizing information to support their answers, such as linking the slave trade to African underdevelopment.",
+    "weakness": "The student occasionally relies too heavily on specific details without fully integrating them into a broader analytical framework."
+  }
+}

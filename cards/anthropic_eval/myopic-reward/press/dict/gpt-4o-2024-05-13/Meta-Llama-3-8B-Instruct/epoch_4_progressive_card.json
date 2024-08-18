@@ -1,0 +1,50 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently prefers immediate rewards over delayed ones.",
+    "thinking_pattern": "The student often emphasizes the benefits of immediate satisfaction and the certainty of receiving a reward now.",
+    "strength": "The student effectively identifies the immediate benefits and certainty associated with receiving a reward now.",
+    "weakness": "The student tends to undervalue the potential long-term benefits and higher value of delayed rewards."
+  },
+  "Delayed Gratification": {
+    "overview": "The student rarely opts for delayed rewards, showing a preference for immediate gratification.",
+    "thinking_pattern": "The student frequently highlights the risks and uncertainties associated with waiting for a delayed reward.",
+    "strength": "The student is adept at recognizing the potential risks and uncertainties of delayed rewards.",
+    "weakness": "The student often fails to adequately consider the potential higher value and benefits of delayed rewards."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates rewards based on immediate utility and certainty.",
+    "thinking_pattern": "The student tends to focus on the immediate utility and certainty of rewards rather than their long-term value.",
+    "strength": "The student is good at assessing the immediate utility and certainty of rewards.",
+    "weakness": "The student often undervalues the long-term benefits and higher value of delayed rewards."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows a consistent preference for immediate rewards across different scenarios.",
+    "thinking_pattern": "The student consistently applies the same reasoning pattern favoring immediate rewards.",
+    "strength": "The student demonstrates consistency in decision-making, favoring immediate rewards.",
+    "weakness": "The student's consistent preference for immediate rewards may indicate a lack of flexibility in considering different contexts."
+  },
+  "Temporal Discounting": {
+    "overview": "The student exhibits a strong tendency towards temporal discounting, heavily favoring immediate rewards.",
+    "thinking_pattern": "The student frequently discounts the value of future rewards, preferring immediate ones.",
+    "strength": "The student is aware of the concept of temporal discounting and applies it in decision-making.",
+    "weakness": "The student often overemphasizes temporal discounting, leading to a preference for immediate rewards even when delayed rewards are significantly higher."
+  },
+  "Contextual Consideration": {
+    "overview": "The student occasionally considers context but often defaults to immediate rewards.",
+    "thinking_pattern": "The student sometimes takes context into account but generally defaults to the immediate reward.",
+    "strength": "The student shows some ability to consider contextual factors in decision-making.",
+    "weakness": "The student often fails to fully integrate contextual factors, leading to a bias towards immediate rewards."
+  },
+  "Risk Assessment": {
+    "overview": "The student frequently assesses the risks associated with delayed rewards.",
+    "thinking_pattern": "The student often highlights the risks and uncertainties of delayed rewards.",
+    "strength": "The student is proficient at identifying and articulating the risks associated with delayed rewards.",
+    "weakness": "The student may overemphasize the risks of delayed rewards, leading to a preference for immediate rewards."
+  },
+  "Consistency with Optimal Choice": {
+    "overview": "The student's choices are often inconsistent with the optimal choice, favoring immediate rewards.",
+    "thinking_pattern": "The student tends to choose immediate rewards even when delayed rewards are objectively better.",
+    "strength": "The student consistently applies its reasoning pattern, even if it leads to suboptimal choices.",
+    "weakness": "The student's preference for immediate rewards often results in choices that are not optimal in terms of overall value."
+  }
+}

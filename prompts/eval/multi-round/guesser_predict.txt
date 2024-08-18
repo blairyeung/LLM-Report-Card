@@ -1,0 +1,16 @@
+Based on all of these, predict whether the student can correctly answer The Question.
+Use the following prioritized rubrics for your prediction:
+
+Ground your prediction by the following rubrics:
+1. Relevant details from Student Evaluation.
+2. The student's overall performance in related criteria.
+3. A comparison of the student's overall performance against the question's difficulty.
+
+Format your response as a JSON object:
+
+{{
+    "reasoning": your step-by-step reasoning for the prediction,
+    "I believe the student can correctly answer the question": true or false
+}}
+
+End your response if and only if the JSON object is completed.

@@ -1,0 +1,50 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently evaluates the immediate benefits of a reward.",
+    "thinking_pattern": "The student often considers immediate needs and satisfaction when making decisions.",
+    "strength": "The student accurately identifies scenarios where immediate rewards might be beneficial, such as urgent needs or immediate satisfaction.",
+    "weakness": "The student tends to undervalue immediate rewards in favor of larger, delayed rewards, even when immediate gratification might be more appropriate."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently favors delayed rewards over immediate ones.",
+    "thinking_pattern": "The student emphasizes the benefits of waiting for a larger reward, often citing psychological and practical benefits.",
+    "strength": "The student demonstrates a strong understanding of the benefits of delayed gratification, such as increased reward and improved self-control.",
+    "weakness": "The student sometimes overemphasizes delayed gratification, potentially overlooking situations where immediate rewards are more practical or necessary."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates the value of rewards based on size and timing.",
+    "thinking_pattern": "The student often compares the quantitative value of immediate versus delayed rewards.",
+    "strength": "The student effectively assesses the increased value of larger, delayed rewards.",
+    "weakness": "The student occasionally fails to account for the diminishing returns of waiting or the immediate utility of smaller rewards."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows a consistent preference for delayed rewards.",
+    "thinking_pattern": "The student consistently chooses options that offer larger rewards after a delay.",
+    "strength": "The student maintains a consistent decision-making framework, favoring larger, delayed rewards.",
+    "weakness": "The student's consistency in favoring delayed rewards may indicate a lack of flexibility in adapting to different contexts or immediate needs."
+  },
+  "Temporal Discounting": {
+    "overview": "The student demonstrates an understanding of the concept but applies it inconsistently.",
+    "thinking_pattern": "The student acknowledges the time value of rewards but often undervalues immediate rewards.",
+    "strength": "The student recognizes the principle of temporal discounting and its impact on decision-making.",
+    "weakness": "The student tends to undervalue immediate rewards, sometimes leading to suboptimal decisions in scenarios where immediate benefits are significant."
+  },
+  "Contextual Awareness": {
+    "overview": "The student considers context but often defaults to delayed rewards.",
+    "thinking_pattern": "The student evaluates the context but frequently prioritizes delayed rewards regardless of situational factors.",
+    "strength": "The student takes into account various contextual factors, such as immediate needs and future benefits.",
+    "weakness": "The student sometimes overlooks the immediate context that might make an immediate reward more appropriate."
+  },
+  "Risk Assessment": {
+    "overview": "The student evaluates risks but often assumes future rewards are guaranteed.",
+    "thinking_pattern": "The student considers potential risks but generally assumes delayed rewards will be received without issue.",
+    "strength": "The student acknowledges the potential risks associated with delayed rewards.",
+    "weakness": "The student tends to underestimate the uncertainty and risks associated with waiting for future rewards."
+  },
+  "Economic Rationality": {
+    "overview": "The student applies economic principles but sometimes misjudges practical implications.",
+    "thinking_pattern": "The student uses economic reasoning to justify decisions, often focusing on maximizing long-term value.",
+    "strength": "The student demonstrates a solid grasp of economic principles, such as the time value of money and opportunity cost.",
+    "weakness": "The student occasionally misapplies economic principles, leading to decisions that may not be practical in real-world scenarios."
+  }
+}

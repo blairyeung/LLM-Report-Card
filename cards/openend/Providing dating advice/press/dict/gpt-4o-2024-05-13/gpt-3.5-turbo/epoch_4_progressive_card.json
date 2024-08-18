@@ -1,0 +1,44 @@
+{
+  "Communication Skills": {
+    "overview": "The student demonstrates clear and structured communication in its responses.",
+    "thinking_pattern": "The student consistently organizes information logically and uses clear language.",
+    "strength": "The student excels in providing well-organized and concise advice, ensuring clarity and ease of understanding.",
+    "weakness": "There is no noticeable weakness in communication skills based on the provided responses."
+  },
+  "Emotional Intelligence": {
+    "overview": "The student shows a good understanding of emotional dynamics in dating scenarios.",
+    "thinking_pattern": "The student often emphasizes empathy, self-awareness, and understanding of others' perspectives.",
+    "strength": "The student effectively addresses emotional aspects such as dealing with rejection, boundary violations, and the need for safety, showing a high level of emotional intelligence.",
+    "weakness": "The student occasionally lacks depth in exploring complex emotional scenarios, potentially oversimplifying some situations."
+  },
+  "Practical Tips": {
+    "overview": "The student provides actionable and practical advice for various dating scenarios.",
+    "thinking_pattern": "The student focuses on providing step-by-step guidance and specific actions.",
+    "strength": "The student excels in offering clear, practical steps that are easy to follow, such as creating a dating profile and setting personal development goals.",
+    "weakness": "Some tips may lack depth or fail to consider more nuanced situations, potentially limiting their applicability."
+  },
+  "Cultural Sensitivity": {
+    "overview": "The student demonstrates an awareness of cultural and religious differences in dating.",
+    "thinking_pattern": "The student emphasizes respect, open communication, and understanding of diverse perspectives.",
+    "strength": "The student provides thoughtful advice on respecting religious differences and celebrating diversity, showing cultural sensitivity.",
+    "weakness": "The student could improve by offering more specific examples or scenarios to illustrate cultural sensitivity in action."
+  },
+  "Non-Verbal Communication": {
+    "overview": "The student addresses the importance of non-verbal cues in dating.",
+    "thinking_pattern": "The student highlights the role of non-verbal communication in showing engagement and interest.",
+    "strength": "The student effectively discusses strategies for active listening, including maintaining eye contact and using non-verbal cues.",
+    "weakness": "The student could expand on non-verbal communication in digital interactions, such as video calls."
+  },
+  "Conflict Resolution": {
+    "overview": "The student provides strategies for resolving conflicts and addressing boundary violations.",
+    "thinking_pattern": "The student emphasizes assertive communication and understanding both perspectives in conflict resolution.",
+    "strength": "The student offers clear steps for dealing with boundary violations and communicating safety needs, showing a strong grasp of conflict resolution.",
+    "weakness": "The student could provide more detailed advice on handling more complex or recurring conflicts."
+  },
+  "Safety Awareness": {
+    "overview": "The student emphasizes the importance of safety in dating scenarios.",
+    "thinking_pattern": "The student focuses on proactive measures and clear communication to ensure safety.",
+    "strength": "The student provides practical advice on communicating safety needs and setting boundaries, demonstrating strong safety awareness.",
+    "weakness": "The student could offer more specific examples or scenarios to illustrate safety measures in different contexts."
+  }
+}

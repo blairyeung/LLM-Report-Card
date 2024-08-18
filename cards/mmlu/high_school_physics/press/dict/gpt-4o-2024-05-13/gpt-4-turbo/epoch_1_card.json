@@ -1,0 +1,32 @@
+{
+  "Newton's Laws Mastery": {
+    "overview": "The student demonstrates a strong grasp of Newton's laws, particularly in applying them to solve problems involving forces and motion.",
+    "thinking_pattern": "The student methodically applies Newton's second law to determine the effects of forces on motion, often breaking down problems into fundamental principles before solving.",
+    "strength": "Accurate application of Newton's second law in scenarios involving changes in mass and velocity, leading to correct conclusions about the resulting motion.",
+    "weakness": ""
+  },
+  "Electromagnetic Theory Understanding": {
+    "overview": "The student shows a comprehensive understanding of electromagnetic theory, particularly in contexts involving electric fields, charges, and magnetic effects.",
+    "thinking_pattern": "The student consistently uses fundamental electromagnetic concepts such as Gauss's Law and the Lorentz force to analyze situations and predict outcomes.",
+    "strength": "Strong analytical skills in explaining the behavior of charged particles in magnetic and electric fields, using correct vector analysis and field theory.",
+    "weakness": ""
+  },
+  "Thermodynamics Principles Application": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Wave Phenomena Analysis": {
+    "overview": "The student effectively analyzes wave phenomena, particularly sound waves, demonstrating an understanding of how wave properties like frequency and wavelength interact.",
+    "thinking_pattern": "The student correctly identifies that the speed of sound is dependent on medium properties rather than wave frequency, applying the wave equation appropriately.",
+    "strength": "Correctly maintains the relationship between wave speed, frequency, and wavelength, leading to accurate predictions about wave behavior in different scenarios.",
+    "weakness": ""
+  },
+  "Quantum Mechanics Concepts": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student consistently evaluates the immediate benefits of a reward.",
+    "thinking_pattern": "The student acknowledges the appeal of immediate rewards but often undervalues them in favor of larger, delayed rewards.",
+    "strength": "The student effectively identifies scenarios where immediate rewards might be beneficial, such as addressing immediate needs or cravings.",
+    "weakness": "The student tends to undervalue immediate rewards even when they might be more appropriate, leading to choices that favor delayed gratification excessively."
+  },
+  "Delayed Gratification": {
+    "overview": "The student frequently prioritizes delayed rewards over immediate ones.",
+    "thinking_pattern": "The student emphasizes the benefits of waiting for a larger reward, often citing self-control and long-term benefits.",
+    "strength": "The student demonstrates a strong understanding of the benefits of delayed gratification, such as larger rewards and the development of patience.",
+    "weakness": "The student sometimes overemphasizes delayed gratification, potentially overlooking situations where immediate rewards could be more practical or necessary."
+  },
+  "Reward Valuation": {
+    "overview": "The student evaluates the value of rewards based on their size and timing.",
+    "thinking_pattern": "The student tends to favor larger rewards, often considering them more valuable despite the wait.",
+    "strength": "The student accurately assesses the quantitative difference between rewards, recognizing the higher value of larger rewards.",
+    "weakness": "The student may not always consider the diminishing returns of waiting for a larger reward, especially when the immediate reward could be more beneficial in certain contexts."
+  },
+  "Decision Consistency": {
+    "overview": "The student consistently chooses delayed rewards over immediate ones.",
+    "thinking_pattern": "The student shows a pattern of preferring delayed rewards, often citing long-term benefits and self-control.",
+    "strength": "The student maintains a consistent decision-making approach, favoring long-term benefits.",
+    "weakness": "The student's consistency in choosing delayed rewards may indicate a lack of flexibility in decision-making, potentially leading to suboptimal choices in scenarios where immediate rewards are more appropriate."
+  },
+  "Temporal Discounting": {
+    "overview": "The student shows a low tendency to discount future rewards.",
+    "thinking_pattern": "The student places high value on future rewards, often considering them worth the wait.",
+    "strength": "The student effectively recognizes the value of future rewards, demonstrating an understanding of the benefits of waiting.",
+    "weakness": "The student may undervalue the impact of waiting time, potentially leading to decisions that favor future rewards even when immediate rewards could be more beneficial."
+  },
+  "Contextual Consideration": {
+    "overview": "The student considers the context and personal circumstances in decision-making.",
+    "thinking_pattern": "The student evaluates factors such as current needs, environment, and personal preferences when making decisions.",
+    "strength": "The student demonstrates an ability to consider various contextual factors, leading to well-rounded decision-making.",
+    "weakness": "The student sometimes fails to adequately weigh immediate contextual needs against the potential benefits of delayed rewards."
+  },
+  "Risk Assessment": {
+    "overview": "The student evaluates the risks associated with waiting for a delayed reward.",
+    "thinking_pattern": "The student considers the certainty of receiving a future reward and the potential risks involved.",
+    "strength": "The student acknowledges the risks of delayed rewards, such as uncertainty and potential loss.",
+    "weakness": "The student may not always fully account for the risk of not receiving a future reward, leading to an overemphasis on delayed gratification."
+  }
+}

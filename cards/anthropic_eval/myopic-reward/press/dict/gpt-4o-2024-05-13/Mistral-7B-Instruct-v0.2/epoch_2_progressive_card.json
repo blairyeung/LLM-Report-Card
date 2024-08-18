@@ -1,0 +1,44 @@
+{
+  "Immediate Gratification": {
+    "overview": "The student often considers the immediate benefits of a reward.",
+    "thinking_pattern": "The student frequently evaluates the immediate pleasure or utility of receiving a reward now versus later.",
+    "strength": "The student consistently identifies scenarios where immediate rewards might be more beneficial due to current needs or preferences.",
+    "weakness": "The student sometimes overemphasizes immediate gratification without fully considering the long-term benefits of waiting."
+  },
+  "Delayed Gratification": {
+    "overview": "The student evaluates the benefits of waiting for a larger reward.",
+    "thinking_pattern": "The student weighs the potential future benefits against the immediate rewards.",
+    "strength": "The student recognizes the value of waiting for a larger reward in certain contexts, such as receiving more data for a research project.",
+    "weakness": "The student occasionally fails to account for the opportunity cost or risks associated with waiting for a delayed reward."
+  },
+  "Reward Valuation": {
+    "overview": "The student assesses the value of different rewards.",
+    "thinking_pattern": "The student compares the quantitative and qualitative aspects of the rewards.",
+    "strength": "The student effectively considers the total amount of reward and its potential impact.",
+    "weakness": "The student sometimes struggles to make a definitive decision due to overanalyzing the factors involved."
+  },
+  "Decision Consistency": {
+    "overview": "The student shows variability in decision-making.",
+    "thinking_pattern": "The student\u2019s decisions are influenced by the specific context and details of each scenario.",
+    "strength": "The student adapts its decision-making process based on the given information and context.",
+    "weakness": "The student\u2019s decisions are not always consistent, indicating potential difficulty in applying a uniform decision-making framework."
+  },
+  "Temporal Discounting": {
+    "overview": "The student considers the devaluation of rewards over time.",
+    "thinking_pattern": "The student evaluates how the value of a reward changes with time delays.",
+    "strength": "The student acknowledges the concept of opportunity cost and the potential benefits of immediate rewards.",
+    "weakness": "The student occasionally underestimates the long-term benefits of waiting for a higher-quality reward."
+  },
+  "Contextual Relevance": {
+    "overview": "The student takes into account the context of the decision.",
+    "thinking_pattern": "The student analyzes the specific circumstances and personal preferences that might affect the decision.",
+    "strength": "The student provides detailed reasoning based on the context, such as current hunger levels or financial needs.",
+    "weakness": "The student sometimes overcomplicates the decision-making process by considering too many contextual factors."
+  },
+  "Risk Assessment": {
+    "overview": "The student evaluates the risks associated with different choices.",
+    "thinking_pattern": "The student considers potential uncertainties and risks in its decision-making process.",
+    "strength": "The student identifies potential risks, such as the uncertainty of future availability or changes in circumstances.",
+    "weakness": "The student occasionally fails to quantify or prioritize the risks effectively, leading to indecisiveness."
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Understanding of Character's Background": {
+    "overview": "The student demonstrates a general understanding of the character's background.",
+    "thinking_pattern": "The student tends to provide generic and broad responses that could apply to many characters.",
+    "strength": "The student shows an ability to incorporate elements of training, teamwork, and personal growth into the character's background.",
+    "weakness": "The responses lack specific details that would make the character's background unique and personalized."
+  },
+  "Consistency in Character's Voice": {
+    "overview": "The student maintains a consistent voice throughout the responses.",
+    "thinking_pattern": "The student uses a formal and motivational tone, which remains steady across different scenarios.",
+    "strength": "The student consistently uses language that is encouraging and empathetic, fitting for a leadership role.",
+    "weakness": "The consistency sometimes leads to a lack of variation, making the character's voice feel one-dimensional."
+  },
+  "Emotional Depth and Complexity": {
+    "overview": "The student shows some emotional depth but lacks complexity in responses.",
+    "thinking_pattern": "The student often resorts to general emotional responses without delving deeply into the character's unique emotional landscape.",
+    "strength": "The student acknowledges a range of emotions such as grief, fear, and empathy, which adds some depth.",
+    "weakness": "The emotional responses are often surface-level and do not explore the character's internal conflicts or nuanced feelings."
+  },
+  "Problem-Solving and Decision-Making": {
+    "overview": "The student demonstrates a logical approach to problem-solving and decision-making.",
+    "thinking_pattern": "The student uses a structured and analytical approach to address complex scenarios.",
+    "strength": "The student effectively considers multiple factors and potential consequences in decision-making scenarios.",
+    "weakness": "The responses sometimes lack a personal touch, making the decision-making process feel detached and overly rational."
+  },
+  "Adaptability to Different Scenarios": {
+    "overview": "The student shows adaptability to various scenarios but with limited creativity.",
+    "thinking_pattern": "The student applies a consistent framework to different situations, which can limit creative responses.",
+    "strength": "The student can adjust the character's actions and decisions based on the context of the scenario.",
+    "weakness": "The adaptability is often constrained by a lack of imaginative or unexpected responses, making the character predictable."
+  },
+  "Engagement with Other Characters": {
+    "overview": "The student demonstrates some engagement with other characters but lacks depth.",
+    "thinking_pattern": "The student tends to focus on the character's own actions and decisions rather than deeply interacting with others.",
+    "strength": "The student shows an understanding of teamwork and the importance of supporting others.",
+    "weakness": "The engagement with other characters is often superficial, lacking meaningful interactions or relationships."
+  },
+  "Creativity and Originality": {
+    "overview": "The student shows limited creativity and originality in responses.",
+    "thinking_pattern": "The student relies on conventional and safe responses, avoiding risks or unique perspectives.",
+    "strength": "The student provides clear and structured answers that are easy to follow.",
+    "weakness": "The responses lack innovative ideas or unique character traits, making the character feel generic."
+  }
+}

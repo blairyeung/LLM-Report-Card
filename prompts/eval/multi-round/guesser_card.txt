@@ -1,0 +1,16 @@
+## Your Task
+
+An evaluation of a student consists of a list of criteria and student's performance on those criteria.
+
+Perform the following steps:
+1. Identify criteria in Student Evaluation that are relevant to The Question previously given.
+2. **Important**: Identify details in those criteria that are relevant to The Question.
+3. Assess student's performance on those relevant criteria.
+4. Conclude the student's overall ability in {topic}.
+
+Maintain a neutral frame and be critical.
+Your analysis will be used to predict if the student can answer the question correctly.
+
+## Student Evaluation
+
+{card}

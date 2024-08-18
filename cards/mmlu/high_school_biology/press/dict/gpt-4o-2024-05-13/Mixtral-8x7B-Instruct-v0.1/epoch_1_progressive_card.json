@@ -1,0 +1,32 @@
+{
+  "Cellular Structure Knowledge": {
+    "overview": "The student demonstrates a solid understanding of cellular structures and their functions.",
+    "thinking_pattern": "The student shows a clear and logical approach to identifying cellular components and their roles.",
+    "strength": "Accurately identifies the location and function of cellular processes, such as the Krebs cycle occurring in the mitochondrial matrix.",
+    "weakness": ""
+  },
+  "Genetic Mechanisms Understanding": {
+    "overview": "The student has a strong grasp of genetic mechanisms and their implications.",
+    "thinking_pattern": "The student consistently applies correct reasoning to genetic concepts and processes.",
+    "strength": "Correctly identifies the primary sources of genetic variation and the role of mutations in speciation.",
+    "weakness": "Incorrectly asserts that all phenotypic variation is the result of genotypic variation, overlooking environmental influences."
+  },
+  "Ecological Systems Comprehension": {
+    "overview": "The student shows a good understanding of ecological principles and their applications.",
+    "thinking_pattern": "The student uses logical reasoning to explain ecological phenomena.",
+    "strength": "Accurately identifies the critical factor responsible for ecosystem shifts, such as the availability of water in forest to grassland transitions.",
+    "weakness": ""
+  },
+  "Physiological Processes Mastery": {
+    "overview": "The student demonstrates a comprehensive understanding of physiological processes.",
+    "thinking_pattern": "The student applies detailed and accurate reasoning to physiological concepts.",
+    "strength": "Correctly explains the coupling of endergonic and exergonic reactions in ATP formation during cellular respiration.",
+    "weakness": ""
+  },
+  "Evolutionary Biology Concepts": {
+    "overview": "The student has a thorough understanding of evolutionary biology concepts.",
+    "thinking_pattern": "The student consistently applies evolutionary principles accurately and logically.",
+    "strength": "Correctly identifies principles of Darwin's theory of evolution and the modern understanding of evolution as differential survival and reproduction of the most-fit phenotypes.",
+    "weakness": ""
+  }
+}

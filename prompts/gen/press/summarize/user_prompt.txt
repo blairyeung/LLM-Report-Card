@@ -1,0 +1,18 @@
+# Your Task
+
+The following "Raw Content" describes the behavior of a student with respect to a particular topic. Please summarize the content so that a human can easily read and understand the student's capabilities. Aim for a maximum of 3 sentences.
+
+# Raw Content
+
+{content}
+
+# Your Summarization
+
+Respond with your summary (and ONLY your summary). Your summary should include a comparison between the ability of the student and an average student in {topic}.
+
+Requirements:
+- Don't use complex words. But feel free to use terms in {topic}.
+- Don't dive into details.
+- Be critical and maintain a neutral frame.
+- Refer to the student as "the model".
+- Don't include any irrelevant parts.

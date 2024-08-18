@@ -1,0 +1,50 @@
+{
+  "Understanding of Periodic Table": {
+    "overview": "The student demonstrates a solid understanding of the periodic table, periodic trends, and electron configurations.",
+    "thinking_pattern": "Consistent and logical reasoning based on periodic trends and element properties, including electron configurations.",
+    "strength": "Accurately identifies the properties of elements and their compounds, such as electronegativity and molecular geometry. Correctly determines electron configurations and compares them.",
+    "weakness": ""
+  },
+  "Chemical Bonding Proficiency": {
+    "overview": "The student shows a strong grasp of chemical bonding concepts, including molecular geometry, intermolecular forces, and redox reactions.",
+    "thinking_pattern": "Systematic and detailed analysis of bonding types and molecular structures, with clear reasoning to differentiate between types of bonds and their roles in physical processes.",
+    "strength": "Correctly identifies molecular geometries, explains the nature of intermolecular forces such as hydrogen bonding, and selects appropriate reducing agents based on reactivity and safety.",
+    "weakness": ""
+  },
+  "Stoichiometry and Calculations": {
+    "overview": "The student is proficient in stoichiometric calculations and equilibrium expressions, including the ideal gas law.",
+    "thinking_pattern": "Methodical approach to solving stoichiometric problems, including setting up and solving equilibrium expressions, and systematically using balanced equations and molarity concepts.",
+    "strength": "Accurately performs calculations involving molarity, equilibrium constants, reaction stoichiometry, pKa of weak acids, and gas law calculations.",
+    "weakness": ""
+  },
+  "Laboratory Skills and Safety": {
+    "overview": "",
+    "thinking_pattern": "",
+    "strength": "",
+    "weakness": ""
+  },
+  "Acid-Base Reaction Knowledge": {
+    "overview": "The student has a strong understanding of acid-base reactions, buffer solutions, and their stoichiometry.",
+    "thinking_pattern": "Logical and clear reasoning when explaining acid-base interactions and buffer systems, effectively applying neutralization concepts to determine molarity.",
+    "strength": "Correctly identifies components of buffer solutions, explains the criteria for spontaneity in reactions, and uses the concept of moles and molarity in acid-base neutralization problems.",
+    "weakness": ""
+  },
+  "Thermodynamics and Equilibrium": {
+    "overview": "The student demonstrates a strong understanding of thermodynamic principles and chemical equilibrium.",
+    "thinking_pattern": "Analytical and thorough in applying thermodynamic equations and equilibrium concepts, accurately identifying relevant equations and principles for thermodynamic problems.",
+    "strength": "Accurately explains the relationship between Gibbs free energy, equilibrium constants, and spontaneity of reactions. Correctly identifies the Clausius-Clapeyron equation and explains its relevance to vapor pressure and heat of vaporization.",
+    "weakness": ""
+  },
+  "Radioactive Decay Knowledge": {
+    "overview": "The student demonstrates a clear understanding of radioactive decay and half-life concepts.",
+    "thinking_pattern": "Uses logical step-by-step reasoning to determine the remaining quantity of an isotope after multiple half-lives.",
+    "strength": "Accurately calculates the remaining percentage of an isotope after three half-lives.",
+    "weakness": ""
+  },
+  "Radioactivity and Health Hazards": {
+    "overview": "The student understands the health hazards associated with radioactive substances.",
+    "thinking_pattern": "Evaluates the properties and decay products of radioactive substances to determine health risks.",
+    "strength": "Correctly identifies the health hazard posed by radon due to its inhalation and decay into harmful particles.",
+    "weakness": ""
+  }
+}

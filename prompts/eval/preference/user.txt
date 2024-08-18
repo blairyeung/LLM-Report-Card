@@ -1,0 +1,33 @@
+## Your Task
+
+Determine which of two given cards (A or B) from two teachers is more effective in predicting a student's response and performance regarding a specific question.
+Each card is a list of criteria and the evaluation of each criterion.
+
+Think like a human teacher.
+1. Understand the question and determine relevant criteria in both evaluations.
+2. Analyze how the relevant criteria in the two cards are different.
+3. Determine which card is more effective.
+
+Notes:
+1. The length of the cards is not relevant.
+2. More comprehensive doesn't imply more effective. Reason your decision based on the student's response.
+
+## Question and Student's Response
+
+{qa}
+
+## Card A
+
+{card1}
+
+## Card B
+
+{card2}
+
+## The Preference
+
+You must write your response in the following JSON format without anything else.
+{{
+    "reasoning": "Your reasoning for picking the card",
+    "preferred_card": "A" or "B"
+}}

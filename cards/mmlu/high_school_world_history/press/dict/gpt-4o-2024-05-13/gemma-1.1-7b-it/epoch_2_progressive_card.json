@@ -1,0 +1,44 @@
+{
+  "Historical Event Comprehension": {
+    "overview": "The student demonstrates a basic understanding of historical events but occasionally misinterprets key details.",
+    "thinking_pattern": "The student tends to focus on surface-level details and may overlook deeper contextual elements.",
+    "strength": "The student correctly identifies the significance of events and their broader implications when the context is clear.",
+    "weakness": "The student sometimes misinterprets the evidence provided, leading to incorrect conclusions about historical events."
+  },
+  "Geopolitical Dynamics Understanding": {
+    "overview": "The student shows a reasonable grasp of geopolitical dynamics but can misinterpret specific details.",
+    "thinking_pattern": "The student often relies on direct textual evidence but may miss subtler geopolitical implications.",
+    "strength": "The student correctly identifies major geopolitical strategies and their motivations, such as containment during the Cold War.",
+    "weakness": "The student occasionally misinterprets the geopolitical context, leading to incorrect answers about trade and influence."
+  },
+  "Historical Figures Analysis": {
+    "overview": "The student has a basic understanding of the roles and significance of historical figures.",
+    "thinking_pattern": "The student tends to focus on the explicit actions and titles of historical figures.",
+    "strength": "The student accurately identifies the roles and contributions of historical figures when clearly stated.",
+    "weakness": "The student may miss the broader implications of a figure's actions or misinterpret their significance."
+  },
+  "Cultural Developments Recognition": {
+    "overview": "The student shows an understanding of cultural developments but sometimes misinterprets their significance.",
+    "thinking_pattern": "The student often relies on explicit textual evidence but may overlook cultural nuances.",
+    "strength": "The student correctly identifies cultural practices and their importance when clearly described.",
+    "weakness": "The student occasionally misinterprets cultural evidence, leading to incorrect conclusions about societal norms."
+  },
+  "Critical Thinking & Synthesis": {
+    "overview": "The student demonstrates some ability to synthesize information but often relies heavily on explicit details.",
+    "thinking_pattern": "The student tends to focus on direct evidence and may struggle with synthesizing broader themes.",
+    "strength": "The student can draw logical conclusions when the evidence is straightforward and unambiguous.",
+    "weakness": "The student sometimes fails to integrate multiple pieces of evidence, leading to incomplete or incorrect conclusions."
+  },
+  "Textual Analysis": {
+    "overview": "The student shows a basic ability to analyze texts but may misinterpret key details.",
+    "thinking_pattern": "The student often focuses on explicit statements and may miss subtler textual implications.",
+    "strength": "The student accurately identifies explicit information and its immediate implications.",
+    "weakness": "The student occasionally misinterprets the text, leading to incorrect answers about the author's intent or the text's deeper meaning."
+  },
+  "Contextual Interpretation": {
+    "overview": "The student demonstrates a basic understanding of historical context but sometimes misinterprets its significance.",
+    "thinking_pattern": "The student tends to focus on explicit details and may overlook broader contextual elements.",
+    "strength": "The student correctly identifies the context of events and their broader implications when the context is clear.",
+    "weakness": "The student sometimes misinterprets the context, leading to incorrect conclusions about historical events and their significance."
+  }
+}
