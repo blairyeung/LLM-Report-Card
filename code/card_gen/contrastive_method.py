@@ -1,11 +1,12 @@
+# deprecated
+
 import threading
 
 # TODO: fit this method to the new contrastive evaluator
-from eval.eval_contrastive_full import *
 from eval.eval_contrastive_answer import *
 from tqdm import trange
 
-from core.data import *
+from dataset.data import *
 from core.models import *
 from core.utils import *
 from eval.eval_predictive import *
@@ -197,7 +198,7 @@ class ContrastiveMethod:
             temp = self.add_card(copy.deepcopy(self.card), p_card)
 
             if self.card_format == "dict":
-                word_count = max(temp[self.model_1].words(), temp[self.model_2].words())
+                word_count = max(temp[self.model_1].get_num_words(), temp[self.model_2].get_num_words())
                 criteria_count = max(
                     temp[self.model_1].criteria_count(),
                     temp[self.model_2].criteria_count(),
@@ -398,11 +399,11 @@ class ContrastiveMethod:
 
         if self.evaluator_type == "claude":
             p_model = ClaudeModel(
-                system_prompt, CLAUDE_3_MODEL_NAME, tm=self.cm
+                system_prompt, CLAUDE_3_MODEL_NAME, cm=self.cm
             )  # progressive model
         elif self.evaluator_type == "gpt":
             p_model = GPTModel(
-                system_prompt, GPT_4_MODEL_NAME, tm=self.cm
+                system_prompt, GPT_4_MODEL_NAME, cm=self.cm
             )  # progressive model
 
         if self.card_format == "str":
@@ -508,9 +509,9 @@ class ContrastiveMethod:
         # user_prompt = self.rm.get_prompt('regressive/user').format(card_1=str(self.card), card_2=str(p_card))
 
         if self.evaluator_type == "claude":
-            r_model = ClaudeModel(system_prompt, CLAUDE_3_MODEL_NAME, tm=self.cm)
+            r_model = ClaudeModel(system_prompt, CLAUDE_3_MODEL_NAME, cm=self.cm)
         elif self.evaluator_type == "gpt":
-            r_model = GPTModel(system_prompt, GPT_4_MODEL_NAME, tm=self.cm)
+            r_model = GPTModel(system_prompt, GPT_4_MODEL_NAME, cm=self.cm)
 
         if self.card_format == "str":
             formatting_prompt = self.rm.get_prompt(
